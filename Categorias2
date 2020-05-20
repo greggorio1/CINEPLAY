@@ -1,4 +1,3 @@
-
 <channels>
 <channel>
 <name>FILMES</name>
@@ -16,14 +15,14 @@
 
 <channels>
 <channel>
-<name> SÉRIES</name>
+<name>SÉRIES</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - MELHORES SÉRIES PARA VOCÊ- [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - SÉRIES ENCONTRADAS NA INTERNET - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -35,6 +34,20 @@
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - DIVERSÃO PARA A CRIANÇADA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+<externallink>https://</externallink>
+<fan
 <info>
 
 

@@ -8,13 +8,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
 <item>
-<title>[B]MATRIX  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ibzn_ltO42uinQIUKl20_TWHNVVoGt5A/view[COLOR lime](RESOLUÇÃO)[/COLOR] - MATRIX 1</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,665,1000_AL_.jpg </thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BMTkyODYyMTI1N15BMl5BanBnXkFtZTcwNDU3MTIxNA@@._V1_.jpg</fanart>
-<info></info>
+<title>MATRIX COLEÇÕES</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ibzn_ltO42uinQIUKl20_TWHNVVoGt5A/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - MATRIX 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gvSEY4L5mIVPAHHkeMkoDeRBOqFx1aQt/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - MATRIX 3</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,665,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNzM4OTkzMjcxOF5BMl5BanBnXkFtZTgwMTkxMjI1MTI@._V1_SX1777_CR0,0,1777,738_AL_.jpg</fanart>
+<info>Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix</info>
 <genre></genre>
+</item>
+
 
 
 

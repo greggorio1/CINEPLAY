@@ -1,8 +1,25 @@
-<channels>
+ <channels>
 <channel>
-<name>COLETÂNEAS</name>
+<name>LANÇAMENTOS</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Teste</externallink>
+<externallink>https://</externallink>
+
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES LANÇADOS ESSE ANO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ 
+ <channels>
+<channel>
+<name>TRILOGIAS</name>
+<thumbnail>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Teste </thumbnail>
+<externallink>https://</externallink>
 
 <fanart></fanart>
 <info>
@@ -12,4 +29,52 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ <channels>
+<channel>
+<name>GUERRA</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES DE GUERRA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ <channels>
+<channel>
+<name>AÇÃO</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - MELHORES FILMES DE AÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ <channels>
+<channel>
+<name>PEDIDOS</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - PEDIDOS DOS CLIENTES - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

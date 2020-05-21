@@ -10,3 +10,19 @@
 <genre></genre>
 </item>
 
+<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
+
+<item>
+<title>IRMÃO DO JOREL</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tVtALif67_oCZHtIy1GToECoHR1up8LF/view$$lsname=[COLOR lime]hd[/COLOR] - EP 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RGCtu26pPJ7zuWyx6LuK-y3cZMnISP_e/view$$lsname=[COLOR lime]hd[/COLOR] - EP 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1btKnj243o03QoRvyDumdCe32clB7-s_p/view$$lsname=[COLOR lime]hd[/COLOR] - EP 3</link>
+<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>

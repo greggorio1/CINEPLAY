@@ -1,48 +1,50 @@
-<item>
-<title>[B]INDEPENDENCIE DAY 2 - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gxsjrzt1MwcGzXhLlPJMR5nhvHC-23Yf/view</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>TESTE</info>
-<genre>FICÇÃO</genre>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
+MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 
 <item>
-<title>MATRIX COLEÇÕES</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ibzn_ltO42uinQIUKl20_TWHNVVoGt5A/view name=[COLOR lime](RESOLUÇÃO)[/COLOR] - MATRIX 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gvSEY4L5mIVPAHHkeMkoDeRBOqFx1aQt/view name=[COLOR lime](RESOLUÇÃO)[/COLOR] - MATRIX 3</link>
+<title>[B]MATRIX  - [COLOR yellow](1999/2003)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ibzn_ltO42uinQIUKl20_TWHNVVoGt5A/view name$$lsname=[COLOR lime](HD/SD)[/COLOR] - MATRIX 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gvSEY4L5mIVPAHHkeMkoDeRBOqFx1aQt/view $$lsname=[COLOR lime](HD/SD)[/COLOR] - MATRIX 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gvSEY4L5mIVPAHHkeMkoDeRBOqFx1aQt/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - MATRIX 3</link>
+<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,665,1000_AL_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BNzM4OTkzMjcxOF5BMl5BanBnXkFtZTgwMTkxMjI1MTI@._V1_SX1777_CR0,0,1777,738_AL_.jpg</fanart>
 <info>Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix</info>
-<genre></genre>
+<genre>FICÇÃO</genre>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 
 <item>
-<title>RESIDENT EVIL</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CclK3HBNU-8ezfaiCwbVxd0lpyHFgfM1/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - RESIDENT EVIL 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OPDwg0EQEzqeBjvkXI_e9XuHRhSJnEk-/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - RESIDENT EVIL 2</link>
+<title>[B]RESIDENT EVIL [COLOR yellow](2006/2017)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CclK3HBNU-8ezfaiCwbVxd0lpyHFgfM1/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - RESIDENT EVIL 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OPDwg0EQEzqeBjvkXI_e9XuHRhSJnEk-/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - RESIDENT EVIL 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w-7las2yc6tM29OjO0N3V0crRnSA9BgV/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - RESIDENT EVIL 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YO7R3s8FbqccHD4J60wZVrMo7c__rC16/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - RESIDENT EVIL 4</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12IWVpgTs3Qv_24aIz4rRBdxGfChoMqDu/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - RESIDENT EVIL 5</link>
+<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BMjczYTRjN2UtYWJlMC00MWJmLTljMmYtNTIxOThjNTFiZTQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQzMzU2ODI@._V1_.jpg</fanart>
 <info>Alice e Rain Ocampo têm a missão de destruir um laboratório genético operado pela poderosa corporação Umbrella, um dos maiores conglomerados do mundo, onde um vírus foi disseminado, matando seu criador e ressurgindo como uma criatura demoníaca, que sente uma fome incontrolável e transforma todas as suas vítimas em zumbis. O time ...</info>
 <genre>FICÇÃO</genre>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 
 <item>
-<title>[B] ANIMAIS FANTÁSTICOS E ONDE HABITAM [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>https://drive.google.com/file/d/1wFrk7TyKYq78LoPTFRaGFI3S0ACPYOgf/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - ANIMAIS FANTASTICOS 1</link>
-<link>https://drive.google.com/file/d/1HZfDsVgSkFGQXRK8rGg-9wYqObXke0hH/view$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - ANIMAIS FANTASTICOS 2</link>
-<thumbnail>https://m.imdb.com/title/tt3183660/mediaviewer/rm3713797376</thumbnail>
+<title>[B]ANIMAIS FANTASTICOS E ONDE HABITAM  - [COLOR yellow](2016/2019)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wFrk7TyKYq78LoPTFRaGFI3S0ACPYOgf/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - LANIMAIS FANTASTICOS E ONDEM HABITAM 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HZfDsVgSkFGQXRK8rGg-9wYqObXke0hH/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - ANIMAIS FANTASTICOS E ONDEM HABITAM 2</link>
+<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
+<thumbnail>https://lh4.googleusercontent.com/proxy/g7pPBd5BbRs2t3_8DxoSR7-tjV0lkXdYt6Zxl8SuYzR07ZkPQIzhH6ct-ZvujwshZm5mx84ESy-m019nMeFgws9fD9XAjvV3IVLRNt5q-9UOSBwQnvX7TUoTcg6vLIya9ddQPaVbHvIZaKOrTIE3KDL8VoptXpBPWviRDSUiBp6gPg=w270-h400.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</fanart>
 <info>Um excêntrico magizoologista carrega uma maleta cheia de animais mágicos coletados durante suas viagens pelo mundo. As criaturas acabam saindo de sua mala em Nova York, e agora ele precisa usar suas habilidades para capturá-las.</info>
-<genre>Ficção/Magia</genre>
+<genre></genre>
 </item>
+
 
 
 

@@ -76,14 +76,42 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 
 
 <item>
-<title>[B]biblia [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>https://download.canais.info/d/RCServer08/ondemand/ABLIAT01CP05.mp4?expires=1590159028&token=ca9f9ca836fb13b3f62fe9c6134ef58b</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[B]HALLOWEN[COLOR yellow](1985/2018)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kkLJHWiFwTCdzxSZjKgCPnW0fJ2vEbU3/view$$lsname=[COLOR lime](HD)[/COLOR] - HALLOWEN 4</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BtfMryfDhk4SzubNOa1DdWKvC6nt8Cti/view$$lsname=[COLOR lime](HD)[/COLOR] - HALLOWEN 5</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J_grab9us3WCW4Sis_0FHHnOND_U4U2M/view$$lsname=[COLOR lime](HD)[/COLOR] - HALLOWEN 6</link>
+<link>URL AQUI$$lsname=[COLOR lime](HD)[/COLOR] - LINK 3</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmMzNjJhYjUtNzFkZi00MWQ4LWJiMDEtYWM0NTAzNGZjMTI3XkEyXkFqcGdeQXVyOTE2OTMwNDk@._V1_.jpg</thumbnail>
+<fanart> https://m.media-amazon.com/images/M/MV5BMjQwMDk1Nzc2N15BMl5BanBnXkFtZTgwNTczMjcyNjM@._V1_SY1000_CR0,0,666,1000_AL_.jpg</fanart>
+<info>Quatro década depois de escapar do ataque de Michael Myers em uma noite de Halloween, Laurie Strode precisa confrontar o assassino mascarado mais uma vez após ele escapar de uma instituição. Mas, agora Laurie está preparada.</info>
+<genre>SERIAL KILLER</genre>
+</item>
+
+
+<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[B]GUARDIOES DA GALAXIA[COLOR yellow](2014)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_j4d8dgZNLdM1B4cTU1MHpmeXM/view$$lsname=[COLOR lime](HD)[/COLOR] - GUARDIOES DA GALAXIA 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_j4d8dgZNLdR0FxbXlETWItMUU/view$$lsname=[COLOR lime](HD)[/COLOR] - GUARDIOES DA GALAXIA 2</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM1OTc3NTc1OF5BMl5BanBnXkFtZTgwNzM2ODg5MTE@._V1_SY1000_CR0,0,685,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjM1OTc3NTc1OF5BMl5BanBnXkFtZTgwNzM2ODg5MTE@._V1_SY1000_CR0,0,685,1000_AL_.jpg</fanart>
+<info>O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverão proteger o objeto para salvar o futuro da galáxia.</info>
 <genre></genre>
 </item>
 
+<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[B]ALIEN VS PREDADOR - [COLOR yellow](2004/2007)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12pc_vDGzoZcFKMq3jUoG6g6tDb9zXT73/view$$lsname=[COLOR lime](HD)[/COLOR] - ALIEN VS PREDADOR 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/19wk0MSZy-KYUPerF8i17Zg8E-estZnaN/view$$lsname=[COLOR lime](HD)[/COLOR] - ALIEN VS PREDADOR 2</link>
+<link>URL AQUI$$lsname=[COLOR lime](HD)[/COLOR] - LINK 3</link>
+<thumbnail> https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_.jpg</thumbnail>
+<fanart> https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_.jpg</fanart>
+<info>Os satélites do bilionário Charles Bishop Weyland detectam uma pirâmide enterrada sob o gelo antártico e ele monta uma equipe de cientistas, arqueólogos e engenheiros para explorá-la. A equipe descobre que a pirâmide abriga duas espécies de alienígenas. Uma delas considera os humanos incubadores para seus jovens. A outra espécie é de atletas intergalácticos que caçam seus opostos por diversão. A equipe de Weyland fica no meio do fogo cruzado</info>
+<genre></genre>
+</item>
 
 
 

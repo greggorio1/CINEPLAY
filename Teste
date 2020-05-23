@@ -2,8 +2,8 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 
 <item>
 <title>[B]MATRIX  - [COLOR yellow](1999/2003)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ibzn_ltO42uinQIUKl20_TWHNVVoGt5A/view name$$lsname=[COLOR lime](HD/SD)[/COLOR] - MATRIX 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gvSEY4L5mIVPAHHkeMkoDeRBOqFx1aQt/view $$lsname=[COLOR lime](HD/SD)[/COLOR] - MATRIX 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ibzn_ltO42uinQIUKl20_TWHNVVoGt5A/viewname$$lsname=[COLOR lime](HD/SD)[/COLOR] - MATRIX 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gvSEY4L5mIVPAHHkeMkoDeRBOqFx1aQt/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - MATRIX 2</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gvSEY4L5mIVPAHHkeMkoDeRBOqFx1aQt/view$$lsname=[COLOR lime](HD/SD)[/COLOR] - MATRIX 3</link>
 <link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,665,1000_AL_.jpg</thumbnail>
@@ -67,7 +67,7 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 <title>[B]IT - A COISA  - [COLOR yellow](2017/2020)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17K1xY74TV24zeTAcIWNaxyc6BNqHvCd3/view?usp=drivesdk$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - IT A COISA 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kJYM-8Fx9pgqmpEnLDR-gdH8nu4gofWx/view?usp=drivesdk$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - IT A COISA  2</link>
-<link>URL AQUI$$lsname=[COLOR lime](SE NÃO FUNCIONAR, É PQ FOI EXCEDIDO O LIMITE DE VISUALIZAÇÕES)[/COLOR] - LINK 3</link>
+<link>URL AQUI</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BMTg1NTU5NTgwOV5BMl5BanBnXkFtZTgwMTQ1NzMzMzI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
 <info>Um grupo de crianças se une para investigar o misterioso desaparecimento de vários jovens em sua cidade. Eles descobrem que o culpado é Pennywise, um palhaço cruel que se alimenta de seus medos e cuja violência teve origem há vários séculos.</info>
@@ -113,7 +113,18 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 <genre></genre>
 </item>
 
+MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
 
+<item>
+<title>[B]PLANETA DOS MACACOS - [COLOR yellow](2011/2017)[/COLOR] - [COLOR lime](HD)[/COLOR] - DUBLADO[/B]</title>
+<link>https://download1608.mediafire.com/s1q6cms2y6zg/i12urho3zrhmluv/Planeta.dos.Macacos.A.Origem-HD.mp4$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - A ORIGEM</link>
+<link>https://download1047.mediafire.com/k1egya2c5wwg/33rnndgbggblv7r/Planeta.dos.Macacos.O.Confronto-HD.mp4$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - PLANETA DOS MACACOS - O CONFRONTO</link>
+<link>https://download1351.mediafire.com/syuf39ez9wog/3d9jno5kzg45lde/Planeta.dos.Macacos.A.Guerra-HD.mp4$$lsname=[COLOR lime](HD)[/COLOR] - PLANETA DOS MACACOS - A GUERRA</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM2MTg2OTIwMV5BMl5BanBnXkFtZTgwODI1Njg4MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNDI5Zjc0YzYtMjk0Zi00OGYyLTgwNDQtZmFlMjFmNzQ5NmI5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_SX1777_CR0,0,1777,740_AL_.jpg</fanart>
+<info>César e seu grupo são forçados a entrar em uma guerra contra um exército de soldados liderados por um impiedoso coronel. Depois que vários macacos perdem suas vidas no conflito, César luta contra seus instintos e parte em busca de vingança. Dessa jornada, o futuro do planeta poderá estar em jogo.</info>
+<genre>FICCAO</genre>
+</item>
 
 
 

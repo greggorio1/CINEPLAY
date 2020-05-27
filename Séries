@@ -1,6 +1,6 @@
 channels>
 <channel>
-<name>[COLOR yellow] ESTAMOS NA VERSÃO ALPHA! PODEM OCORRER FALHA NOS ARQUIVOS[/COLOR]</name>
+<name>[COLOR red]AVISO[/COLOR]:[COLOR yellow]VIU ALGUMAS SERIE OFF? NOS AVISE :)[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>IGNOROME</externallink>
 <fanart></fanart>
@@ -13,7 +13,7 @@ channels>
 
 <channels>
 <channel>
-<name>DARK [COLOR red] OFF - AGUARDE...[/COLOR]</name>
+<name>DARK [COLOR red] *[/COLOR]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Dark</externallink>
 <fanart>https://m.media-amazon.com/images/M/MV5BMTU3MTE2Nzc2OV5BMl5BanBnXkFtZTgwMzc1OTgyNDM@._V1_SY1000_CR0,0,1503,1000_AL_.jpg</fanart>
@@ -28,7 +28,7 @@ channels>
 
 <channels>
 <channel>
-<name>ALTERED CARBON</name>
+<name>ALTERED CARBON[COLOR red] *[/COLOR]</name>
 <thumbnail>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2018/11/altered-carbon-1-temporada-dublado-e-legendado-D_NQ_NP_939458-MLB40954408837_022020-F.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Altere%20crbon</externallink>
 <fanart>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2018/11/altered-carbon-1-temporada-dublado-e-legendado-D_NQ_NP_939458-MLB40954408837_022020-F.jpg</fanart>
@@ -52,7 +52,7 @@ channels>
 
 <channels>
 <channel>
-<name>13 REASONS WHY</name>
+<name>13 REASONS WHY[COLOR blue] *[/COLOR]</name>
 <thumbnail>https://1.bp.blogspot.com/-IiqTQIUjTRM/XeunZaNpZ1I/AAAAAAAABFs/7TgyQgFCi0E33K1yzCdFUifYfIDr5VFSACLcBGAsYHQ/s1600/maxresdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/13%20reaeoes</externallink>
 <fanart>https://1.bp.blogspot.com/-IiqTQIUjTRM/XeunZaNpZ1I/AAAAAAAABFs/7TgyQgFCi0E33K1yzCdFUifYfIDr5VFSACLcBGAsYHQ/s1600/maxresdefault.jpg</fanart>
@@ -65,7 +65,7 @@ channels>
 
 <channels>
 <channel>
-<name>A MALDICAO DA RESIDENCIA HILL[COLOR red] OFF - AGUARDE...[/COLOR]</name>
+<name>A MALDICAO DA RESIDENCIA HILL[COLOR red] *[/COLOR]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTE1YjdjMDYtZjJiNy00MjMzLWJmYjEtNjkzNTQxMjFjYTIzXkEyXkFqcGdeQXVyMTA3MzQ4MTcw._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/HILL</externallink>
 <fanart>https://m.media-amazon.com/images/M/MV5BNGQyOGRjMTUtOWI3Zi00ZWQ0LWEyNTgtMjFkNTVhMzc4ZTVhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg</fanart>
@@ -91,7 +91,7 @@ channels>
 
 <channels>
 <channel>
-<name>CHERNOBYL[COLOR red] OFF - AGUARDE...[/COLOR]</name>
+<name>CHERNOBYL[COLOR red] *[/COLOR]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNThjZjhkZmYtMDMyMi00YzJmLThiNmQtNGZkZWI0Njg0NGNlXkEyXkFqcGdeQXVyOTY0NjY0NTM@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://m.media-amazon.com/images/M/MV5BNDAxMjRhOWQtMzg2ZC00NTBkLTlkMWEtODdiZjAxODU5NGZjXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,737,1000_AL_.jpg</fanart>

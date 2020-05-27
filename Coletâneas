@@ -11,7 +11,7 @@
 
 <channels>
 <channel>
-<name>LANÇAMENTOS</name>
+<name>[COLOR yellow]LANÇAMENTOS[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Lan%C3%A7amentos</externallink>
 
@@ -28,7 +28,7 @@
  
  <channels>
 <channel>
-<name>TRILOGIAS</name>
+<name>[COLOR yellow]TRILOGIAS[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Teste </thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Novas%20trilogias</externallink>
 
@@ -42,25 +42,13 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
- <channels>
-<channel>
-<name>GUERRA</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-
-<fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES DE GUERRA - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+ 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
  <channels>
 <channel>
-<name>DRAMA/ROMANCE</name>
+<name>[COLOR yellow]DRAMA/ROMANCE[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 
@@ -76,7 +64,7 @@
 
  <channels>
 <channel>
-<name>PEDIDOS</name>
+<name>[COLOR yellow]PEDIDOS[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Pedidos</externallink>
 
@@ -90,3 +78,13 @@
  
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR yellow] ALEATORIOS [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Lan%C3%A7amentos</externallink>
+
+<fanart></fanart>
+<info> FILMES QUE N CONTENHAM SEQUENCIAS</info>
+</channel>
+</channels>

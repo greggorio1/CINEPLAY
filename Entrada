@@ -2,15 +2,16 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow] ENTRE AQUI [/COLOR]</name>
+<name>[COLOR yellow] ENTRE AQUI [/COLOR] [COLOR blue] *[/COLOR]</name>
 <thumbnail>https://ia601503.us.archive.org/20/items/psx-20200524-202935/PSX_20200524_202935.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Categorias</externallink>
 <fanart>https://ia601503.us.archive.org/20/items/psx-20200524-202935/PSX_20200524_202935.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - SEJAM BEM-VINDOS A MATRIX! VERSÃO ALPHA 2.0
-[COLOR blue] * [/COLOR]-COR AZUL : EM ATUALIZAÇAO
+[COLOR deeppink]|[/COLOR] - SEJAM BEM-VINDOS A MATRIX! VERSAO ALPHA 2.0
+
+[COLOR blue] * [/COLOR] COR AZUL : EM ATUALIZAÇAO
 [COLOR red] * [/COLOR] COR VERMELHA : OFFLINE
 [COLOR green] * [/COLOR] COR VERDE : ONLINE</info>
 </channel>

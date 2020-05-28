@@ -1,9 +1,9 @@
- 
+  
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>DARK - TEMPORADA 1</title>
-<link>IGNOROME</link>
+<title>TEMPORADA 1</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -12,8 +12,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>DARK - EPISÓDIO 1</title>
-<link>https://r4---sn-uphcg51pa-bg0s.googlevideo.com/videoplayback?expire=1590409067&ei=60bLXpXdDYWUhwbStYX4CQ&ip=158.69.254.64&id=217a5d66eda7940c&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=3090.483&lmt=1512121401515746&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRAIgd_Kgxq2t8hJ0QpMkw7BOChsqJ-1m-C_SBX60vCTIul4CIAE1BcRnqlxiuc672j3wKqqFJLVqpGwCrCX2LJNsNLcZ&redirect_counter=1&rm=sn-p5qyy7z&req_id=b72fa39e093736e2&cms_redirect=yes&ipbypass=yes&mh=ek&mip=189.40.52.49&mm=31&mn=sn-uphcg51pa-bg0s&ms=au&mt=1590380191&mv=m&mvi=3&pl=19&usequic=no&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl,usequic&lsig=AG3C_xAwRQIhAPBgwpcfOqM0Y3YGW_zQq8n8czv5P_-9UzucjLi069rcAiAW834Qq42_Eezq9zy8lhVuSt1JjmhIp_GGzWjV1wKgZw%3D%3D</link>
+<title>EPISODIO 01</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Un7Fz2W47yvQxU7mDl9TS0rz3wvI7vTP/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -22,8 +22,8 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>DARK - EPISÓDIO 2</title>
-<link>https://r4---sn-p5qs7nek.googlevideo.com/videoplayback?expire=1590409154&ei=QkfLXpnKG4bUhgbc-JbwCQ&ip=158.69.254.64&id=735d8d8fd8177e1f&itag=18&source=blogger&mh=TI&mm=31&mn=sn-p5qs7nek&ms=au&mv=u&mvi=3&pl=21&susc=bl&mime=video/mp4&dur=2684.505&lmt=1512125546289253&mt=1590380190&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=AOq0QJ8wRQIhANzzyXwrZltzwicroCzr7YccwT1wurTvZKhMFkOqPGitAiBLvC-RX1iVPsQddVknpoOFA6OFkIuPvSm1ODRqdeYbTg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAJeP9jBeA0LPxrR2R0R0s8Rlu2AKYQXcncroMJMbDoAqAiA8gQAu4Pn9ffkLqNJzUW7FIDvGnaJOyuaXRNmDFpbAaw%3D%3D</link>
+<title>EPISODIO 02</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c-x1xrTGG4D-8fttTz_bP88oW6JdQjAA/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -32,92 +32,93 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>DARK - EPISÓDIO 3</title>
-<link>https://mega.nz/file/fUlRRYwI#Raf9o9sWYwRl7r5Ym-DjB6PTnZrV8G75P3tz3T8884A</link>
+<title>EPISODIO 03</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19CMdp9z4aBgtd9EzOcsJbAyOoLrV7vgj/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
 </item>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>DARK - EPISÓDIO 4</title>
-<link>https://mega.nz/file/OQ9X0ASB#7XHcOkukkvAoVkTu4o8cJDyPtSyMEQc4FKz0oEEFrnY</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>DARK - EPISÓDIO 5</title>
-<link>https://mega.nz/file/XckDTCjK#VRcL3bRKtwu_fy8_rmW2I3-aau4M-mZTL47j37f0NGQ</link>
+<title>EPISODIO 04</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dI-4mPAMvqoQ0BiV7-qANoajKYjE44NM/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
 </item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
+<item>
+<title>EPISODIO 05</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13SGAJsKWCRmahEGN5lXu9S6OiVCsfQ37/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>DARK - EPISÓDIO 6</title>
-<link>https://mega.nz/file/eMlBgCTD#TBv24TIUdoYoXbZuhMh9kmYzzNIP-x5uTfX_vpvb5aY</link>
+<title>EPISODIO 06</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lA-Ms49fFvk5rECsENK2Mbnm85xfW1u0/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
 </item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <item>
-<title>DARK - EPISÓDIO 7</title>
-<link>https://mega.nz/file/2M9lFIqS#PwoTcn9ewRRDn06U6R07QslBHBw8yJDY3f90luxLbns</link>
+<title>EPISODIO 07</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eHJBnqVaiy5p748fHp_oG5dUaNBVgS__/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
 </item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <item>
-<title>DARK - EPISÓDIO 8</title>
-<link>https://mega.nz/file/WVkBUKYI#yjDnA4EICLFlXiz6cuf4Zf9l0TSxLzkuHgr7ojQ6Bso</link>
+<title>EPISODIO 08</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15UqwnHBYVvS0hc9Xy9J2JR7yvpvHALWp/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
 </item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
 <item>
-<title>DARK - EPISÓDIO 9</title>
-<link>https://mega.nz/file/TA9BXaIZ#8x2nltcu40-qtNMXLM-20P6MVX27xcnwRxR09G5nuQs</link>
+<title>EPISODIO 09</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uHghEev61vKXbNWGOFkR_HIQdSXqZjox/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
 </item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <item>
-<title>DARK - EPISÓDIO 10</title>
-<link>https://mega.nz/file/WZt3EYTa#PrJFlTu60t7VPIjSn9R2cE4qGy8Uy8-DfC1_KBdblGI</link>
+<title>EPISODIO 10</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tE4cyW1cjWIonkVyMdsknb2FD1ftaaXN/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 <genre></genre>
 </item>
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
 
 <item>
 <title>DARK - TEMPORADA 2 [COLOR red] EM BREVE [/COLOR]</title>

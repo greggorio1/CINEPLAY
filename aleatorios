@@ -1,8 +1,15 @@
+<item>
+<title>[COLOR red] AVISO[/COLOR] : QUER UM FILME ESPECIFICO? USE O FILTRO AO SEU LADO ESQUERDO :)</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
 
-<name>[COLOR red]AVISO[/COLOR]:[COLOR yellow]QUER ASSISTIR UM FILME ESPECIFICO? USEM O FIlTRO AO SEU LADO ESUQERDO :)[/COLOR]</name>
 
 <item>
-<title>PEQUANOS MONSTROS</title>
+<title>PEQUENOS MONSTROS</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JUT9YQeP8OYEF1vDzVeaFEWZbW93dsSE/view</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjk2YzE5NjYtYjM4Yi00OWEzLWIxYzctZmMwZTA5MDg0OGY0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BZmM2MDk0MDctOTBjMy00MjRlLTg0NmMtNGE1OWI0ZmM5YzM2XkEyXkFqcGdeQXVyMTk2MzExMzQ@._V1_.jpg</fanart>
@@ -301,4 +308,49 @@ ANO: 2017</info>
 </item>
 
 
+<item>
+<title>JOGUE OU MORRA</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o2ns6Y3H1UnA75k5kmiuuRthZxdgm-t7/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTRmNDQwNjctMWM4ZC00NzZlLTg1YTItOTFmNjFiNjgwZmU5XkEyXkFqcGdeQXVyMzk3MzY5MTM@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNTRmNDQwNjctMWM4ZC00NzZlLTg1YTItOTFmNjFiNjgwZmU5XkEyXkFqcGdeQXVyMzk3MzY5MTM@._V1_.jpg</fanart>
+<info>Bem-vindo à Paranoia, o seu mais novo jogo de escape. Regra 1: Nada é real. Lucas e Chloé não vão perder essa e topam o desafio de chegar na final. Quando encontram um hospital abandonado, logo descobrem a regra 2: um deles vai morrer...</info>
+<genre></genre>
+</item>
+
+<item>
+<title>O ESCANDALO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AjAgbG0v7ebbJ2Z-Nxih_U3MpD4ADp0S/view </link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZjlhOWE3YjktY2MzOC00ZmQ1LWIwNjgtZmVhZmFjZGExMzgyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOWQ5OWE3ZGItZmVkZS00MDA0LThiMWMtNWQ3ZjA3ZmZiODliXkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<info>As funcionárias da Fox News denunciam a cultura de masculinidade tóxica da empresa de mídia norte-americana, levando à queda do magnata Roger Ailes.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>JOJO RABBIT</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZRTLNvn-fpgDVrMPvl2VOodHNmpYXrfc/view </link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTVhYTdjNTUtMzZhYS00NWU5LWEyNGItZDQyOWU2MmIzNzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,648,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BYTM2ZWI2MDYtMGI4MC00MDBkLWI0OGItYjRiMzUxMmU2YWM5XkEyXkFqcGdeQXVyMTE0NTczNDAz._V1_SX1777_CR0,0,1777,999_AL_.jpg</fanart>
+<info>Jojo é um garoto alemão solitário que descobre que sua mãe está escondendo uma garota judia no sótão. Ajudado apenas por seu amigo imaginário, Adolf Hitler, Jojo deve enfrentar seu nacionalismo cego enquanto a Segunda Guerra Mundial prossegue.</info>
+<genre></genre>
+</item>
+
+
+<item>
+<title>UMA BATALHA DE FE</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PNzVjVGe2Ckb0cDNuBNlQS69nxC1NLQN/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmQ4M2YwOTQtMGM3YS00YTEwLTk0OTMtZDgxNGUyNWI3OTdmXkEyXkFqcGdeQXVyMTkyMjIyNg@@._V1_SY1000_CR0,0,665,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMmQ4M2YwOTQtMGM3YS00YTEwLTk0OTMtZDgxNGUyNWI3OTdmXkEyXkFqcGdeQXVyMTkyMjIyNg@@._V1_SY1000_CR0,0,665,1000_AL_.jpg</fanart>
+<info>Uma Batalha de Fé - Looke. Hunter Wilde é o líder de um grupo de sobreviventes cristãos que está tentando viver o mais normal possível dois anos após um ataque eletromagnético que mudou os rumos da civilização.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>SOCIAS EM GUERRA</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tNo2Q5-8SUbbUvXkvQSXrVhFupzoxPq4/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjAyZDRjMjQtODE3MC00ODI2LTgxODktZThjYTgzZDE5NTc4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNjAyZDRjMjQtODE3MC00ODI2LTgxODktZThjYTgzZDE5NTc4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg</fanart>
+<info>Mia e Mel administram a própria empresa de cosméticos, mas uma malvada magnata da beleza conspira para roubá-las. Agora, elas precisam se juntar para reaverem a empresa.</info>
+<genre></genre>
+</item>
 

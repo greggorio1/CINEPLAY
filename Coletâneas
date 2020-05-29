@@ -42,23 +42,21 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
- 
+ <channels>
+<channel>
+<name>[COLOR yellow] ALEATORIOS [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/aleatorios</externallink>
+
+<fanart></fanart>
+<info> FILMES QUE N CONTENHAM SEQUENCIAS</info>
+</channel>
+</channels>
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
- <channels>
-<channel>
-<name>[COLOR yellow]DRAMA/ROMANCE[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-
-<fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - MELHORES FILMES DE AÇÃO - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
+ 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -78,13 +76,3 @@
  
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR yellow] ALEATORIOS [/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/aleatorios</externallink>
-
-<fanart></fanart>
-<info> FILMES QUE N CONTENHAM SEQUENCIAS</info>
-</channel>
-</channels>

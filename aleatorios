@@ -127,7 +127,32 @@
 <genre></genre>
 </item>
 
+<item>
+<title>ROBOCOP</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B1r_KvYnIRak9LHg0BjbwxTt17zbzl6S/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNzE5Njk5MzI3MV5BMl5BanBnXkFtZTgwMDM2MTkwMTE@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Policial é morto em combate e transformado por cientistas da empresa que dirige a força policial em um ciborgue ultrassofisticado a fim de ser usado na luta contra o crime na cidade de Detroit. Porém, apesar de ter sua memória apagada, lembranças o assombram e o levam a buscar vingança.</info>
+<genre></genre>
+</item>
 
+<item>
+<title>O INFORMANTE</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wcDZsJAe85nPdWGcZU1GOEd_N3c0LK4U/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGEzZTAwZjYtYjRmYS00MGZkLWI4NzEtYzJmNDlhYTg5MTdkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMGEzZTAwZjYtYjRmYS00MGZkLWI4NzEtYzJmNDlhYTg5MTdkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_SY1000_SX750_AL_.jpg</fanart>
+<info>Um criminoso que lava dinheiro em Nova York acorda com amnésia e milhões de dólares roubados. Agora, ele precisa vasculhar a cidade em busca de respostas.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>OS 8 ODIADOS</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rueze2rLS85cAIW6AhsaYRlXGh-ZonIj/view</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZjVkNWQ3MzAtZWMwMy00ZTUwLWJkYTYtYTRlODA4NTcxNjJkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg</fanart>
+<info>Em busca de abrigo para se proteger de uma nevasca, dois caçadores de recompensas, um prisioneiro e um homem que alega ser xerife conhecem quatro estranhos.</info>
+<genre></genre>
+</item>
 
 
 

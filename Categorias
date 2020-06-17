@@ -1,17 +1,67 @@
 <channels>
 <channel>
-<name>FILMES</name>
-<thumbnail>https://seeklogo.com/images/H/hd-filmes-logo-4F7B194314-seeklogo.com.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Colet%C3%A2neas</externallink>
-<fanart>https://4.bp.blogspot.com/-2Wsg2uapj8I/VS1pVbuQYYI/AAAAAAAAADM/FmiWc_yA350/s1600/Print%2BPopcorn%2BTime%2B1.png</fanart>
-<info>
-FILMES GDRIVE 
+<name>FILMES RECEM LANÇADOS[COLOR blue]*[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Lan%C3%A7amentos</externallink>
 
-[COLOR yellow]ATUALIZADO EM 10/06[/COLOR]</info>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES LANÇADOS ESSE ANO - [COLOR deeppink]|[/COLOR]
+
+[COLOR yellow]ATUALIZADO EM 14/06|[/COLOR]</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>FILMES ALEATORIOS[COLOR blue]*[/COLOR]</name>
+<thumbnail>https://ia601508.us.archive.org/18/items/indice_202006/%C3%ADndice.jpg</thumbnail>
+<icon>https://midiainteressante.com/wp-content/uploads/2017/05/filmes-online.jpg</icon>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/aleatorios</externallink>
+<fanart>https://midiainteressante.com/wp-content/uploads/2017/05/filmes-online.jpg</fanart>
+<info> FILMES QUE NAO CONTENHAM SEQUENCIAS
+
+[COLOR yellow]ATUALIZADO EM 14/06|[/COLOR]</info>
+</channel>
+</channels>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>FILMES TRILOGIAS[COLOR blue]*[/COLOR]</name>
+<thumbnail>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Teste </thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Novas%20trilogias</externallink>
+
+<fanart></fanart> 
+<info>
+
+
+ TODAS AS COLETÂNEAS DISPONIVEIS 
+
+[COLOR yellow]ATUALIZADO EM 14/06|[/COLOR]</info> 
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR yellow]FILMES RECOMENDADOS [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Lan%C3%A7amentos</externallink>
+
+<fanart></fanart>
+<info> A CADA 24hrs NOSSA EQUIPE IRA RECOMENDAR 5 FILMES</info>
+</channel>
+</channels>
+
 
 <channels>
 <channel>
@@ -26,6 +76,10 @@ FILMES GDRIVE
 [COLOR yellow]ATUALIZADO EM 05/06[/COLOR]</info>
 </channel>
 </channels>
+ 
+
+ 
+
  
 
 

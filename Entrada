@@ -2,17 +2,120 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow] CLIQUE AQUI [/COLOR] [COLOR blue]*[/COLOR]</name>
+<name>[COLOR yellow] INFORMAÇOES [/COLOR] [COLOR blue]*[/COLOR]</name>
 <thumbnail>https://ia601503.us.archive.org/20/items/psx-20200524-202935/PSX_20200524_202935.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Categorias</externallink>
 <fanart>https://ia601503.us.archive.org/20/items/psx-20200524-202935/PSX_20200524_202935.jpg</fanart>
-<info> SEJAM BEM-VINDOS A MATRIX! VERSAO ALPHA 2.0
+<info> ADDON FOCADO EM FILMES E SERIES,COM ATUALIZAÇOES CONSTANTES. APROVEITEM!
 
-[COLOR green] * [/COLOR] COR VERDE : ONLINE
-[COLOR blue] * [/COLOR] COR AZUL : EM ATUALIZACAO
+[COLOR green]*[/COLOR] COR VERDE : ONLINE
+[COLOR blue]*[/COLOR] COR AZUL : EM ATUALIZACAO
 [COLOR red] * [/COLOR] COR VERMELHA : OFFLINE
 </info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>Filmes Recem-Lançados</name>
+<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Lan%C3%A7amentos</externallink>
+
+<fanart>https://4.bp.blogspot.com/-2Wsg2uapj8I/VS1pVbuQYYI/AAAAAAAAADM/FmiWc_yA350/s1600/Print%2BPopcorn%2BTime%2B1.png</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES LANÇADOS ESSE ANO - [COLOR deeppink]|[/COLOR]
+
+[COLOR yellow]ATUALIZADO EM: 11/06[/COLOR]
+
+</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>Filmes Aleatorios</name>
+<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
+<icon>https://midiainteressante.com/wp-content/uploads/2017/05/filmes-online.jpg</icon>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/aleatorios</externallink>
+<fanart>https://4.bp.blogspot.com/-2Wsg2uapj8I/VS1pVbuQYYI/AAAAAAAAADM/FmiWc_yA350/s1600/Print%2BPopcorn%2BTime%2B1.png</fanart>
+<info> FILMES QUE NAO CONTENHAM SEQUENCIAS
+
+[COLOR yellow]ATUALIZADO EM: 11/06[/COLOR]
+</info>
+</channel>
+</channels>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>Filmes Trilogias</name>
+<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Novas%20trilogias</externallink>
+
+<fanart>https://4.bp.blogspot.com/-2Wsg2uapj8I/VS1pVbuQYYI/AAAAAAAAADM/FmiWc_yA350/s1600/Print%2BPopcorn%2BTime%2B1.png</fanart> 
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - TODAS AS COLETÂNEAS DISPONIVEIS - [COLOR deeppink]|[/COLOR]
+
+[COLOR yellow]ATUALIZADO EM: 07/06[/COLOR]
+</info> 
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>Filmes Recomendados (em breve)</name>
+<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
+<externallink>https://</externallink>
+
+<fanart>https://4.bp.blogspot.com/-2Wsg2uapj8I/VS1pVbuQYYI/AAAAAAAAADM/FmiWc_yA350/s1600/Print%2BPopcorn%2BTime%2B1.png</fanart>
+<info> A CADA 24HRS SERAO DISPONIBILIZADOS 5 FILMES
+
+[COLOR yellow]ATUALIZADO EM: ??/??[/COLOR]
+</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Filmes Legendados (em breve)</name>
+<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
+<externallink>https://</externallink>
+
+<fanart>https://4.bp.blogspot.com/-2Wsg2uapj8I/VS1pVbuQYYI/AAAAAAAAADM/FmiWc_yA350/s1600/Print%2BPopcorn%2BTime%2B1.png</fanart> 
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES EM INGLES- [COLOR deeppink]|[/COLOR]
+
+[COLOR yellow]ATUALIZADO EM: 07/06[/COLOR]
+</info> 
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Series</name>
+<icon>https://3.bp.blogspot.com/-s1CpaL41ui4/UpxS97w28fI/AAAAAAAAQ7Q/EbP6jFwGSyQ/s1600/unnamed+(5).png</icon>
+<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/S%C3%A9ries</externallink>
+<fanart>https://assets.b9.com.br/wp-content/uploads/2019/05/netflix-library-1280x720.jpg</fanart>
+<info>
+SÉRIES ENCONTRADAS NA INTERNET
+
+[COLOR yellow]ATUALIZADO EM 05/06[/COLOR]</info>
+</channel>
+</channels>

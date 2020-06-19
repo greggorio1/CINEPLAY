@@ -7,12 +7,12 @@
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Categorias</externallink>
 <fanart>https://i.ytimg.com/vi/KPPDtBCEBWY/maxresdefault.jpg</fanart>
 <info>
-[COLOR yellow]●[/COLOR] Addon focado em filmes e series
-   [COLOR red]●[/COLOR] Proibida a venda deste addon,ou quaisquer link aqui hospedados
+[COLOR red] •[/COLOR] Addon focado em filmes e series
+[COLOR red] •[/COLOR] Proibida a venda deste addon,ou quaisquer link aqui hospedados
 
-[COLOR green]●[/COLOR]Verde: ONLINE
-[COLOR blue] ●[/COLOR]Azul: EM ATUALIZACAO
-[COLOR red]  ●[/COLOR]Vermelha: OFFLINE
+[COLOR green] •[/COLOR]Verde:ONLINE
+ [COLOR blue] •[/COLOR]Azul:EM ATUALIZACAO
+  [COLOR red] •[/COLOR]Vermelha:OFFLINE
 </info>
 </channel>
 </channels>
@@ -21,7 +21,7 @@
 
 <channels>
 <channel>
-<name>Filmes Recem-Lançados[COLOR blue]●[/COLOR]</name>
+<name>Filmes Recem-Lançados[COLOR blue]•[/COLOR]</name>
 <thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Lan%C3%A7amentos</externallink>
 
@@ -42,7 +42,7 @@ FILMES LANÇADOS ESSE ANO
 
 <channels>
 <channel>
-<name>Filmes Aleatorios[COLOR blue]●[/COLOR]</name>
+<name>Filmes Aleatorios[COLOR blue]•[/COLOR]</name>
 <thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
 <icon>https://images.apkeasy.me/cine-plus-cine-play-2020-com-dicas-icon/fill/120/120/no/1/aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1hZTXpiX1NUOHZqYVJTWVg0MGxNUGt4bjRjVTlXZHUzdEs5RmEtNVB3RTVxbmo1V2JjZFZqcGlWRmFXUjFVMVQ5dW8=</icon>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/aleatorios</externallink>
@@ -60,7 +60,7 @@ FILMES QUE NAO CONTENHAM SEQUENCIAS
 
 <channels>
 <channel>
-<name>Filmes Trilogias[COLOR blue]●[/COLOR]</name>
+<name>Filmes Trilogias[COLOR blue]•[/COLOR]</name>
 <thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Novas%20trilogias</externallink>
 
@@ -112,7 +112,7 @@ FILMES EM INGLES
 
 <channels>
 <channel>
-<name>Series[COLOR blue]●[/COLOR]</name>
+<name>Series[COLOR blue]•[/COLOR]</name>
 <icon>https://3.bp.blogspot.com/-s1CpaL41ui4/UpxS97w28fI/AAAAAAAAQ7Q/EbP6jFwGSyQ/s1600/unnamed+(5).png</icon>
 <thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/S%C3%A9ries</externallink>

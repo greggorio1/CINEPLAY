@@ -1,20 +1,15 @@
 <item>
-<title>[COLOR red] AVISO[/COLOR] : [COLOR yellow]QUER UM FILME ESPECIFICO? USE O FILTRO AO SEU LADO ESQUERDO[/COLOR] :)</title>
+<title>          [COLOR yellow] LEIA[/COLOR] </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info></info>
+<info>
+[COLOR red]•[COLOR]Caso queira um filme em especifico,usem o filtro ao seu lado esquerdo
+[COLOR red]•[COLOR]Qualidade ruim ou travamente? Nos avisem</info>
 <genre></genre>
 </item>
 
-<item>
-<title>ESQUADRAO RED TAILS</title>
-<link>https://www.mediafire.com/file/nlg6nwma3lmwn4u/12.Monkeys.01x01.Dub.mp4/file</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
+
 
 1<item>
 <title>MISSÃO IMPOSSIVEL: EFEITO FALLOUT</title>

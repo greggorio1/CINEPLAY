@@ -1,11 +1,11 @@
 <item>
-<title>          [COLOR yellow] LEIA[/COLOR] </title>
+<title>              [COLOR yellow]leia[/COLOR] </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>
-[COLOR red]•[COLOR]Caso queira um filme em especifico,usem o filtro ao seu lado esquerdo
-[COLOR red]•[COLOR]Qualidade ruim ou travamente? Nos avisem</info>
+[COLOR red]•[/COLOR]Caso queira um filme em especifico,usem o filtro ao seu lado esquerdo
+[COLOR red]•[/COLOR]Qualidade ruim ou travamente? Nos avisem</info>
 <genre></genre>
 </item>
 

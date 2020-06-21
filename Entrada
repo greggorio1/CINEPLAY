@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow] INFORMAÇOES [/COLOR] [COLOR blue]*[/COLOR]</name>
+<name>            [COLOR yellow] LEIA[/COLOR] [COLOR blue]*[/COLOR]  </name>
 <thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Categorias</externallink>
 <fanart>https://i.ytimg.com/vi/KPPDtBCEBWY/maxresdefault.jpg</fanart>
@@ -72,7 +72,7 @@
 
 <channels>
 <channel>
-<name>Filmes Recomendados[COLOR red](em breve)[/COLOR](</name>
+<name>Filmes Recomendados[COLOR red](em breve)[/COLOR]</name>
 <thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
 <externallink>https://</externallink>
 
@@ -94,7 +94,7 @@
 <fanart>https://assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg</fanart> 
 <info>
 [COLOR red]•[/COLOR] Apenas filmes em ingles,usem o Opensubititles
-[COLOR yellow]Atualizado em: ??/??[/COLOR]
+[COLOR yellow]Atualizado em: 19/06[/COLOR]
 </info> 
 </channel>
 </channels>
@@ -108,6 +108,6 @@
 <fanart>https://assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg</fanart>
 <info>
 [COLOR red]•[/COLOR]Series encontradas na internet
-[COLOR yellow]Atualizado em: 05/06[/COLOR]</info>
+[COLOR yellow]Atualizado em: 19/06[/COLOR]</info>
 </channel>
 </channels>

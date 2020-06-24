@@ -1,5 +1,5 @@
 <item>
-<title>              [COLOR yellow]leia[/COLOR] </title>
+<title>[COLOR yellow]leia[/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI</link>
 <thumbnail></thumbnail>
 </fanart>
@@ -7,6 +7,33 @@
 [COLOR red]•[/COLOR]Caso queira um filme em especifico,usem o filtro ao seu lado esquerdo
 [COLOR red]•[/COLOR]Qualidade ruim ou travamente? Nos avisem</info>
 <genre></genre>
+</item>
+
+
+<item>
+<title>O PREÇO DA VERDADE</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jN7jVo8t4wOahYfFJBGoP3aiZk9MKiJk/view</link>
+<thumbnail>https://universo3gp.com.br/files/cover/o-preco-da-verdade.png</thumbnail>
+<info>Um advogado arrisca sua carreira e família para descobrir um sombrio segredo escondido por uma das maiores empresas do mundo e levar justiça a uma comunidade perigosamente exposta por décadas a produtos químicos mortais.</info>
+<genre>
+Nota: 7.4
+Lançado em: 2019
+Diretor: Todd Haynes
+Elenco: Mark Ruffalo, Anne Hathaway, Tim Robbins, Bill Pullman, Bill Camp
+Generos: Drama, Thriller </genre>
+</item>
+
+<item>
+<title>7500</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1119nKWqSKg24ICJHw4fTAVDPkWSR0S7A/view</link>
+<thumbnail>https://universo3gp.com.br/files/cover/7500.png</thumbnail>
+<info>Um suspense tenso e intenso, contado do cockpit do avião. Num voo de Berlim para Paris, durante a rotina normal de um Airbus A319, o co-piloto Tobias Ellis está preparando o avião na decolagem. Então ouvimos gritos na cabine de passageiros. Um grupo de jovens tenta invadir a cabine. O Código de Emergência 7500 é usado para comunicar um sequestro de avião.</info>
+<genre>
+Nota: 5.9
+Lançado em: 2019
+Diretor: Patrick Vollrath
+Elenco: Joseph Gordon-Levitt, Aylin Tezel, Max Schimmelpfennig, Aurélie Thépaut, Denis Schmidt
+Generos: Thriller, Drama </genre>
 </item>
 
 <item>

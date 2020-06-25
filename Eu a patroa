@@ -54,7 +54,7 @@
 <genre></genre>
 </itens>
 
-<iten>
+<item>
 <title>TEMPORADA 3</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D14pYeZBfTZyFJOo00Wd0xBjY0cpFuVo/view?usp=sharing$$lsname=[COLOR red](SD)[/COLOR] -EPISODIO 01</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pSkQ-Rex8oXURcTaou6XNDhs2aB9s7ox/view?usp=sharing$$lsname=[COLOR red](SD)[/COLOR] -EPISODIO 02</link>
@@ -86,7 +86,7 @@
 <link>URL AQUI$$lsname=FIM</link>
 <thumbnail>https://media.fstatic.com/e18LX0AuPlw_tE0NNvStWgYbyHU=/fit-in/290x478/smart/media/movies/covers/2014/09/eu-a-patroa-e-as-criancas-1a-temporada_t15203.jpg</thumbnail>
 <fanart></fanart>
-</itens>
+</item>
 
 <item>
 <title>TEMPORADA 4</title>

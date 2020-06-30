@@ -583,7 +583,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/300.ts
 https://stream.ec.cx/hls1/tnt.m3u8?expires=1593563206&token=4257ae6fe64d9a2b0d69c2e67f872c89
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TNT HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/301.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://stream.ec.cx/hls1/tnt.m3u8?expires=1593563206&token=4257ae6fe64d9a2b0d69c2e67f872c89
 
 #EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series HD" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TNT Series SD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/303.ts?dwightfarrokhlistas|user-agent=GoPlayer

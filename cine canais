@@ -122,7 +122,8 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/76.ts?
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="[COLOR green] CANAIS | INFANTIS[/COLOR]",Disney Channel HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/78.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="cartoon.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Infantis",Cartoon network HD
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Infantis",Cartoon network HD
+https://stream.ec.cx/hls1/cartoon.m3u8?expires=1593564782&token=a9e6e768295655dba257f64ba47e801a
 
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="[COLOR green] CANAIS | INFANTIS[/COLOR]",Disney Channel SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/79.ts?dwightfarrokhlistas|user-agent=GoPlayer

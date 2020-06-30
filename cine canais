@@ -728,7 +728,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/359.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/360.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="" tvg-name="24H - THUNDERCATS" tvg-logo="https://banner2.cleanpng.com/20180512/yiq/kisspng-thundercats-television-show-5af6deff871901.5112980615261283835534.jpg" group-title="TODOS OS CANAIS",24H - THUNDERCATS
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/361.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://192.95.30.205:8080/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/361.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24H - TV PIRATA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/TV_Pirata_%28fundo_branco%29.png/revision/latest?cb=20160514220347" group-title="TODOS OS CANAIS",24H - TV PIRATA
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/362.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -755,7 +755,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/437.ts
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="REDE MASSA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redemassa.png" group-title="TODOS OS CANAIS",REDE MASSA HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/438.ts?dwightfarrokhlistas|user-agent=GoPlayer
-
+ 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RICTV MaringÆ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Logotipo_da_RIC.png" group-title="TODOS OS CANAIS",RICTV MaringÆ
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/439.ts?dwightfarrokhlistas|user-agent=GoPlayer
 

@@ -580,7 +580,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/299.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/300.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TNT SD
-http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47359.ts
+https://stream.ec.cx/hls1/tnt.m3u8?expires=1593563206&token=4257ae6fe64d9a2b0d69c2e67f872c89
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TNT HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/301.ts?dwightfarrokhlistas|user-agent=GoPlayer

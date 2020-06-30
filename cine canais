@@ -6,28 +6,28 @@ http://0.0.0.0:0000
 
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",A&E HD
-http://toopnet.dydns.site:2082/Danilo2021/Streaming/47101.ts?dwightfarrokhlistas
+http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/29.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",A&E SD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47102.ts
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AMC SD
-http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47101.ts
+http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/30.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AMC HD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47103.ts
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://static.clubsrv.me/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/33.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/33.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://static.clubsrv.me/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 SD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/35.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/35.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AXN SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/37.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AXN HD
-http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47108.ts
+http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/37.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="BabyTV HD" tvg-name="Baby TV SD" tvg-logo="https://static.clubsrv.me/logos/canais/babytv.png" group-title="[COLOR green] CANAIS | INFANTIS[/COLOR]",Baby TV SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/38.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -84,7 +84,7 @@ https://streaming.cnnbrasil.com.br/cnndigital_main_Output5.m3u8
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/61.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",Combate SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/62.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/61.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://static.clubsrv.me/logos/canais/comedycentral.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Comedy Central SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/63.ts?dwightfarrokhlistas|user-agent=GoPlayer

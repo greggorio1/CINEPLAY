@@ -1,4 +1,8 @@
-canais abertos
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="----------[COLOR red]CINE[/COLOR]PLAY LISTAS----------" tvg-logo="https://pbs.twimg.com/profile_images/1263288302184075266/v_i2m-ya_400x400.jpg" group-title="----------[COLOR red]CINE[/COLOR]PLAY CANAIS----------",----------[COLOR red]CINE[/COLOR]PLAY CANAIS----------
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red]CINE[/COLOR]PLAY CANAIS" tvg-logo="https://pbs.twimg.com/profile_images/1263288302184075266/v_i2m-ya_400x400.jpg" group-title="ATT EM 29/06 [COLOR red]CINE[/COLOR]PLAY CANAIS",([COLOR red]CINE[/COLOR]PLAY CANAIS)
+http://0.0.0.0:0000
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP SD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Band SP SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/40.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -60,8 +64,6 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/306.ts
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",TV CULTURA HD",TV CULTURA HD
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8[COLOR yellow] CANAIS | ABERTOS[/COLOR]
 
-
-esportes
 
 #EXTINF:-1 tvg-id="" tvg-name="Ei Plus SD" tvg-logo="https://static.clubsrv.me/logos/canais/eiplus.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",Ei Plus HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/91.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -135,7 +137,6 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/273.ts
 http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/61.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 
-filmes
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",A&E HD
 http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/29.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -225,7 +226,6 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/313.ts
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47365.ts
 
 
-variedades
 
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis SD" tvg-logo="https://static.clubsrv.me/logos/canais/bis.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Bis SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/45.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -284,7 +284,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/215.ts
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV SD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/playtv.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Play TV SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/216.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-DOCUMENTARIOS
+
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://static.clubsrv.me/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
 http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/33.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -326,7 +326,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/208.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/210.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 
-INFANTIS
+
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="[COLOR green]INFANTIL[/COLOR]",Discovery Kids SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/70.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -365,7 +365,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/218.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/304.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 
-24 hrs
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24H - A PANTERA COR DE ROSA" tvg-logo="https://w7.pngwing.com/pngs/999/504/png-transparent-pink-panther-illustration-the-pink-panther-owens-corning-storm-guard-others.png" group-title="Desenhos 24hrs",24H - A PANTERA COR DE ROSA
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/335.ts?dwightfarrokhlistas|user-agent=GoPlayer

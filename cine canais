@@ -59,7 +59,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/305.ts
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/TVGAZETA-720p-20200701125042-1593609979.ts
 
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",TV CULTURA HD",TV CULTURA HD
-https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/media-u0ecwgpa1_2604.ts
+https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ei Plus SD" tvg-logo="https://static.clubsrv.me/logos/canais/eiplus.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",Ei Plus HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/91.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -135,22 +135,22 @@ http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/61.ts
 
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",A&E HD
-http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/29.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/aie.m3u8
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AMC HD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47103.ts
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AXN SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/37.ts?dwightfarrokhlistas|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AXN HD
+http://mpegts.azureedge.net/hls1/axn.m3u8
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AXN HD
-http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/37.ts?dwightfarrokhlistas|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AXN FHD
+http://mpegts.azureedge.net/hls1/axn.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO HD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8
+http://mpegts.azureedge.net/hls1/hbo.m3u8
 
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo2.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO 2 HD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2sd/video.m3u8
+http://mpegts.azureedge.net/hls1/hbo2.m3u8
 
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbofamily.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO Family HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/179.ts?dwightfarrokhlistas|user-agent=GoPlayer

@@ -28,14 +28,11 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/globosp/video.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Minas HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo Minas SD²
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/139.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Brasilia HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo Brasilia SD²
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/141.ts?dwightfarrokhlistas|user-agent=GoPlayer
-
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Nordeste SD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo Nordeste SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/151.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo RJ SD
-https://abr-h.eu-central-1.edge.mycdn.live/live/globo/globo_2000/playlist.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV FHD [H265]" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",RecordTV  BELEM
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/recordhd/video.m3u8
@@ -50,10 +47,10 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/254.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/255.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",SBT
-https://geraledge.eu-central-1.edge.mycdn.live/live/sbthd/2020/07/01/14/00/12-06000.ts
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",SBT²
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/263.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/media_w452087569_40208.ts
 
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum SD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/ratimbum.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",TV Ra Tim Bum SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/305.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -151,10 +148,10 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/37.ts?
 http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/37.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/173.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8
 
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo2.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO 2 HD
-http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47409.ts
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbo2sd/video.m3u8
 
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbofamily.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO Family HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/179.ts?dwightfarrokhlistas|user-agent=GoPlayer

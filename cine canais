@@ -23,7 +23,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/54.ts?
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/134.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo SP HD
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CoQFf4Pk75Rr9VozhHz9F1JEMhXk_1PL8j1ivHiVzDmMFHLEJ5B_3RfVgZZ7-KadUQsfxroSQ2tLdGacjQCIIg0oa2o016C-pWazv2Rd6gtpDM1GkF8-cm5m8lTz847-OFrGLqbxW3phs7RitEkFawz0Qo2QbBWvwiu4QKAFW_SSebDuGS6QDR-mxEC6K6RtBWcT5nEUu6sfNVan_R4Bq_BSkWUuEnq4oUET7fVjoDZ3GP5J-SJMoRoh_1Vrbx_9ylbjmi_L0mGJDtXldLiUwbN5yTSzwmylXy4ODUXlYInCJvhSGzSVRug1XlO57-4ZZTtSMRDwXGPuWFrxfpVSU0JB1xMwlbK4ouhuOf94KKfdG2gU640nEr7UJ30JUVUZpIBf_LzskWLTUyFHBE985ji3tiSR8hgYEJy36GAscrcaU8x5AV7tuv0Onl-P7vHfWn4YH_QPADPZhsk9lNJu-BrII2jFTZRo3Vzqay17x4mkBYByNOzYYuniR4eOnz4Vqs-xZYYHZgdm2_YOGs-VpAEKSlGQbFGF_lZdsLuaGuskphgEhqLGxy_AtyjKbrzkv1SgLqnQeQuNZ9RCmc0wmdtwV0f12Y6faWJ_gjEI6hcbuZsty8I52pCmSB0nnFtarm9_cixH6cPRiZR-Bbtw41OqtVdaWYUR7pO2LQmtbmG36ljswi6f67Wa_IEtIhAdPi4q1aIEP75XEdW9jzDjtFdAM-fLelFXk4Y7uN3XfRcLBwu3hfbwcTXCcVMyte7mjTKIlJ7qfMA2s_ThUOGq4w2RG-Zx55--fO4vx2hIB0Kq1wKnfjEzLcgcKVmYsWewPuVxpD0yDFPdUFafgO2sQbUdDznSWmoSEMEebjM6DNFEZ8ShYsyOSvAaDOLc34jivm9-D5u-Fw.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globosp/video.m3u8
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Minas HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo Minas SD²
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/139.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -35,13 +35,13 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/141.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/151.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo RJ SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/156.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://abr-h.eu-central-1.edge.mycdn.live/live/globo/globo_2000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV FHD [H265]" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",RecordTV  BELEM
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/237.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/recordhd/video.m3u8
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",RecordTV RJ SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/248.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE PAI ETERNO" tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/d/d5/Paieterno.png/revision/latest?cb=20190527225949&path-prefix=pt-br" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",REDE PAI ETERNO
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/254.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -50,7 +50,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/254.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/255.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",SBT
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/258.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://geraledge.eu-central-1.edge.mycdn.live/live/sbthd/2020/07/01/14/00/12-06000.ts
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",SBT²
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/263.ts?dwightfarrokhlistas|user-agent=GoPlayer

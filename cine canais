@@ -4,271 +4,271 @@
 #EXTINF:-1 tvg-id="" tvg-name="[COLOR red]CINE[/COLOR]PLAY CANAIS" tvg-logo="https://pbs.twimg.com/profile_images/1263288302184075266/v_i2m-ya_400x400.jpg" group-title="ATT EM 29/06 [COLOR red]CINE[/COLOR]PLAY CANAIS",([COLOR red]CINE[/COLOR]PLAY CANAIS)
 http://0.0.0.0:0000
 
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP SD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Band SP SD
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP SD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais abertos",Band SP SD
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD" tvg-logo="https://static.clubsrv.me/logos/canais/bandsports.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",BandSports SD
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD" tvg-logo="https://static.clubsrv.me/logos/canais/bandsports.png" group-title="Canais abertos",BandSports SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/44.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/canalbrasil.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Canal Brasil SD
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/canalbrasil.png" group-title="Canais abertos",Canal Brasil SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/51.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura SD" tvg-logo="https://static.clubsrv.me/logos/canais/futura.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Futura SD
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura SD" tvg-logo="https://static.clubsrv.me/logos/canais/futura.png" group-title="Canais abertos",Futura SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/134.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo SP HD
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo SP HD
 https://usb.bozztv.com/kabomtv/index.m3u8
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Minas HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo MinasHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Minas HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo MinasHD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/139.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Nordeste SD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo Nordeste HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Nordeste SD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo Nordeste HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/151.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo RJ HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo RJ HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
 
-#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV FHD [H265]" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",RecordTV  SP
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV FHD [H265]" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="Canais abertos",RecordTV  SP
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/segment2123146_480_av-p.ts?sd=10
 
-#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",RecordTV RJ 
+#EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="Canais abertos",RecordTV RJ 
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",SBT
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais abertos",SBT
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8
 
-#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",SBT²
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais abertos",SBT²
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum SD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/ratimbum.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",TV Ra Tim Bum SD
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum SD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/ratimbum.png" group-title="Canais abertos",TV Ra Tim Bum SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/305.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD " tvg-logo="https://1.bp.blogspot.com/-40ZtGMw3eBE/V0YQ-u6iHaI/AAAAAAAAsPA/-lmAbaB3dpsxVCVamk7tksBNKgOzY4TrgCLcB/s1600/LOGO-GAZETA-COR.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",TV GAZETA HD 
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD " tvg-logo="https://1.bp.blogspot.com/-40ZtGMw3eBE/V0YQ-u6iHaI/AAAAAAAAsPA/-lmAbaB3dpsxVCVamk7tksBNKgOzY4TrgCLcB/s1600/LOGO-GAZETA-COR.png" group-title="Canais abertos",TV GAZETA HD 
 https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/TVGAZETA-720p-20200701125042-1593609979.ts
 
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",TV CULTURA HD",TV CULTURA HD
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="Canais abertos",TV CULTURA HD",TV CULTURA HD
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ei Plus SD" tvg-logo="https://static.clubsrv.me/logos/canais/eiplus.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",Ei Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="Ei Plus SD" tvg-logo="https://static.clubsrv.me/logos/canais/eiplus.png" group-title="Canais de esportes",Ei Plus HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/91.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="" tvg-name="Ei Plus SD" tvg-logo="https://static.clubsrv.me/logos/canais/eiplus.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",Ei Plus 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="Ei Plus SD" tvg-logo="https://static.clubsrv.me/logos/canais/eiplus.png" group-title="Canais de esportes",Ei Plus 2 SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/92.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://static.clubsrv.me/logos/canais/espn.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",ESPN SD 
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://static.clubsrv.me/logos/canais/espn.png" group-title="Canais de esportes",ESPN SD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/101.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",ESPN 2 SD
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/103.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",ESPN Brasil SD
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/105.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",ESPN Brasil HD 
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/106.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",ESPN Extra SD
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/108.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",ESPN Extra HD
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/109.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",FOX Sports 2 SD
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/130.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",FOX Sports SD
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/131.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 
 
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="TODOS OS CANAIS",PREMIERE 2 
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE 2 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/219.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",PREMIERE 3 
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE 3 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/220.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD " tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 3 HD 
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD " tvg-logo="" group-title="Canais de esportes",PREMIERE 3 HD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/221.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",PREMIERE 4 
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE 4 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/222.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",PREMIERE 4 HD 
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE 4 HD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/223.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",PREMIERE 5 
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE 5 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/224.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",PREMIERE 6 
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE 6 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/225.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 " tvg-logo="" group-title="TODOS OS CANAIS",PREMIERE 7 
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 " tvg-logo="" group-title="Canais de esportes",PREMIERE 7 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/226.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",PREMIERE CLUBES HD 
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE CLUBES HD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/229.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",SPORTV HD²
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD²
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/269.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",SPORTV 2 HD²
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD²
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/271.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="TODOS OS CANAIS",SPORTV 3 HD²
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD²
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/273.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",Combate SD
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate SD
 http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/61.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",A&E HD
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="Canais filmes",A&E HD
 http://mpegts.azureedge.net/hls1/aie.m3u8
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AMC HD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="Canais filmes ",AMC HD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47103.ts
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AXN HD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="Canais filmes ",AXN HD
 http://mpegts.azureedge.net/hls1/axn.m3u8
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",AXN FHD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="Canais filmes ",AXN FHD
 http://mpegts.azureedge.net/hls1/axn.m3u8
 
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO HD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais filmes ",HBO HD
 http://mpegts.azureedge.net/hls1/hbo.m3u8
 
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo2.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO 2 HD
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo2.png" group-title="Canais filmes ",HBO 2 HD
 http://mpegts.azureedge.net/hls1/hbo2.m3u8
 
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbofamily.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO Family HD
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbofamily.png" group-title="Canais filmes ",HBO Family HD
 http://mpegts.azureedge.net/hls1/hbofamily.m3u8
 
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://static.clubsrv.me/logos/canais/hboplus.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO+ HD
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://static.clubsrv.me/logos/canais/hboplus.png" group-title="Canais filmes ",HBO+ HD
 http://mpegts.azureedge.net/hls1/hboplus.m3u8
 
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature FHD [H265]" tvg-logo="https://static.clubsrv.me/logos/canais/hbosignature.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO Signature HD
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature FHD [H265]" tvg-logo="https://static.clubsrv.me/logos/canais/hbosignature.png" group-title="Canais filmes ",HBO Signature HD
 http://mpegts.azureedge.net/hls1/hbosignature.m3u8
 
-#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",MAX
+#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Canais filmes ",MAX
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/194.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",MAX PRIME
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="Canais filmes ",MAX PRIME
 https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimehd/video.m3u8
 
-#EXTINF:-1 tvg-id="Maxup.br" tvg-name="MAX UP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",MAX UO
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="MAX UP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Canais filmes ",MAX UO
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/198.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://static.clubsrv.me/logos/canais/megapix.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",MEGAPIX HD
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://static.clubsrv.me/logos/canais/megapix.png" group-title="Canais filmes ",MEGAPIX HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/200.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",Studio Universal HD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais filmes ",Studio Universal HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/276.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",Studio Universal FHD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais filmes ",Studio Universal FHD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47340.ts
 
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD" tvg-logo="https://static.clubsrv.me/logos/canais/syfy.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",SyFy SD
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD" tvg-logo="https://static.clubsrv.me/logos/canais/syfy.png" group-title="Canais filmes ",SyFy SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/278.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://static.clubsrv.me/logos/canais/tbs.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TBS SD
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://static.clubsrv.me/logos/canais/tbs.png" group-title="Canais filmes ",TBS SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/279.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/tcm.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TCM SD 
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/tcm.png" group-title="Canais filmes ",TCM SD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/280.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais filmes ",TELECINE ACTION HD
 http://mpegts.azureedge.net/hls1/telecineaction.m3u8
 
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="T[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TELECINE CULT HD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="Canais filmes ",TELECINE CULT HD
 http://mpegts.azureedge.net/hls1/telecinecult.m3u8
 
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TELECINE FUN HD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="Canais filmes ",TELECINE FUN HD
 http://mpegts.azureedge.net/hls1/telecinefun.m3u8
 
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="Canais filmes ",TELECINE PIPOCA HD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47433.ts
 
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais filmes ",TELECINE PREMIUM HD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47434.ts
 
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais filmes ",TELECINE TOUCH HD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47435.ts
 
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://static.clubsrv.me/logos/canais/tlc.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",TLC SD
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais variedades",TLC SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/300.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TNT SD
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais filmes ",TNT SD
 https://stream.ec.cx/hls1/tnt.m3u8?expires=1593563206&token=4257ae6fe64d9a2b0d69c2e67f872c89
 
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HDI" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TNT HD
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HDI" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais filmes ",TNT HD
 https://stream.ec.cx/hls1/tnt.m3u8?expires=1593563206&token=4257ae6fe64d9a2b0d69c2e67f872c89
 
-#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series HD" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",TNT Series SD 
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series HD" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="Canais filmes ",TNT Series SD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/303.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/universalchannel.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",Universal Channel SD
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/universalchannel.png" group-title="Canais filmes ",Universal Channel SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/313.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/universalchannel.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",Universal Channel HD
+#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/universalchannel.png" group-title="Canais filmes ",Universal Channel HD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47365.ts
 
 
 
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis SD" tvg-logo="https://static.clubsrv.me/logos/canais/bis.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Bis SD
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis SD" tvg-logo="https://static.clubsrv.me/logos/canais/bis.png" group-title="Canais variedades",Bis SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/45.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://static.clubsrv.me/logos/canais/comedycentral.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Comedy Central SD
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://static.clubsrv.me/logos/canais/comedycentral.png" group-title="Canais variedades",Comedy Central SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/63.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! SD" tvg-logo="https://static.clubsrv.me/logos/canais/e%21.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",E! SD
+#EXTINF:-1 tvg-id="E!.br" tvg-name="E! SD" tvg-logo="https://static.clubsrv.me/logos/canais/e%21.png" group-title="Canais variedades",E! SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/86.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Fish TV SD
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="Canais variedades",Fish TV SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/113.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="TODOS OS CANAIS",FILM & ARTS 
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="Canais variedades",FILM & ARTS 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/111.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Fish TV SD
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="Canais variedades",Fish TV SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/113.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network SD" tvg-logo="https://static.clubsrv.me/logos/canais/foodnetwork.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Food Network SD
+#EXTINF:-1 tvg-id="Foodnetwork.br" tvg-name="Food Network SD" tvg-logo="https://static.clubsrv.me/logos/canais/foodnetwork.png" group-title="Canais variedades",Food Network SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/114.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://static.clubsrv.me/logos/canais/gnt.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",GNT HD
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://static.clubsrv.me/logos/canais/gnt.png" group-title="Canais variedades",GNT HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/170.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais GloboSat HD" tvg-logo="https://static.clubsrv.me/logos/canais/maisglobosat.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Mais GloboSat HD
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais GloboSat HD" tvg-logo="https://static.clubsrv.me/logos/canais/maisglobosat.png" group-title="Canais variedades",Mais GloboSat HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/191.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais GloboSat HD" tvg-logo="https://static.clubsrv.me/logos/canais/maisglobosat.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Mais GloboSat SD
+#EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais GloboSat HD" tvg-logo="https://static.clubsrv.me/logos/canais/maisglobosat.png" group-title="Canais variedades",Mais GloboSat SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/192.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://static.clubsrv.me/logos/canais/mtv.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",MTV SD 
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais variedades",MTV SD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/201.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://static.clubsrv.me/logos/canais/mtv.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",MTV HD
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais variedades",MTV HD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47268.ts 
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://static.clubsrv.me/logos/canais/multishow.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Multishow HD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais variedades",Multishow HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/202.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://static.clubsrv.me/logos/canais/multishow.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Multishow SD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais variedades",Multishow SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/204.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/musicboxbrazil.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Music Box Brasil SD
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/musicboxbrazil.png" group-title="Canais variedades",Music Box Brasil SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/205.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://static.clubsrv.me/logos/canais/off.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",OFF SD
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://static.clubsrv.me/logos/canais/off.png" group-title="Canais variedades",OFF SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/213.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://static.clubsrv.me/logos/canais/off.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",OFF HD
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://static.clubsrv.me/logos/canais/off.png" group-title="Canais variedades",OFF HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/214.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/paramount.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Paramount Channel SD
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/paramount.png" group-title="Canais variedades",Paramount Channel SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/215.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV SD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/playtv.png" group-title="[COLOR blue] CANAIS | VARIEDADES[/COLOR]",Play TV SD
+#EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV SD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/playtv.png" group-title="Canais variedades",Play TV SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/216.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 
@@ -276,79 +276,79 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/216.ts
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://static.clubsrv.me/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
 http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/33.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="[COLOR white] Documentarios[/COLOR]",Discovery Channel SD 
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel SD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/68.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="[COLOR white] Documentarios[/COLOR]",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel HD
 http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47398.ts
 
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" group-title="[COLOR white] Documentarios[/COLOR]",Discovery H&H SD 
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" group-title="Canais documentarios",Discovery H&H SD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/69.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="[COLOR white] Documentarios[/COLOR]",Discovery Kids SD
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="Canais documentarios",Discovery Kids SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/70.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://img2.gratispng.com/20181122/qik/kisspng-logo-cable-television-design-hgtv-5bf71bb1c4c204.6519185115429211378059.jpg" group-title="TODOS OS CANAIS",DISCOVERY HGTV
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://img2.gratispng.com/20181122/qik/kisspng-logo-cable-television-design-hgtv-5bf71bb1c4c204.6519185115429211378059.jpg" group-title="Canais documentarios",DISCOVERY HGTV
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/72.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryscience.png" group-title="[COLOR white] Documentarios[/COLOR]",Discovery Science SD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryscience.png" group-title="Canais documentarios",Discovery Science SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/73.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverytheater.png" group-title="[COLOR white] Documentarios[/COLOR]",Discovery Theater SD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverytheater.png" group-title="Canais documentarios",Discovery Theater SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/75.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" group-title="[COLOR white] Documentarios[/COLOR]",Discovery World SD
+#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" group-title="Canais documentarios",Discovery World SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/76.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="[COLOR white] Documentarios[/COLOR]",Disney Channel HD
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="Canais documentarios",Disney Channel HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/78.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery SD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="[COLOR white] Documentarios[/COLOR]",Investigation Discovery SD
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery SD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/189.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild SD" tvg-logo="https://static.clubsrv.me/logos/canais/natgeowild.png" group-title="[COLOR white] Documentarios[/COLOR]",NatGeo Wild SD
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild SD" tvg-logo="https://static.clubsrv.me/logos/canais/natgeowild.png" group-title="Canais documentarios",NatGeo Wild SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/208.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo SD" tvg-logo="https://static.clubsrv.me/logos/canais/nationalgeographic.png" group-title="[COLOR white] Documentarios[/COLOR]",NatGeo SD
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo SD" tvg-logo="https://static.clubsrv.me/logos/canais/nationalgeographic.png" group-title="Canais documentarios",NatGeo SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/210.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 
 
 
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="[COLOR green]INFANTIL[/COLOR]",Discovery Kids SD
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="Canais infantis",Discovery Kids SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/70.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Infantis",Cartoon network HD
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Canais infantis",Cartoon network HD
 https://stream.ec.cx/hls1/cartoon.m3u8?expires=1593564782&token=a9e6e768295655dba257f64ba47e801a
 
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="[COLOR green]INFANTIL[/COLOR]",Disney Channel SD
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="Canais infantis",Disney Channel SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/79.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Disneyjunior.br" tvg-name="Disney Jr SD" tvg-logo="https://static.clubsrv.me/logos/canais/disneyjr.png" group-title="[COLOR green]INFANTIL[/COLOR]",Disney Jr HD 
+#EXTINF:-1 tvg-id="Disneyjunior.br" tvg-name="Disney Jr SD" tvg-logo="https://static.clubsrv.me/logos/canais/disneyjr.png" group-title="Canais infantis",Disney Jr HD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/81.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD " tvg-logo="https://i7.pngflow.com/pngimage/890/131/png-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-logo-clipart.png" group-title="TODOS OS CANAIS",DISNEY XD HD 
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD " tvg-logo="https://i7.pngflow.com/pngimage/890/131/png-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-logo-clipart.png" group-title="Canais infantis",DISNEY XD HD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/84.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="https://static.clubsrv.me/logos/canais/gloob.png" group-title="[COLOR green]INFANTIL[/COLOR]",Gloob HD
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="https://static.clubsrv.me/logos/canais/gloob.png" group-title="Canais infantis",Gloob HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/166.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://static.clubsrv.me/logos/canais/gloobinho.png" group-title="[COLOR green]INFANTIL[/COLOR]",Gloobinho SD
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais infantis",Gloobinho SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/169.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NatGeo Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/natgeokids.png" group-title="[COLOR green]INFANTIL[/COLOR]",NatGeo Kids SD
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NatGeo Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais infantis",NatGeo Kids SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/206.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Nickjr.br" tvg-name="Nick Jr SD" tvg-logo="https://static.clubsrv.me/logos/canais/nickjr.png" group-title="[COLOR green]INFANTIL[/COLOR]",Nick Jr SD
+#EXTINF:-1 tvg-id="Nickjr.br" tvg-name="Nick Jr SD" tvg-logo="https://static.clubsrv.me/logos/canais/nickjr.png" group-title="Canais infantis",Nick Jr SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/211.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://static.clubsrv.me/logos/canais/nick.png" group-title="[COLOR green]INFANTIL[/COLOR]",Nickelodeon SD 
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://static.clubsrv.me/logos/canais/nick.png" group-title="Canais infantis",Nickelodeon SD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/212.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="" tvg-name="PlayKids SD" tvg-logo="https://static.clubsrv.me/logos/canais/playkids.png" group-title="[COLOR green]INFANTIL[/COLOR]",PlayKids SD
+#EXTINF:-1 tvg-id="" tvg-name="PlayKids SD" tvg-logo="https://static.clubsrv.me/logos/canais/playkids.png" group-title="Canais infantis",PlayKids SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/218.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/tooncast.png" group-title="[COLOR green]INFANTIL[/COLOR]",Tooncast SD
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais infantis",Tooncast SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/304.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 
@@ -452,4 +452,3 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/425.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24H - CAVALO DE FOGO" tvg-logo="https://i.pinimg.com/originals/60/96/35/60963558bc1dcc21357ae9eab5f68468.png" group-title="Desenhos 24hrs",24H - CAVALO DE FOGO
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/433.ts?dwightfarrokhlistas|user-agent=GoPlayer
-

@@ -5,7 +5,7 @@
 http://0.0.0.0:0000
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP SD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Band SP SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/40.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://usb.bozztv.com/hddnab/index.m3u8
 
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD" tvg-logo="https://static.clubsrv.me/logos/canais/bandsports.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",BandSports SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/44.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -23,7 +23,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/54.ts?
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/134.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo SP HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/135.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CoQFf4Pk75Rr9VozhHz9F1JEMhXk_1PL8j1ivHiVzDmMFHLEJ5B_3RfVgZZ7-KadUQsfxroSQ2tLdGacjQCIIg0oa2o016C-pWazv2Rd6gtpDM1GkF8-cm5m8lTz847-OFrGLqbxW3phs7RitEkFawz0Qo2QbBWvwiu4QKAFW_SSebDuGS6QDR-mxEC6K6RtBWcT5nEUu6sfNVan_R4Bq_BSkWUuEnq4oUET7fVjoDZ3GP5J-SJMoRoh_1Vrbx_9ylbjmi_L0mGJDtXldLiUwbN5yTSzwmylXy4ODUXlYInCJvhSGzSVRug1XlO57-4ZZTtSMRDwXGPuWFrxfpVSU0JB1xMwlbK4ouhuOf94KKfdG2gU640nEr7UJ30JUVUZpIBf_LzskWLTUyFHBE985ji3tiSR8hgYEJy36GAscrcaU8x5AV7tuv0Onl-P7vHfWn4YH_QPADPZhsk9lNJu-BrII2jFTZRo3Vzqay17x4mkBYByNOzYYuniR4eOnz4Vqs-xZYYHZgdm2_YOGs-VpAEKSlGQbFGF_lZdsLuaGuskphgEhqLGxy_AtyjKbrzkv1SgLqnQeQuNZ9RCmc0wmdtwV0f12Y6faWJ_gjEI6hcbuZsty8I52pCmSB0nnFtarm9_cixH6cPRiZR-Bbtw41OqtVdaWYUR7pO2LQmtbmG36ljswi6f67Wa_IEtIhAdPi4q1aIEP75XEdW9jzDjtFdAM-fLelFXk4Y7uN3XfRcLBwu3hfbwcTXCcVMyte7mjTKIlJ7qfMA2s_ThUOGq4w2RG-Zx55--fO4vx2hIB0Kq1wKnfjEzLcgcKVmYsWewPuVxpD0yDFPdUFafgO2sQbUdDznSWmoSEMEebjM6DNFEZ8ShYsyOSvAaDOLc34jivm9-D5u-Fw.m3u8
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Minas HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Globo Minas SD²
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/139.ts?dwightfarrokhlistas|user-agent=GoPlayer

@@ -5,7 +5,7 @@
 http://0.0.0.0:0000
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP SD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Band SP SD
-https://usb.bozztv.com/hddnab/index.m3u8
+https://evpp.mm.uol.com.br/geob_band/app/media_w1120878916_2759.ts
 
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD" tvg-logo="https://static.clubsrv.me/logos/canais/bandsports.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",BandSports SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/44.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -35,7 +35,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/151.ts
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV FHD [H265]" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",RecordTV  BELEM
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/recordhd/video.m3u8
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/segment2123146_480_av-p.ts?sd=10
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",RecordTV RJ SD
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
@@ -47,20 +47,19 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/254.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/255.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",SBT
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10.smil/media_w1361860827_b131000_sleng_99547.ts
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",SBT²
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/media_w452087569_40208.ts
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum SD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/ratimbum.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",TV Ra Tim Bum SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/305.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA HD " tvg-logo="https://1.bp.blogspot.com/-40ZtGMw3eBE/V0YQ-u6iHaI/AAAAAAAAsPA/-lmAbaB3dpsxVCVamk7tksBNKgOzY4TrgCLcB/s1600/LOGO-GAZETA-COR.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",TV GAZETA HD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/306.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/TVGAZETA-720p-20200701125042-1593609979.ts
 
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",TV CULTURA HD",TV CULTURA HD
-http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8[COLOR yellow] CANAIS | ABERTOS[/COLOR]
-
+https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/media-u0ecwgpa1_2604.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Ei Plus SD" tvg-logo="https://static.clubsrv.me/logos/canais/eiplus.png" group-title="[COLOR green] CANAIS | ESPORTES[/COLOR]",Ei Plus HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/91.ts?dwightfarrokhlistas|user-agent=GoPlayer

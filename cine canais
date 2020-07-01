@@ -5,19 +5,13 @@
 http://0.0.0.0:0000
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP SD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Band SP SD
-https://evpp.mm.uol.com.br/geob_band/app/media_w1120878916_2759.ts
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports SD" tvg-logo="https://static.clubsrv.me/logos/canais/bandsports.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",BandSports SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/44.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/canalbrasil.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Canal Brasil SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/51.ts?dwightfarrokhlistas|user-agent=GoPlayer
-
-#EXTINF:-1 tvg-id="" tvg-name="REDE CNT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",REDE CNT
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/52.ts?dwightfarrokhlistas|user-agent=GoPlayer
-
-#EXTINF:-1 tvg-id="Canaldoboi.br" tvg-name="Canal Do Boi SD" tvg-logo="https://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Canal Do Boi SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/54.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura SD" tvg-logo="https://static.clubsrv.me/logos/canais/futura.png" group-title="[COLOR yellow] CANAIS | ABERTOS[/COLOR]",Futura SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/134.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -153,7 +147,7 @@ http://mpegts.azureedge.net/hls1/hbo.m3u8
 http://mpegts.azureedge.net/hls1/hbo2.m3u8
 
 #EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbofamily.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO Family HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/179.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/hbofamily.m3u8
 
 #EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://static.clubsrv.me/logos/canais/hboplus.png" group-title="[COLOR red] CANAIS | FILMES E SERIES[/COLOR]",HBO+ HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/182.ts?dwightfarrokhlistas|user-agent=GoPlayer

@@ -174,7 +174,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/279.ts
 http://mpegts.azureedge.net/hls1/tcm.m3u8
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais filmes ",TELECINE ACTION HD
-http://mpegts.azureedge.net/hls1/telecineaction.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecineactionsd/video.m3u8
 
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="Canais filmes ",TELECINE CULT HD
 http://mpegts.azureedge.net/hls1/telecinecult.m3u8
@@ -241,8 +241,7 @@ http://mpegts.azureedge.net/hls1/maisbobosat.m3u8
 #EXTINF:-1 tvg-id="Maisglobosat.br" tvg-name="Mais GloboSat HD" tvg-logo="https://static.clubsrv.me/logos/canais/maisglobosat.png" group-title="Canais variedades",Mais GloboSat HD
 http://mpegts.azureedge.net/hls1/maisbobosat.m3u8
 
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais variedades",MTV HD 
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b528441_sleng.m3u8
+
 
 #EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD" tvg-logo="https://static.clubsrv.me/logos/canais/mtv.png" group-title="Canais variedades",MTV FHD
 http://mpegts.azureedge.net/hls1/mtv.m3u8
@@ -250,17 +249,12 @@ http://mpegts.azureedge.net/hls1/mtv.m3u8
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais variedades",Multishow HD
 http://mpegts.azureedge.net/hls1/multishow.m3u8
 
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://static.clubsrv.me/logos/canais/multishow.png" group-title="Canais variedades",Multishow HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/204.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/musicboxbrazil.png" group-title="Canais variedades",Music Box Brasil HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/205.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://static.clubsrv.me/logos/canais/off.png" group-title="Canais variedades",OFF HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/213.ts?dwightfarrokhlistas|user-agent=GoPlayer
-
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://static.clubsrv.me/logos/canais/off.png" group-title="Canais variedades",OFF HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/214.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/paramount.png" group-title="Canais variedades",Paramount Channel HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/215.ts?dwightfarrokhlistas|user-agent=GoPlayer

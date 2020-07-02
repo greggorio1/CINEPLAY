@@ -17,25 +17,25 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/51.ts?
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/134.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo SP HD
-https://usb.bozztv.com/kabomtv/index.m3u8
+https://mpegts.azureedge.net/hls1/bobosp-82.ts
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Minas HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo MinasHD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/139.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://stream.ec.cx/hls1/bobonordeste.m3u8?expires=1593657864&token=2a8a7c4754c52837f0e1e425860d68ec
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Nordeste SD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo Nordeste HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/151.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://mpegts.azureedge.net/hls1/bobonordeste-45137.ts
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo RJ HD
 https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV FHD [H265]" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="Canais abertos",RecordTV  SP
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/segment2123146_480_av-p.ts?sd=10
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/segment2128232_720_av-p.ts?sd=10
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="Canais abertos",RecordTV RJ 
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?sd=10&rebase=on
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais abertos",SBT
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/sbtsd/video.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1361860827_b131000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais abertos",SBT²
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
@@ -55,29 +55,29 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/91.ts?
 #EXTINF:-1 tvg-id="" tvg-name="Ei Plus SD" tvg-logo="https://static.clubsrv.me/logos/canais/eiplus.png" group-title="Canais de esportes",Ei Plus 2 SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/92.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://static.clubsrv.me/logos/canais/espn.png" group-title="Canais de esportes",ESPN SD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/101.ts?dwightfarrokhlistas|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://static.clubsrv.me/logos/canais/espn.png" group-title="Canais de esportes",ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/103.ts?dwightfarrokhlistas|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/105.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/espnbrasil.m3u8
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/106.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/108.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/109.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/espnextra.m3u8
 
-#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/130.ts?dwightfarrokhlistas|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 HD
+http://mpegts.azureedge.net/hls1/foxsports2.m3u8
 
-#EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/131.ts?dwightfarrokhlistas|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports HD
+http://mpegts.azureedge.net/hls1/foxsports1.m3u8
 
 
 
@@ -112,13 +112,13 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/229.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/269.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD²
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/271.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/sportv2.m3u8
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD²
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/273.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate SD
-http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/61.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/combate.m3u8
 
 
 
@@ -319,7 +319,7 @@ http://mpegts.azureedge.net/hls1/natgeo.m3u8
 http://mpegts.azureedge.net/hls1/discoverykids.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Canais infantis",Cartoon network HD
-http://mpegts.azureedge.net/hls1/cartoon.m3u8
+https://usb.bozztv.com/KROWTENNOOTRAC/index.m3u8
 
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="Canais infantis",Disney Channel SD
 http://mpegts.azureedge.net/hls1/disney.m3u8

@@ -8,7 +8,7 @@ http://0.0.0.0:0000
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais abertos",Band RJ HD
-https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
+http://mpegts.azureedge.net/hls1/band.m3u8
 
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/canalbrasil.png" group-title="Canais abertos",Canal Brasil HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/51.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -23,7 +23,7 @@ https://usb.bozztv.com/multicanais123/index.m3u8
 https://usb.bozztv.com/Azure100nordestes/index.m3u8
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo RJ HD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globorjhd/video.m3u8
+https://usb.bozztv.com/kabomtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV FHD [H265]" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="Canais abertos",RecordTV  SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/segment2128232_720_av-p.ts?HD=10

@@ -291,20 +291,20 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/70.ts?
 #EXTINF:-1 tvg-id="HGTV.br" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://img2.gratispng.com/20181122/qik/kisspng-logo-cable-television-design-hgtv-5bf71bb1c4c204.6519185115429211378059.jpg" group-title="Canais documentarios",DISCOVERY HGTV
 http://fotodicas.com/imagens/streamcdn_off.png
 
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryscience.png" group-title="Canais documentarios",Discovery Science SD
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryscience.png" group-title="Canais documentarios",Discovery Science HD
 http://mpegts.azureedge.net/hls1/discoverysience.m3u8
 
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverytheater.png" group-title="Canais documentarios",Discovery Theater SD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverytheater.png" group-title="Canais documentarios",Discovery Theater HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/75.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" group-title="Canais documentarios",Discovery World SD
+#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" group-title="Canais documentarios",Discovery World HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/76.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="Canais documentarios",Disney Channel HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/78.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery SD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/189.ts?dwightfarrokhlistas|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery SD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD
+http://mpegts.azureedge.net/hls1/investigacaodiscovery.m3u8
 
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild SD" tvg-logo="https://static.clubsrv.me/logos/canais/natgeowild.png" group-title="Canais documentarios",NatGeo Wild SD
 http://mpegts.azureedge.net/hls1/natgeowild.m3u8
@@ -316,25 +316,25 @@ http://mpegts.azureedge.net/hls1/natgeo.m3u8
 
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="Canais infantis",Discovery Kids SD
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
+http://mpegts.azureedge.net/hls1/discoverykids.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Canais infantis",Cartoon network HD
 http://mpegts.azureedge.net/hls1/cartoon.m3u8
 
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="Canais infantis",Disney Channel SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/79.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/disney.m3u8
 
 #EXTINF:-1 tvg-id="Disneyjunior.br" tvg-name="Disney Jr SD" tvg-logo="https://static.clubsrv.me/logos/canais/disneyjr.png" group-title="Canais infantis",Disney Jr HD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/81.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD " tvg-logo="https://i7.pngflow.com/pngimage/890/131/png-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-logo-clipart.png" group-title="Canais infantis",DISNEY XD HD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/84.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/disneyxd.m3u8
 
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="https://static.clubsrv.me/logos/canais/gloob.png" group-title="Canais infantis",Gloob HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/166.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais infantis",Gloobinho SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/169.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/chunklist_w422204691.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NatGeo Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Canais infantis",NatGeo Kids SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/206.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -343,13 +343,13 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/206.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/211.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://static.clubsrv.me/logos/canais/nick.png" group-title="Canais infantis",Nickelodeon SD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/212.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/nick.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PlayKids SD" tvg-logo="https://static.clubsrv.me/logos/canais/playkids.png" group-title="Canais infantis",PlayKids SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/218.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais infantis",Tooncast SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/304.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/tooncast.m3u8
 
 
 

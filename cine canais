@@ -352,16 +352,16 @@ http://mpegts.azureedge.net/hls1/tooncast.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24H - A PANTERA COR DE ROSA" tvg-logo="https://w7.pngwing.com/pngs/999/504/png-transparent-pink-panther-illustration-the-pink-panther-owens-corning-storm-guard-others.png" group-title="Desenhos 24hrs",24H - A PANTERA COR DE ROSA
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/335.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/335.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="" tvg-name="24H - APENAS UM SHOW" tvg-logo="https://vignette.wikia.nocookie.net/dublagempedia/images/a/ac/Apenas_um_Show.png/revision/latest?cb=20190621021601&path-prefix=pt-br" group-title="Desenhos 24hrs",24H - APENAS UM SHOW
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/336.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/336.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="" tvg-name="24H - ARMAÇÃO ILIMITADA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/LOGOTIPO_ARMA%C3%87%C3%83O_ILIMITAA.GIF" group-title="Desenhos 24hrs",24H - ARMAÇÃO ILIMITADA
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/337.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/337.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="" tvg-name="24H - CAPITÃO PLANETA" tvg-logo="https://img1.gratispng.com/20180522/tbf/kisspng-captain-planet-and-the-planeteers-television-show-african-harrierhawk-5b04343ea07993.6167619115270021746573.jpg" group-title="Desenhos 24hrs",24H - CAPITÃO PLANETA
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/338.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/338.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="" tvg-name="24H - CHANGEMAN" tvg-logo="https://i.pinimg.com/originals/13/3d/e9/133de9b12a4260043f9c98e54c4a0bc7.png" group-title="Desenhos 24hrs",24H - CHANGEMAN
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/339.ts?dwightfarrokhlistas|user-agent=GoPlayer

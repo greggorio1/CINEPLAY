@@ -123,7 +123,7 @@ http://mpegts.azureedge.net/hls1/combate.m3u8
 http://mpegts.azureedge.net/hls1/aie.m3u8
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="Canais filmes ",AMC HD
-http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47103.ts
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/amcbrasil_b7f5113f_35663a81fad3f4e2f49b1e972c252b9d48805b73/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="Canais filmes ",AXN HD
 http://mpegts.azureedge.net/hls1/axn.m3u8
@@ -150,7 +150,7 @@ http://mpegts.azureedge.net/hls1/hbosignature.m3u8
 http://mpegts.azureedge.net/hls1/max.m3u8
 
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="Canais filmes ",MAX PRIME
-https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimehd/video.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hboxtreme_9c676e00_90ec8b7a7c9d992c6f5381f01cc085d3ed2089f5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Maxup.br" tvg-name="MAX UP " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Canais filmes ",MAX UO
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/198.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -174,7 +174,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/279.ts
 http://mpegts.azureedge.net/hls1/tcm.m3u8
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais filmes ",TELECINE ACTION HD
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecineactionsd/video.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/telecineactionhd_be2793cd_e387fbc97013a6f5f6f5b2324e4b939949290675/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="Canais filmes ",TELECINE CULT HD
 http://mpegts.azureedge.net/hls1/telecinecult.m3u8
@@ -183,7 +183,7 @@ http://mpegts.azureedge.net/hls1/telecinecult.m3u8
 http://mpegts.azureedge.net/hls1/telecinefun.m3u8
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="Canais filmes ",TELECINE PIPOCA HD
-http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47433.ts
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepipoca_fd937516_968e233537d4d2826b6f5961266aec3c6c3b50e4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais filmes ",TELECINE PREMIUM HD
 http://mpegts.azureedge.net/hls1/telecinepremium.m3u8

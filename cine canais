@@ -274,13 +274,13 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/216.ts
 
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://static.clubsrv.me/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
-http://dwightfarrokhlistas.ddns.net:25461/live/xj4GuY5P54ZbZD/YEyF7D7bbX6U/33.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/animalplanet.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel SD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/68.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/discovery.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel HD
-http://toopnet.dydns.site:2082/live/Danilo2021/Streaming/47398.ts
+http://mpegts.azureedge.net/hls1/discovery.m3u8
 
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" group-title="Canais documentarios",Discovery H&H SD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/69.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -289,10 +289,10 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/69.ts?
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/70.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="HGTV.br" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://img2.gratispng.com/20181122/qik/kisspng-logo-cable-television-design-hgtv-5bf71bb1c4c204.6519185115429211378059.jpg" group-title="Canais documentarios",DISCOVERY HGTV
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/72.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://fotodicas.com/imagens/streamcdn_off.png
 
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryscience.png" group-title="Canais documentarios",Discovery Science SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/73.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/discoverysience.m3u8
 
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverytheater.png" group-title="Canais documentarios",Discovery Theater SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/75.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -307,19 +307,19 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/78.ts?
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/189.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild SD" tvg-logo="https://static.clubsrv.me/logos/canais/natgeowild.png" group-title="Canais documentarios",NatGeo Wild SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/208.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/natgeowild.m3u8
 
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo SD" tvg-logo="https://static.clubsrv.me/logos/canais/nationalgeographic.png" group-title="Canais documentarios",NatGeo SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/210.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/natgeo.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="Canais infantis",Discovery Kids SD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/70.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Canais infantis",Cartoon network HD
-https://stream.ec.cx/hls1/cartoon.m3u8?expires=1593564782&token=a9e6e768295655dba257f64ba47e801a
+http://mpegts.azureedge.net/hls1/cartoon.m3u8
 
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="Canais infantis",Disney Channel SD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/79.ts?dwightfarrokhlistas|user-agent=GoPlayer

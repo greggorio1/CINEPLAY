@@ -286,19 +286,19 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/216.ts
 http://mpegts.azureedge.net/hls1/animalplanet.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel HD 
-http://mpegts.azureedge.net/hls1/discovery.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/discoverysd/video.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel HD
-http://mpegts.azureedge.net/hls1/discovery.m3u8
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" group-title="Canais documentarios",Discovery H&H HD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/69.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/69.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="Canais documentarios",Discovery Kids HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/70.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://img2.gratispng.com/20181122/qik/kisspng-logo-cable-television-design-hgtv-5bf71bb1c4c204.6519185115429211378059.jpg" group-title="Canais documentarios",DISCOVERY HGTV
-http://fotodicas.com/imagens/streamcdn_off.png
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="Discovery Civilization hd" tvg-logo="https://img2.gratispng.com/20181122/qik/kisspng-logo-cable-television-design-hgtv-5bf71bb1c4c204.6519185115429211378059.jpg" group-title="Canais documentarios",DISCOVERY HGTV
+http://mpegts.azureedge.net/hls1/discoverycivilization.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryscience.png" group-title="Canais documentarios",Discovery Science HD
 http://mpegts.azureedge.net/hls1/discoverysience.m3u8
@@ -310,7 +310,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/75.ts?
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/76.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="Canais documentarios",Disney Channel HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/78.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/79.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD
 https://stream.ec.cx/hls1/investigacaodiscovery.m3u8
@@ -334,7 +334,7 @@ https://usb.bozztv.com/KROWTENNOOTRAC/index.m3u8
 http://mpegts.azureedge.net/hls1/disney.m3u8
 
 #EXTINF:-1 tvg-id="Disneyjunior.br" tvg-name="Disney Jr HD" tvg-logo="https://static.clubsrv.me/logos/canais/disneyjr.png" group-title="Canais infantis",Disney Jr HD 
-https://playpluHDisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/81.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD " tvg-logo="https://i7.pngflow.com/pngimage/890/131/png-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-logo-clipart.png" group-title="Canais infantis",DISNEY XD HD 
 http://mpegts.azureedge.net/hls1/disneyxd.m3u8

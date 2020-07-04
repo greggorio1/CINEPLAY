@@ -47,6 +47,7 @@ https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="Canais abertos",TV CULTURA HD",TV CULTURA HD
 https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="Ei Plus HD" tvg-logo="https://static.clubsrv.me/logos/canais/eiplus.png" group-title="Canais de esportes",Ei Plus HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/91.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
@@ -55,29 +56,37 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/92.ts?
 
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://static.clubsrv.me/logos/canais/espn.png" group-title="Canais de esportes",ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="https://static.clubsrv.me/logos/canais/espn.png" group-title="Canais de esportes",ESPN HD²
+
 
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD²" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 HD²
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil SD
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD
 http://mpegts.azureedge.net/hls1/espnbrasil.m3u8
-
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD 
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD²
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?HD=10&rebase=on
 
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra SD
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra HD
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra HD²
 http://mpegts.azureedge.net/hls1/espnextra.m3u8
 
-#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 HD
-http://mpegts.azureedge.net/hls1/foxsports2.m3u8
 
 #EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports HD
 http://mpegts.azureedge.net/hls1/foxsports1.m3u8
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports HD²
 
 
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 HD
+http://mpegts.azureedge.net/hls1/foxsports2.m3u8
+#EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 HD²
+
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE CLUBES HD 
+http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/229.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE 2 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/219.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -103,17 +112,24 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/225.ts
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 " tvg-logo="" group-title="Canais de esportes",PREMIERE 7 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/226.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE CLUBES HD 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/229.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD²
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD
 http://mpegts.azureedge.net/hls1/sportv1.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD²
 
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD²
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD
 http://mpegts.azureedge.net/hls1/sportv2.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD²
 
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD²
+
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD
 http://mpegts.azureedge.net/hls1/sportv3.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD²
+
+
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD
 http://mpegts.azureedge.net/hls1/combate.m3u8

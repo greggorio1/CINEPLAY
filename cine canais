@@ -107,13 +107,13 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/226.ts
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/229.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD²
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/269.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/sportv1.m3u8
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD²
 http://mpegts.azureedge.net/hls1/sportv2.m3u8
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD²
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/273.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/sportv3.m3u8
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD
 http://mpegts.azureedge.net/hls1/combate.m3u8
@@ -124,7 +124,7 @@ http://mpegts.azureedge.net/hls1/combate.m3u8
 http://mpegts.azureedge.net/hls1/aie.m3u8
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="Canais filmes ",AMC HD
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/amcbrasil_b7f5113f_35663a81fad3f4e2f49b1e972c252b9d48805b73/playlist.m3u8
+http://mpegts.azureedge.net/hls1/amc.m3u8
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="Canais filmes ",AXN HD
 http://mpegts.azureedge.net/hls1/axn.m3u8
@@ -133,18 +133,19 @@ http://mpegts.azureedge.net/hls1/axn.m3u8
 http://mpegts.azureedge.net/hls1/axn.m3u8
 
 #EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="FOX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fox.png" group-title="Canais filmes",FOX SD
-http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/116.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/fox.m3u8
 
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxlife.png" group-title="Canais filmes",FOX Life SD
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxlife.png" group-title="Canais filmes",FOX Life HD
+http://mpegts.azureedge.net/hls1/foxlife.m3u8
 
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="Canais filmes",FOX Premium 1
-http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/120.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/foxpremium1.m3u8
 
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX Premium 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium2.png" group-title="Canais filmes",FOX Premium 2 SD
-http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/123.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/foxpremium2.m3u8
 
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fx.png" group-title="Canais filmes",FX HD
-http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/126.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/fx.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo.png" group-title="Canais filmes ",HBO HD
 http://mpegts.azureedge.net/hls1/hbo.m3u8
@@ -174,7 +175,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/198.ts
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b69823c0aa6e5c717c66673f7b973695e56f7041/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="https://static.clubsrv.me/logos/canais/space.png" group-title="Canais filmes",Space HD
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b69823c0aa6e5c717c66673f7b973695e56f7041/playlist.m3u8
+http://mpegts.azureedge.net/hls1/space.m3u8
 
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://static.clubsrv.me/logos/canais/studiouniversal.png" group-title="Canais filmes ",Studio Universal HD
 http://mpegts.azureedge.net/hls1/studiouniversal.m3u8
@@ -192,7 +193,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/279.ts
 http://mpegts.azureedge.net/hls1/tcm.m3u8
 
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais filmes ",TELECINE ACTION HD
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/telecineactionhd_be2793cd_e387fbc97013a6f5f6f5b2324e4b939949290675/playlist.m3u8
+http://mpegts.azureedge.net/hls1/telecineaction.m3u8
 
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="Canais filmes ",TELECINE CULT HD
 http://mpegts.azureedge.net/hls1/telecinecult.m3u8
@@ -201,7 +202,7 @@ http://mpegts.azureedge.net/hls1/telecinecult.m3u8
 http://mpegts.azureedge.net/hls1/telecinefun.m3u8
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="Canais filmes ",TELECINE PIPOCA HD
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepipoca_fd937516_968e233537d4d2826b6f5961266aec3c6c3b50e4/playlist.m3u8
+http://mpegts.azureedge.net/hls1/telecinepipoca.m3u8
 
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais filmes ",TELECINE PREMIUM HD
 http://mpegts.azureedge.net/hls1/telecinepremium.m3u8
@@ -236,13 +237,13 @@ http://mpegts.azureedge.net/hls1/bis.m3u8
 http://mpegts.azureedge.net/hls1/comedycentral.m3u8
 
 #EXTINF:-1 tvg-id="E!.br" tvg-name="E! HD" tvg-logo="https://static.clubsrv.me/logos/canais/e%21.png" group-title="Canais variedades",E! HD
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/eentertainment_fe2fb474_4d2a6f92d0173d5d0b20b6b5407dbd6609191de1/playlist.m3u8
+http://mpegts.azureedge.net/hls1/canale.m3u8
 
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="Canais variedades",Fish TV HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/113.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="FilmArts.br" tvg-name="FILM & ARTS " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="Canais variedades",FILM & ARTS 
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/111.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/arte1.m3u8
 
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="Canais variedades",Fish TV HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/113.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -272,7 +273,7 @@ http://mpegts.azureedge.net/hls1/multishow.m3u8
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/205.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://static.clubsrv.me/logos/canais/off.png" group-title="Canais variedades",OFF HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/213.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/off.m3u8
 
 #EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="Paramount Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/paramount.png" group-title="Canais variedades",Paramount Channel HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/215.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -286,10 +287,10 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/216.ts
 http://mpegts.azureedge.net/hls1/animalplanet.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel HD 
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/discoverysd/video.m3u8
+http://mpegts.azureedge.net/hls1/discovery.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel HD
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1431167_sleng.m3u8
+http://mpegts.azureedge.net/hls1/discovery.m3u8
 
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryh%26h.png" group-title="Canais documentarios",Discovery H&H HD 
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/discoveryhomehealth_84582c1d_daed2389fc9d99b1d0e409894d2460299714d893/playlist.m3u8
@@ -304,16 +305,16 @@ http://mpegts.azureedge.net/hls1/discoverycivilization.m3u8
 http://mpegts.azureedge.net/hls1/discoverysience.m3u8
 
 #EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverytheater.png" group-title="Canais documentarios",Discovery Theater HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/75.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/discoverytheater.m3u8
 
 #EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" group-title="Canais documentarios",Discovery World HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/76.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/discoveryworld.m3u8
 
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="Canais documentarios",Disney Channel HD
 http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/79.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD
-https://stream.ec.cx/hls1/investigacaodiscovery.m3u8
+http://mpegts.azureedge.net/hls1/investigacaodiscovery.m3u8
 
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild HD" tvg-logo="https://static.clubsrv.me/logos/canais/natgeowild.png" group-title="Canais documentarios",NatGeo Wild HD
 http://mpegts.azureedge.net/hls1/natgeowild.m3u8
@@ -334,7 +335,7 @@ https://usb.bozztv.com/KROWTENNOOTRAC/index.m3u8
 http://mpegts.azureedge.net/hls1/disney.m3u8
 
 #EXTINF:-1 tvg-id="Disneyjunior.br" tvg-name="Disney Jr HD" tvg-logo="https://static.clubsrv.me/logos/canais/disneyjr.png" group-title="Canais infantis",Disney Jr HD 
-http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/81.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD " tvg-logo="https://i7.pngflow.com/pngimage/890/131/png-disney-xd-television-channel-logo-the-walt-disney-company-disney-channel-discovery-id-tv-channel-television-angle-rectangle-logo-clipart.png" group-title="Canais infantis",DISNEY XD HD 
 http://mpegts.azureedge.net/hls1/disneyxd.m3u8
@@ -349,7 +350,7 @@ http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/chunklist_w
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/206.ts?dwightfarrokhlistas|user-agent=GoPlayer
 
 #EXTINF:-1 tvg-id="Nickjr.br" tvg-name="Nick Jr HD" tvg-logo="https://static.clubsrv.me/logos/canais/nickjr.png" group-title="Canais infantis",Nick Jr HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/211.ts?dwightfarrokhlistas|user-agent=GoPlayer
+http://mpegts.azureedge.net/hls1/nickjr.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://static.clubsrv.me/logos/canais/nick.png" group-title="Canais infantis",Nickelodeon HD 
 http://mpegts.azureedge.net/hls1/nick.m3u8

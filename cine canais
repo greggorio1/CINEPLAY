@@ -249,32 +249,32 @@ http://mpegts.azureedge.net/hls1/tcm.m3u8
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais filmes ",TELECINE ACTION HD
 http://mpegts.azureedge.net/hls1/telecineaction.m3u8
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais filmes ",TELECINE ACTION HD²
-http://mpegts.azureedge.net/hls1/telecineaction.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_40876999cfcbd913080576101380d6548842f16d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="Canais filmes ",TELECINE CULT HD
 http://mpegts.azureedge.net/hls1/telecinecult.m3u8
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="Canais filmes ",TELECINE CULT HD²
-http://mpegts.azureedge.net/hls1/telecinecult.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecinecult_8d255e1e_87130a714a0ed33f095f312bfc925c8bb52b514a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="Canais filmes ",TELECINE FUN HD
 http://mpegts.azureedge.net/hls1/telecinefun.m3u8
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="Canais filmes ",TELECINE FUN HD²
-http://mpegts.azureedge.net/hls1/telecinefun.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecinefun_ae1e7198_3945dc0a2b20201ec7094d66c8ff5b3c59f64b87/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="Canais filmes ",TELECINE PIPOCA HD
 http://mpegts.azureedge.net/hls1/telecinepipoca.m3u8
 #EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="Canais filmes ",TELECINE PIPOCA HD²
-http://mpegts.azureedge.net/hls1/telecinepipoca.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecinepipoca_fd937516_2cb539470c819a5ec86f583c56e7bc86f19e4d2a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais filmes ",TELECINE PREMIUM HD
 http://mpegts.azureedge.net/hls1/telecinepremium.m3u8
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais filmes ",TELECINE PREMIUM HD²
-http://mpegts.azureedge.net/hls1/telecinepremium.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepremium_a929eb33_0f46bf26b712f9cdcf0d8d36b4761926bbd337ad/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais filmes ",TELECINE TOUCH HD
 http://mpegts.azureedge.net/hls1/telecinetouch.m3u8
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais filmes ",TELECINE TOUCH HD²
-http://mpegts.azureedge.net/hls1/telecinetouch.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_88cc2f7df74af2f9a966da6f2493321966ad6454/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://static.clubsrv.me/logos/canais/tlc.png" group-title="Canais variedades",TLC HD
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/300.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -282,7 +282,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/300.ts
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais filmes ",TNT HD
 http://mpegts.azureedge.net/hls1/tnt.m3u8
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://static.clubsrv.me/logos/canais/tnt.png" group-title="Canais filmes ",TNT HD²
-http://mpegts.azureedge.net/hls1/tnt.m3u8
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tnt_9109c85a_15ddf6ad648189128cd46624c54b0dc9fd336243/playlist.m3u8
 
 
 

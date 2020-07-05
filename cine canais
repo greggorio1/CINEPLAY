@@ -141,7 +141,7 @@ http://mpegts.azureedge.net/hls1/amc.m3u8
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="Canais filmes ",AXN HD
 http://mpegts.azureedge.net/hls1/axn.m3u8
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="Canais filmes ",AXN HD²
-http://mpegts.azureedge.net/hls1/axn.m3u8
+https://live.netcanais.com/AXN/tracks-v1a1/mono.m3u8?token=43f2742d955db9f36c30b032ca219bcd&expires=1593920846
 
 #EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="FOX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fox.png" group-title="Canais filmes",FOX HD
 http://mpegts.azureedge.net/hls1/fox.m3u8

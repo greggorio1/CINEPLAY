@@ -46,8 +46,11 @@ https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/idsd/video.m3u8
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOPARHD)/stream_3/init.m4i
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD²
-https://geralorigin.eu-central-1.edge.mycdn.live/live/idhd/video.m3u8
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOPARHD)/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_240_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD²
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?HD=10&rebase=on

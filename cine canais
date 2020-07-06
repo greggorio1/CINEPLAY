@@ -19,7 +19,7 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/134.ts
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD
 https://usb.bozztv.com/multicanais123/index.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD²
-https://geraledge.eu-central-1.edge.mycdn.live/live/globorjhd/2020/07/06/17/21/29-05000.ts
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD³
 https://live.netcanais.com/GLOBORJ/tracks-v1a1/mono.m3u8?token=ab59512508e56c1ad38fc0cbe49ce441&expires=1593897470
 
@@ -44,7 +44,10 @@ https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="Canais abertos",TV CULTURA HD²",TV CULTURA HD²
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1271818644.m3u8
 
-
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Canais infantis",Cartoon network HD
+https://usb.bozztv.com/KROWTENNOOTRAC/index.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Canais infantis",Cartoon network HD²
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cartoonnetworkhd/video.m3u8
 
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD
 https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOPARHD)/stream_1/Segment-2951169539033310.m4v

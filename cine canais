@@ -8,7 +8,7 @@ http://0.0.0.0:0000
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP HD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais abertos",Band SP HD
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais abertos",Band RJ HD
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1258262879.m3u8
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w706416392.m3u8
 
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/canalbrasil.png" group-title="Canais abertos",Canal Brasil HD
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b69823c0aa6e5c717c66673f7b973695e56f7041/playlist.m3u8
@@ -19,9 +19,9 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/134.ts
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD
 https://usb.bozztv.com/multicanais123/index.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD²
-https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8
+https://stream.ec.cx/a/hls1/bobosp.m3u8?get=expires&token
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD³
-https://dash.datv.live:30443/edge/verad3a6976135fbe1c7c193e68515316b3/chunks.m3u8?nimblesessionid=311834&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjAgMTE6MDA6NDAgUE0maGFzaF92YWx1ZT1aM01zKzlaZC81SGg4NTE0ZWx0b1hBPT0mdmFsaWRtaW51dGVzPTEyMA==
+https://akamaized.azureedge.net/hls1/bobosp-23534.ts
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV HD" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="Canais abertos",RecordTV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8

@@ -75,10 +75,13 @@ https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?get=expires&token
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD²
 https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?get=expires&token
 
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="Canais filmes",FOX Premium 1
+<streamingInfos>
+<item>
+<title>fox premium</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxpremiumsd/video.m3u8</link>
+
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD²" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="Canais filmes",FOX Premium 1²
-https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=SRwhQPzIPPWP0fiqfnBaQQ&e=1594258583
+https://live.netcanais.com/FOXPREMIUM/tracks-v1a1/mono.m3u8?token=0c1ae9d0c5d5c68b1eeb4ca7c1378e29&expires=1594250069
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_240_av-b.m3u8?sd=10&rebase=on

@@ -75,6 +75,11 @@ https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?get=expires&token
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD²
 https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?get=expires&token
 
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="Canais filmes",FOX Premium 1
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxpremiumsd/video.m3u8
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD²" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="Canais filmes",FOX Premium 1²
+https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=SRwhQPzIPPWP0fiqfnBaQQ&e=1594258583
+
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_240_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD²
@@ -94,7 +99,7 @@ https://stream.ec.cx/a/hls1/espn.m3u8?get=expires&token
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD²" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 HD²
-https://stream.ec.cx/a/hls1/espn2.m3u8?get=expires&token
+https://e10.cdn4.us/ingest666/espn2_sur.m3u8
 
 
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra HD

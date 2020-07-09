@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="----------[COLOR red]CINE[/COLOR]PLAY LISTAS----------" tvg-logo="https://pbs.twimg.com/profile_images/1263288302184075266/v_i2m-ya_400x400.jpg" group-title="Todos os canais" em atualização
 
-#EXTINF:-1 tvg-id="" tvg-name="[COLOR red]CINE[/COLOR]PLAY CANAIS" tvg-logo="https://pbs.twimg.com/profile_images/1263288302184075266/v_i2m-ya_400x400.jpg" group-title="ATT EM 03/07 [COLOR red]CINE[/COLOR]PLAY CANAIS",(Atualizado em 09/07)
+#EXTINF:-1 tvg-id="" tvg-name="[COLOR red]CINE[/COLOR]PLAY CANAIS" tvg-logo="https://pbs.twimg.com/profile_images/1263288302184075266/v_i2m-ya_400x400.jpg" group-title="ATT EM 03/07 [COLOR red]CINE[/COLOR]PLAY CANAIS",(Em atualizaçao)
 http://0.0.0.0:0000
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP HD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais abertos",Band SP HD
@@ -17,11 +17,11 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b69823c0aa6
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD
-https://usb.bozztv.com/multicanais123/index.m3u8
+https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594363860&token=d00b4d0516adf8ed7d7cd9daf40b310e
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD²
-https://dash.datv.live:30443/edge/verad3a6976135fbe1c7c193e68515316b3/chunks.m3u8?nimblesessionid=378200&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjAgMjoyNDozMCBQTSZoYXNoX3ZhbHVlPXp6ZkRqdDE1UUVRNWdDViszNEtISXc9PSZ2YWxpZG1pbnV0ZXM9MTIw
+https://dash.datv.live:30443/edge/verad3a6976135fbe1c7c193e68515316b3/chunks.m3u8?nimblesessionid=389276&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjAgMTE6MzE6MjEgUE0maGFzaF92YWx1ZT1COVBvQ25iK2NvVmJTVFRsQU1XWmN3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD³
-https://stream.ec.cx/a/hls1/bobonordeste.m3u8?expires=1594096576&token=c7af4a856e5d1e45fa828bd2255405d0
+https://stream.ec.cx/a/hls1/bobosp.m3u8?expires=1594362573&token=35b06528f3034eae64b49fa26d5f3981
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV HD" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="Canais abertos",RecordTV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
@@ -167,4 +167,4 @@ https://stream.ec.cx/a/hls1/sportv3.m3u8?get=expires&token
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD
 https://stream.ec.cx/a/hls1/combate.m3u8?get=expires&token
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD²
-https://stream.ec.cx/a/hls1/combate.m3u8?get=expires&token
+https://static.cdnpub.info/land/vendor/resources/video/platform__v4.mp4?1593523649958n

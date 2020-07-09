@@ -6,7 +6,7 @@
 http://0.0.0.0:0000
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP HD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais abertos",Band SP HD
-https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
+https://stream.ec.cx/a/hls1/band.m3u8?get=expires&token
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais abertos",Band RJ HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w706416392.m3u8
 
@@ -14,14 +14,14 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w706416392.m3u8
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b69823c0aa6e5c717c66673f7b973695e56f7041/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura HD" tvg-logo="https://static.clubsrv.me/logos/canais/futura.png" group-title="Canais abertos",Futura HD
-http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/134.ts?dwightfarrokhlistas|user-agent=GoPlayer
+https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD
 https://usb.bozztv.com/multicanais123/index.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD²
-https://stream.ec.cx/a/hls1/bobosp.m3u8?get=expires&token
+https://dash.datv.live:30443/edge/verad3a6976135fbe1c7c193e68515316b3/chunks.m3u8?nimblesessionid=378200&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjAgMjoyNDozMCBQTSZoYXNoX3ZhbHVlPXp6ZkRqdDE1UUVRNWdDViszNEtISXc9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD³
-https://akamaized.azureedge.net/hls1/bobosp-23534.ts
+https://stream.ec.cx/a/hls1/bobonordeste.m3u8?expires=1594096576&token=c7af4a856e5d1e45fa828bd2255405d0
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV HD" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="Canais abertos",RecordTV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
@@ -31,7 +31,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais abertos",SBT HD
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1361860827_b131000_sleng.m3u8
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais abertos",SBT HD²
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1361860827_b131000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum HD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/ratimbum.png" group-title="Canais abertos",TV Ra Tim Bum HD
 http://dwightfarrokhlistas.ddns.net:25461/live/8dkEsaFQhgPcN5/gHuYhfIP51b4/305.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -49,8 +49,8 @@ https://usb.bozztv.com/KROWTENNOOTRAC/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Canais infantis",Cartoon network HD²
 https://stream.ec.cx/a/hls1/cartoon.m3u8?get=expires&token
 
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais infantis",Tooncast HD
-http://mpegts.azureedge.net/hls1/tooncast.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD " tvg-logo="https://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais infantis",Tooncast HD
+https://stream.ec.cx/a/hls1/tooncast.m3u8?get=expires&token
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD² [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais infantis",Tooncast HD²
 https://stream.ec.cx/a/hls1/tooncast.m3u8?get=expires&token
 

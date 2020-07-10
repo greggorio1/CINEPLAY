@@ -109,12 +109,12 @@ http://mpegts.azureedge.net/hls1/espnextra.m3u8
 
 
 #EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports HD
-https://stream.ec.cx/a/hls1/foxsports1.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594419281&token=9808f39e428817f8231c3ae989391885
 #EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports HD²
 https://stream.ec.cx/a/hls1/foxsports1.m3u8?get=expires&token
 
 #EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 HD
-https://stream.ec.cx/a/hls1/foxsports2.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/foxsports2.m3u8?expires=1594419374&token=82d46963c890b93ffc21e801431f895a
 #EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 HD²
 https://stream.ec.cx/a/hls1/foxsports2.m3u8?get=expires&token
 
@@ -148,9 +148,9 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/226.ts
 
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD
-http://akamaized.azureedge.net/hls1/sportv1.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594419420&token=1561e354376e62ae8e03d442e7cda8d7
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD²
-https://stream.ec.cx/a/hls1/sportv1.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594419515&token=808485be63561abfcace73ed15b27e80
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD
 http://mpegts.azureedge.net/hls1/sportv2.m3u8
@@ -165,6 +165,6 @@ https://stream.ec.cx/a/hls1/sportv3.m3u8?get=expires&token
 
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD
-https://stream.ec.cx/a/hls1/combate.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594419024&token=4965e001c502047bab5c54a6e908f5e0
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD²
 https://static.cdnpub.info/land/vendor/resources/video/platform__v4.mp4?1593523649958n

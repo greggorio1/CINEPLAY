@@ -17,11 +17,11 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b69823c0aa6
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD
-https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594363860&token=d00b4d0516adf8ed7d7cd9daf40b310e
+https://stream.ec.cx/a/hls1/bobosp.m3u8?expires=1594507579&token=908de2a9a61d064ddf0d22eafcdfff4a
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD²
-https://dash.datv.live:30443/edge/verad3a6976135fbe1c7c193e68515316b3/chunks.m3u8?nimblesessionid=389276&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjAgMTE6MzE6MjEgUE0maGFzaF92YWx1ZT1COVBvQ25iK2NvVmJTVFRsQU1XWmN3PT0mdmFsaWRtaW51dGVzPTEyMA==
+https://dash.datv.live:30443/edge/verad3a6976135fbe1c7c193e68515316b3/chunks.m3u8?nimblesessionid=401100&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6NDY6NTIgUE0maGFzaF92YWx1ZT1OeWp1WjlScmloT0h2ZFFMYTBKZy9BPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD³
-https://stream.ec.cx/a/hls1/bobosp.m3u8?expires=1594362573&token=35b06528f3034eae64b49fa26d5f3981
+https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594507704&token=1c16dcddcfea13dea31026ffe24cfe42
 
 #EXTINF:-1 tvg-id="Recordtv.br" tvg-name="RecordTV HD" tvg-logo="https://static.clubsrv.me/logos/canais/record.png" group-title="Canais abertos",RecordTV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
@@ -29,8 +29,8 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais abertos",SBT HD
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1361860827_b131000_sleng.m3u8
-#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais abertos",SBT HD²
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="Sbtrede.br" tvg-name="SBT²HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Canais abertos",SBT HD²
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1361860827_b131000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum HD [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/ratimbum.png" group-title="Canais abertos",TV Ra Tim Bum HD
@@ -45,14 +45,14 @@ https://cdn.jmvstream.com/w/LVW-8403/LVW8403_bIBvekk9QA/chunklist.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1271818644.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Canais infantis",Cartoon network HD
-https://usb.bozztv.com/KROWTENNOOTRAC/index.m3u8
+https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1594507451&token=38ddb623b915d5cd7848fad72ab4cd54
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img2.gratispng.com/20180402/dcw/kisspng-cartoon-network-logo-animation-cartoon-network-5ac27e8e9fc087.1429683715226958226544.jpg" group-title="Canais infantis",Cartoon network HD²
-https://stream.ec.cx/a/hls1/cartoon.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1594507406&token=1f87698937accf3ffde7c31147fbc5c7
 
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD " tvg-logo="https://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais infantis",Tooncast HD
-https://stream.ec.cx/a/hls1/tooncast.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/tooncast.m3u8?expires=1594507321&token=ea960c67c53592eb0b1ac8f3fd6a87a0
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD² [Alter]" tvg-logo="https://static.clubsrv.me/logos/canais/tooncast.png" group-title="Canais infantis",Tooncast HD²
-https://stream.ec.cx/a/hls1/tooncast.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/tooncast.m3u8?expires=1594507360&token=e487db4ff4fa352e927c7cb0c795050a
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://static.clubsrv.me/logos/canais/animalplanet.png" group-title="Canais documentarios",Animal Planet HD
 https://stream.ec.cx/a/hls1/animalplanet.m3u8?get=expires&token
@@ -60,10 +60,9 @@ https://stream.ec.cx/a/hls1/animalplanet.m3u8?get=expires&token
 https://stream.ec.cx/a/hls1/animalplanet.m3u8?get=expires&token
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel HD 
-https://stream.ec.cx/a/hls1/discovery.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/discovery.m3u8?expires=1594507150&token=55f41106c342d628ae1c1c23c22fe321
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD²" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="Canais documentarios",Discovery Channel HD²
-https://stream.ec.cx/a/hls1/discovery.m3u8?get=expires&token
-
+https://stream.ec.cx/a/hls1/discovery.m3u8?expires=1594507208&token=9c2a3c4bd36ce7216a2c9e379d9540df
 
 
 
@@ -71,14 +70,14 @@ https://stream.ec.cx/a/hls1/discovery.m3u8?get=expires&token
 https://stream.ec.cx/a/hls1/discoverycivilization.m3u8?get=expires&token
 
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD
-https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?expires=1594506331&token=7f526d687e51f7c415e764528a2d5b00
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD²
-https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?expires=1594506370&token=a5690c51a04d5483089f6a6be3338735
 
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD²" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="Canais filmes",FOX Premium 1
-https://stream.ec.cx/a/hls1/foxpremium1.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/foxpremium1.m3u8?expires=1594506200&token=4a827cc1f82ef8a27f8e2a3747a546a2
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD²" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="Canais filmes",FOX Premium 1²
-https://live.netcanais.com/FOXPREMIUM/tracks-v1a1/mono.m3u8?token=0c1ae9d0c5d5c68b1eeb4ca7c1378e29&expires=1594250069
+https://live.netcanais.com/FOXPREMIUM/tracks-v1a1/index.m3u8?token=48096f68d43f4138b8efcb0f06cdb4ef&expires=1594484657
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="Canais de esportes",ESPN Brasil HD
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_240_av-b.m3u8?sd=10&rebase=on
@@ -94,29 +93,29 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/92.ts?
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://static.clubsrv.me/logos/canais/espn.png" group-title="Canais de esportes",ESPN HD
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="https://static.clubsrv.me/logos/canais/espn.png" group-title="Canais de esportes",ESPN HD²
-https://stream.ec.cx/a/hls1/espn.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/espn.m3u8?expires=1594505707&token=4239fe643745988abb66b00c77b87cfe
 
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 HD²" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 HD²
-https://e10.cdn4.us/ingest666/espn2_sur.m3u8
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2²HD²" tvg-logo="https://static.clubsrv.me/logos/canais/espn2.png" group-title="Canais de esportes",ESPN 2 HD²
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 
 
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra HD
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="Canais de esportes",ESPN Extra HD²
-http://mpegts.azureedge.net/hls1/espnextra.m3u8
+https://stream.ec.cx/a/hls1/espnextra.m3u8?expires=1594505461&token=747dd296120105345cd2e424da1dbdee
 
 
 #EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports HD
-https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594419281&token=9808f39e428817f8231c3ae989391885
+https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594505345&token=1f5584449906bb55053d442855c97315
 #EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports HD²
-https://stream.ec.cx/a/hls1/foxsports1.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594505382&token=f002c3d0cb45db7a277e90fa0c2fd709
 
 #EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 HD
-https://stream.ec.cx/a/hls1/foxsports2.m3u8?expires=1594419374&token=82d46963c890b93ffc21e801431f895a
+https://stream.ec.cx/a/hls1/foxsports2.m3u8?expires=1594505238&token=1efd516eab9322dd60842ca1aa29e96e
 #EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 HD²
-https://stream.ec.cx/a/hls1/foxsports2.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/foxsports2.m3u8?expires=1594505288&token=54002d647e4687c4a4b72866f6029fa1
 
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD " tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere-590x332.png" group-title="Canais de esportes",PREMIERE CLUBES HD 
 http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/229.ts?dwightfarrokhlistas|user-agent=GoPlayer
@@ -148,23 +147,22 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/226.ts
 
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD
-https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594419420&token=1561e354376e62ae8e03d442e7cda8d7
+https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594505092&token=2e87b0e320952100f87e2d9ededc1151
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD²
-https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594419515&token=808485be63561abfcace73ed15b27e80
+https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594505151&token=59e84247b9e318141f2c86178cf939e6
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD
-http://mpegts.azureedge.net/hls1/sportv2.m3u8
+https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594504973&token=7e485799e66d157d6f061115df809e28
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD²
-https://stream.ec.cx/a/hls1/sportv2.m3u8?get=expires&token
-
+https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594505002&token=4e43dde15f200ca50fd6bcbf510ab32a
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD
-http://mpegts.azureedge.net/hls1/sportv3.m3u8
+https://stream.ec.cx/a/hls1/sportv3.m3u8?expires=1594504886&token=b1953fa9fd3232c414a682f2a36f430e
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD²
-https://stream.ec.cx/a/hls1/sportv3.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/sportv3.m3u8?expires=1594504932&token=9fb7777cbd4b8d7c574524522ccc4de5
 
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD
-https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594419024&token=4965e001c502047bab5c54a6e908f5e0
+https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594504750&token=f17e8571454957a7453cff266c27371f
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD²
-https://static.cdnpub.info/land/vendor/resources/video/platform__v4.mp4?1593523649958n
+https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594504801&token=9208fbb4bd80318a7dd0c73509345cfc

@@ -6,7 +6,7 @@
 http://0.0.0.0:0000
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP HD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais abertos",Band SP HD
-https://stream.ec.cx/a/hls1/band.m3u8?get=expires&token
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band RJ HD" tvg-logo="https://static.clubsrv.me/logos/canais/band.png" group-title="Canais abertos",Band RJ HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w706416392.m3u8
 
@@ -17,9 +17,9 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b69823c0aa6
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD
-https://stream.ec.cx/a/hls1/bobosp.m3u8?expires=1594507579&token=908de2a9a61d064ddf0d22eafcdfff4a
+https://stream.ec.cx/a/hls1/bobosp.m3u8?expires=1594761665&token=918878dd8cbdd889929c24ee68ee2e42
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD²
-https://dash.datv.live:30443/edge/verad3a6976135fbe1c7c193e68515316b3/chunks.m3u8?nimblesessionid=401100&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDI6NDY6NTIgUE0maGFzaF92YWx1ZT1OeWp1WjlScmloT0h2ZFFMYTBKZy9BPT0mdmFsaWRtaW51dGVzPTEyMA==
+https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594761766&token=b83291bdcac183e74648b12dc781e58a
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD³
 https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594507704&token=1c16dcddcfea13dea31026ffe24cfe42
 
@@ -108,9 +108,9 @@ https://stream.ec.cx/a/hls1/espnextra.m3u8?expires=1594505461&token=747dd2961201
 
 
 #EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports HD
-https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594505345&token=1f5584449906bb55053d442855c97315
+https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594762570&token=dfa03696c46962d4e1c66c4fc2abe828
 #EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX Sports HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="Canais de esportes",FOX Sports HD²
-https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594505382&token=f002c3d0cb45db7a277e90fa0c2fd709
+https://stream.ec.cx/a/hls1/foxsports1.m3u8?expires=1594762615&token=26c21de6556e5c868aeefc32f7d3aaa5
 
 #EXTINF:-1 tvg-id="Fossports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="Canais de esportes",FOX Sports 2 HD
 https://stream.ec.cx/a/hls1/foxsports2.m3u8?expires=1594505238&token=1efd516eab9322dd60842ca1aa29e96e
@@ -147,22 +147,22 @@ http://dwightfarrokhlistas.ddns.net:8080/live/OFblQwP4byMDN8/iG3RNH33ZlbP/226.ts
 
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD
-https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594505092&token=2e87b0e320952100f87e2d9ededc1151
+https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594762139&token=322ed03a0ddabd6bd59326382e4df16c
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV HD²
-https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594505151&token=59e84247b9e318141f2c86178cf939e6
+https://stream.ec.cx/a/hls1/sportv1.m3u8?expires=1594762189&token=e6460b974788ff3b32e71528817c97b4
 
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD
-https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594504973&token=7e485799e66d157d6f061115df809e28
+https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594762241&token=bae04dd0fa8ea46a9a6e541f1224c8ae
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="Canais de esportes",SPORTV 2 HD²
-https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594505002&token=4e43dde15f200ca50fd6bcbf510ab32a
+https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594762314&token=af2df88a9be65d4d74f475833250d033
 
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD
-https://stream.ec.cx/a/hls1/sportv3.m3u8?expires=1594504886&token=b1953fa9fd3232c414a682f2a36f430e
+https://stream.ec.cx/a/hls1/sportv3.m3u8?expires=1594762499&token=e3b67731c421be94fe526628e7009303
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="" group-title="Canais de esportes",SPORTV 3 HD²
 https://stream.ec.cx/a/hls1/sportv3.m3u8?expires=1594504932&token=9fb7777cbd4b8d7c574524522ccc4de5
 
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD
-https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594504750&token=f17e8571454957a7453cff266c27371f
+https://ul.cdn946.net:8443/hls/t78tc195vja.m3u8?s=FGVMPMVPOXCfGQ29gB_AcA&e=1594754827
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="Canais de esportes",Combate HD²
-https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594504801&token=9208fbb4bd80318a7dd0c73509345cfc
+https://stream.ec.cx/a/hls1/combate.m3u8?expires=1594762072&token=d2d73878833d668912f0ad96d3b25f98

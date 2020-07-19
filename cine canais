@@ -70,9 +70,9 @@ https://stream.ec.cx/a/hls1/discovery.m3u8?expires=1594507208&token=9c2a3c4bd36c
 https://stream.ec.cx/a/hls1/discoverycivilization.m3u8?get=expires&token
 
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD
-https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?expires=1594506331&token=7f526d687e51f7c415e764528a2d5b00
+https://live.netcanais.com/ID/video.m3u8?token=ebcd9adb5c268e44bc16c04af8fdc82c&expires=1595185316&ip=189.40.46.245
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Investigation Discovery HD" tvg-logo="https://static.clubsrv.me/logos/canais/id.png" group-title="Canais documentarios",Investigation Discovery HD²
-https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?expires=1594506370&token=a5690c51a04d5483089f6a6be3338735
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_a2ebe7e7a50e0718097e2db2bc6c047e12b68649/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD²" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="Canais filmes",FOX Premium 1
 https://stream.ec.cx/a/hls1/foxpremium1.m3u8?expires=1594506200&token=4a827cc1f82ef8a27f8e2a3747a546a2

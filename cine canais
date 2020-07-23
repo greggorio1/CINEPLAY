@@ -17,7 +17,7 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/megapix_a6f16ab4_b69823c0aa6
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD
-https://stream.ec.cx/a/hls1/bobosp.m3u8?expires=1594761665&token=918878dd8cbdd889929c24ee68ee2e42
+https://ul.cdn946.net:8443/hls/1yrotnlqf51is.m3u8?s=YGiu_gxkPvfn6cyEUnvSBg&e=1595485374
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD²
 https://stream.ec.cx/a/hls1/boborj.m3u8?expires=1594761766&token=b83291bdcac183e74648b12dc781e58a
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo HD" tvg-logo="https://static.clubsrv.me/logos/canais/globo.png" group-title="Canais abertos",Globo HD³

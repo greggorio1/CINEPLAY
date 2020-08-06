@@ -1,116 +1,42 @@
-
-
 <channels>
 <channel>
-<name>                 [COLOR yellow] leia[/COLOR] [COLOR green]•[/COLOR]  </name>
-<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/THEMATRIX/master/Categorias</externallink>
-<fanart>https://i.ytimg.com/vi/KPPDtBCEBWY/maxresdefault.jpg</fanart>
-<info>
-(By:[COLOR red]GREG[/COLOR])
+<name>[COLOR yellow]###[/COLOR][COLOR deepskyblue] AVISO [/COLOR][COLOR yellow]###[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/780/553/full/ementrun.png?1595184436</thumbnail>
+<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
+<fanart>https://uploaddeimagens.com.br/images/002/780/554/full/elementum_fanart.png?1595184454</fanart>
+<info>| PARA UTILIZAR ESSE ADDON,
+VOCÊ PRECISA INSTALAR O 
+ADDON ELEMENTUM |
 
-[COLOR red] •[/COLOR] Addon focado em filmes e series
-[COLOR red] •[/COLOR] Proibida a venda deste addon,ou quaisquer link aqui hospedados
-
- [COLOR green]•[/COLOR]Verde:Online
-[COLOR blue] •[/COLOR]Azul:Em atualizaçao
-[COLOR red] •[/COLOR]Vermelha:Offline
-</info>
+Elementum é um mecanismo de busca e streaming de torrents. Ele não é acessado em sites de torrent por razões legais. No entanto, ele chama complementos especialmente criados (chamados provedores) que são instalados separadamente. Este projeto é uma bifurcação dos conhecidos, mas não mais mantidos projetos Pulsar / Quasar de steeve e scakemyer.
+Para o download acesse o site oficial:
+[COLOR blue]http://elementum.surge.sh/[/COLOR] e baixe o pacote adequado para o seu sistema.</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 <channels>
 <channel>
-<name>[COLOR white]Filmes Recem-Lançados[/COLOR] [COLOR blue]•[/COLOR]</name>
-<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Lançamentos</externallink>
-
-<fanart>https://assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg</fanart>
-<info>
-[COLOR red]•[/COLOR]Filmes lançados esse ano
-[COLOR yellow]Atualizado em: 11/06[/COLOR]
-
-</info>
+<name>[COLOR wheat]FILMES[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/797/738/full/FILMES_ICON.png?1595903290</thumbnail>
+<externallink></externallink>
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
+<info>A UNIÃO DA MAGIA CINEMATOGRÁFICA E O VISUAL CRISTALINO DE UMA IMAGEM EM ALTA DEFINIÇÃO DESPERTA GRANDE INTERESSE, LEVANDO EMOÇÃO E ENTRETENIMENTO.
+DIVIRTA-SE: TEM EMOÇÃO NO AR!</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR white]Filmes Aleatorios[/COLOR][COLOR blue]•[/COLOR]</name>
-<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
-<icon>https://images.apkeasy.me/cine-plus-cine-play-2020-com-dicas-icon/fill/120/120/no/1/aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1hZTXpiX1NUOHZqYVJTWVg0MGxNUGt4bjRjVTlXZHUzdEs5RmEtNVB3RTVxbmo1V2JjZFZqcGlWRmFXUjFVMVQ5dW8=</icon>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Lançamentos</externallink>
-<fanart>https://assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg</fanart>
-<info> 
-[COLOR red]•[/COLOR]Filmes diversos,em qualquer data
-[COLOR yellow]Atualizado em: 25/06[/COLOR]
-</info>
-</channel>
-</channels>
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white]Filmes Trilogias[/COLOR] [COLOR blue]•[/COLOR]</name>
-<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
-<externallink>https://</externallink>
-
-<fanart>https://assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg</fanart> 
-<info>
-[COLOR red]•[/COLOR]Todas as trilogias disponiveis
-[COLOR yellow]Atualizado em: 07/06[/COLOR]
-</info> 
+<name>[COLOR goldenrod]SERIES[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/797/739/full/SERIES_ICON.png?1595903311</thumbnail>
+<externallink>https://pastebin.com/raw/DmSGHcJ2</externallink>
+<fanart>https://uploaddeimagens.com.br/images/002/780/627/full/REVIVA_fanart.jpg?1595186838</fanart>
+<info>MARATONAR UMA TEMPORADA INTEIRA DE ALGUMAS SERIES É ALGO MUITO BOM, SEJA ELA ANTIGA OU NOVA, E TUDO SE TORNA AINDA MELHOR QUANDO O SERVIÇO DE STREAMING É DE BOA QUALIDADE, E QUE SEJAM DISPONIBILIZADAS TODAS AS TEMPORADAS DE UMA SÓ VEZ, SEM PRECISAR FICAR AGUARDANDO MUITO TEMPO PARA DESVENDAR OS MISTÉRIOS QUE RONDAM OS PERSONAGENS DE DETERMINADA SÉRIE. 
+DIVIRTA-SE: TEM EMOÇÃO NO AR!</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR white]Filmes Recomendados[/COLOR] [COLOR red](em breve)[/COLOR]</name>
-<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
-<externallink>https://</externallink>
-
-<fanart>https://assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg</fanart>
-<info>
-[COLOR red]•[/COLOR]Filmes recomendados pela nossa equipe a cada dia
-[COLOR red]•[/COLOR] Nao se encaixa na opcao de pedidos
-[COLOR yellow]Atualizado em: ??/??[/COLOR]
-</info>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>[COLOR white]Filmes Legendados[/COLOR] [COLOR blue]•[/COLOR]</name>
-<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg</fanart> 
-<info>
-[COLOR red]•[/COLOR] Apenas filmes em ingles,usem o Opensubititles
-[COLOR yellow]Atualizado em: 25/06[/COLOR]
-</info> 
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR white]Series[/COLOR] [COLOR blue]•[/COLOR]</name>
-<icon>https://3.bp.blogspot.com/-s1CpaL41ui4/UpxS97w28fI/AAAAAAAAQ7Q/EbP6jFwGSyQ/s1600/unnamed+(5).png</icon>
-<thumbnail>https://img.ibxk.com.br/2018/9/programas/16241418154720932.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/S%C3%A9ries</externallink>
-<fanart>https://assets.b9.com.br/wp-content/uploads/2016/10/netflix-catalogo.jpg</fanart>
-<info>
-[COLOR red]•[/COLOR]Series encontradas na internet
-[COLOR yellow]Atualizado em: 19/06[/COLOR]</info>     
-</channel>
-</channels>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

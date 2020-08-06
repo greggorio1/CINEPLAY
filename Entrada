@@ -1,10 +1,10 @@
-<channels>
+<channels>                                                     
 <channel>
-<name></name>
+<name> LEIA </name>
 <thumbnail></thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart></fanart>
-<info>
+<info>Os conteudos que nao funcionarem,é pq tem poucos seeds,quanto mais pessoas assistirem,mais chances tem de funcionar
 
 </info>
 </channel>
@@ -13,9 +13,9 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 <channels>
 <channel>
-<name>Filmes</name>
+<name>Filmes Trilogias</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://pastebin.com/raw/HJjuzr0u</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -25,7 +25,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name></name>
+<name>Séries</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>

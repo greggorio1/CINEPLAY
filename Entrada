@@ -1,10 +1,12 @@
 <channels>                                                     
 <channel>
-<name>[COLOR yellow]                                            LEIA[/COLOR] </name>
+<name>[COLOR yellow]                                     LEIA[/COLOR] </name>
 <thumbnail></thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart></fanart>
-<info>Os conteudos que nao funcionarem,é pq tem poucos seeds,quanto mais pessoas assistirem,mais chances tem de funcionar
+<info>
+[COLOR yellow]•[/COLOR]Os conteudos que nao funcionarem,é pq tem poucos seeds,quanto mais pessoas assistirem,mais chances tem de funcionar
+[COLOR yellow]•[/COLOR]Para conteúdo legendado,usem o opensubtitles
 
 </info>
 </channel>
@@ -19,7 +21,7 @@
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/torrent2020</externallink>
 <fanart></fanart>
 <info>
-Filmes lançados esse ano</info>
+[COLOR yellow]•[/COLOR]Filmes lançados entre o final de 2019 e inicio de 2020</info>
 </channel>
 </channels>
 
@@ -31,7 +33,7 @@ Filmes lançados esse ano</info>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
-Filmes lançados esse ano</info>
+[COLOR yellow]•[/COLOR]Filmes variados,qualquer data</info>
 </channel>
 </channels>
 
@@ -45,7 +47,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/trilogia%20torrent</externallink>
 <fanart></fanart>
 <info>
-As melhores trilogias para vcs</info>
+[COLOR yellow]•[/COLOR]As melhores trilogias para vcs</info>
 </channel>
 </channels>
 
@@ -53,7 +55,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>Séries</name>
+<name>Séries (Em breve)</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>

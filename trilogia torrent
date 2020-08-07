@@ -1,9 +1,10 @@
 <item>
 <title>John wick</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459$$lsname=De volta ao jogo- LINK 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9$$lsname=Um novo dia para matar</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d206173973452ec80de945c61a87d7430d44fa7$$lsname=Parabellum</link>
-
+<link>
+sublink:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459</link>
+sublink:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9
+sublink:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d206173973452ec80de945c61a87d7430d44fa7
+</link>
 <thumbnail>https://i.pinimg.com/originals/7c/33/0e/7c330eb69f02cec270b87982d33c4716.jpg</thumbnail>
 
 <fanart>https://poltronanerd.com.br/wp-content/uploads/2020/05/Screenshot_2020-05-08-Never-Before-Seen-John-Wick-Chapter-2-Photo1.png</fanart>

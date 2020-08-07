@@ -1,133 +1,432 @@
-<channels>
-
 <channel>
+<name>O Hobbit</name>
 
-<name>Reviva 4K</name>
+<thumbnail></thumbnail>
 
-<thumbnail>https://uploaddeimagens.com.br/images/002/801/463/full/4K_icon.png?1596051555</thumbnail>
+<externallink>https://pastebin.com/raw/uHqmNMMv</externallink>
 
-<externallink>https://pastebin.com/raw/TzTRERHz</externallink>
+<fanart>https://uploaddeimagens.com.br/images/002/788/097/original/hobbit_fanart.jpg?1595493452</fanart>
 
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMczTpb2LXHZERK4vRaVXoEW8ANZLVYyWAcQ&usqp=CAU</fanart>
-
-<info>Seleção aleatória de filmes em 4K.
-Você tem em suas mãos uma nova TV 4K, ou um novo monitor 4K, ou mesmo um smartphone com uma tela 4k, e aí você se pergunta: onde estão os filmes em 4K? É triste, mas às vezes pode parecer impossível de achar bons conteúdos para sua nova tela.
-Serviços de streaming não facilitam a tarefa de achar tal conteúdo. Mas, não se preocupe, reuni alguns filmes para lhe ajudar. Faça Seu Pedido!</info>
-
+<info>O Hobbit é uma série de três filmes de fantasia épica e de aventura dirigido, coescrito e produzido por Peter Jackson e baseado no livro The Hobbit de J. R. R. Tolkien publicado em 1937. Os filmes são, por subtítulo: Uma Jornada Inesperada (2012), A Desolação de Smaug (2013) e A Batalha dos Cinco Exércitos (2014). O Senhor dos Anéis é originalmente uma sequência do livro, assim, a série age como uma prequela para a trilogia dos filmes, também dirigidos por Jackson.</info>
 </channel>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Senhor dos Aneis</name>
+
+<thumbnail></thumbnail>
+
+<externallink>https://pastebin.com/raw/k1URaDCh</externallink>
+
+<fanart></fanart>
+
+<info>O Senhor dos Anéis é uma trilogia cinematográfica dirigida por Peter Jackson com base na obra-prima homónima de J. R. R. Tolkien. Apesar de seguirem a linha-mestra da trilogia, os filmes possuem inserções e desvios com relação ao material original</info>
+</channel>
+ 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channel>
 
-<name>Reviva Décadas</name>
+<name>Harry Potter</name>
 
-<externallink>https://pastebin.com/raw/qzinH6ZE</externallink>
+<thumbnail></thumbnail>
 
-<thumbnail>https://uploaddeimagens.com.br/images/002/802/405/full/D%C3%89CADAS.png?1596079389</thumbnail>
+<externallink>https://pastebin.com/raw/ZPxeWNDu</externallink>
 
-<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
+<fanart>https://image.tmdb.org/t/p/original/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg</fanart>
 
-<info>Considerado a sétima arte, o cinema tem como uma de suas principais atribuições,o entretenimento. Além ainda de propagar características sobre culturas, ideias e pensamentos de décadas passadas. Há também os filmes de ficção científica, que criam uma realidade particular para contar histórias longe dos nossos padrões de vida. Com tantos gêneros e ramificações, algumas produções se destacaram ao longo do tempo e são bons exemplos para apresentar ideias e técnicas características da época que retratam.
-Conheça alguns filmes por década!
+<info>Harry Potter é uma série de oito romances de fantasia escrita pela autora britânica J. K. Rowling. A série narra as aventuras de um jovem chamado Harry James Potter, que descobre aos 11 anos de idade que é um bruxo ao ser convidado para estudar na Escola de Magia e Bruxaria de Hogwarts. O arco de história principal diz respeito às amizades de Harry com outros bruxos de sua idade, como Ronald Weasley e Hermione Granger, e também com o diretor de Hogwarts Albus Dumbledore, considerado o maior dos magos, e seus conflitos com o bruxo das trevas Lord Voldemort.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+
+<channel>
+
+<name>Star Wars</name>
+
+<thumbnail></thumbnail>
+
+<externallink>https://pastebin.com/raw/d25jYzkw</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/bMPfIfBZOUv7c357J8HliYJfpca.jpg</fanart>
+
+<info>Uma das sagas mais famosas do cinema, Star Wars foi criada pelo cineasta George Lucas na década de 1970, que conta uma história que se passa há muito tempo, em uma galáxia muito distante, formada por planetas de todos tipos: desérticos, super habitados e selvagens, mas todos com a licença científica para ter a mesma gravidade e atmosfera igualmente habitáveis. O centro da trama é uma disputa política entre um império tirano e ditatorial e um grupo libertário. O enredo é permeado pela tragédia pessoal de Anakin Skywalker, um jedi (do bem) que sucumbe ao Lado Sombrio da Força (do mal) se transformando no vilão Darth Vader.
 </info>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>Cronologia Marvel</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/766/648/full/icon_marvel_cronologia.png?1594669274</thumbnail>
-<externallink>https://pastebin.com/raw/9LQVa9B2</externallink>
-<fanart>https://uploaddeimagens.com.br/images/002/754/014/original/fanart_marvel.jpg?1594143003</fanart>
-<info>[COLOR deeppink]|[/COLOR] - Siga a cronologia dos filmes da Marvel para poder maratonar o Universo Compartilhado da Marvel inteirinho, mas só com os filmes. Se você não está preocupado com as séries, essa aqui é a ordem cronológica certa do universo Marvel Studios, oficializada no livro Marvel: The First Ten Years. Mas também levamos em conta a ordem que os Irmãos Russo, diretores de Vingadores: Guerra Infinita e Vingadores: Ultimato, publicaram em suas redes sociais e as datas anunciadas pela Marvel Studios na San Diego Comic Con 2019. Créditos aficionados.com.br  - [COLOR deeppink]|[/COLOR]</info>
 </channel>
-</channels>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>Universo Estendido DC</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/781/190/full/DC_icon_02.png?1595224323</thumbnail>
-<externallink>https://pastebin.com/raw/RQpJ6kaF</externallink>
-<fanart>https://uploaddeimagens.com.br/images/002/781/167/original/DC_fanart.jpg?1595220341</fanart>
-<info>A DC Comics é uma editora norte-americana subsidiária da companhia WarnerMedia situada em Burbank, Califórnia, especializada em histórias em quadrinhos e mídias relacionadas, sendo considerada uma das maiores companhias ligadas a este ramo no mundo. A empresa detém a propriedade de muitos dos mais famosos personagens como: Batman, Superman, Mulher-Maravilha, Mulher-Gato, Supergirl, Robin, Flash, Cyborg, Aquaman, Átomo, Lanterna Verde, Coringa, Arqueiro Verde, Shazam dentre outros, e os seus antagonistas como: Darkseid, Coringa, Lex Luthor, Sinestro, Flash Reverso, Ozymandias e Lobo da Estepe.
+<name>Parque dos Dinossauros</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/sL4VkTeY</externallink>
+<fanart></fanart>
+<info>Jurassic Park é uma das franquias mais famosas do cinema, o primeiro e segundo filmes foram baseados nos livros de Michael Crichton, mas o diretor Steven Spielberg foi o responsável por dar o ponta pé inicial para que Jurassic Park ganhasse uma legião de fãs pelo Mundo. Tanto os livros como os filmes usam a teoria do caos e suas implicações filosóficas para explicar o colapso do parque e as dificuldades de se manter seres extintos em um ambiente moderno.</info>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Matrix</name>
+
+<thumbnail></thumbnail>
+
+<externallink>https://pastebin.com/raw/PkzTw6nG</externallink>
+
+<fanart></fanart>
+
+<info>Com três filmes lançados, a saga acompanha Thomas Anderson/Neo (Reeves), jovem hacker que descobre a existência de Matrix, um sistema artificial que suga a energia dos humanos enquanto cria a ilusão de um mundo real. 
+Matrix foi um marco do cinema de ficção científica e está entre os 50 filmes de maior bilheteria da história. Juntos, os três filmes arrecadaram mais de U$ 1.6 bilhões. Com efeitos especiais inovadores, estética cyberpunk e lutas coreografadas, Matrix reinventou o gênero de ação.</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channel>
+<name>Velozes e Furiosos</name>
+
+<thumbnail></thumbnail>
+
+<externallink>https://pastebin.com/raw/CTUwnEfT</externallink>
+
+<fanart></fanart>
+
+<info>The Fast and the Furious é uma saga americana, criada em 2001, que se integra na categoria de filmes de ação. Esta saga concentra-se em torno de corridas de rua ilegais, assaltos e vários outros meios.
+Elenco: Paul Walker, Vin Diesel, Michelle Rodriguez, Dwayne Johnson, Jordana Brewster
+Personagens: Dominic Toretto, Brian O'Conner, Han Lue, Letty Ortiz, Gisele Harabo, Mia Toretto
+Direção: Vin Diesel, Justin Lin, F. Gary Gray, James Wan, Phillip Atwell, John Singleton
+Produtoras: Universal Studios, Original Film, One Race Films, Seven Bucks Productions, Relativity Media.
 </info>
 </channel>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
 <channel>
-<name>Cronologia X-Men</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/787/598/full/X-Men_icon.png?1595462648</thumbnail>
-<externallink>https://pastebin.com/raw/zhBMq8Ay</externallink>
-<fanart>https://uploaddeimagens.com.br/images/002/787/600/full/X-Men_fanart.jpg?1595462667</fanart>
-<info>Os mutantes dos X-Men já ganharam duas franquias completamente voltadas para eles nos últimos vinte anos. Entretanto, muitos fãs ainda se confundem bastante com as linhas cronológicas criadas por esses eventos.
-Confira nesta lista a ordem cronológica correta para assistir a todos os filmes da franquia X-Men, incluindo o mais recente longa do universo, X-Men: Fênix Negra.</info>
+<name>John Wick</name>
+
+<thumbnail></thumbnail>
+
+<externallink>https://pastebin.com/raw/NFxFmPzj</externallink>
+
+<fanart></fanart>
+
+<info>John Wick é uma franquia americana de mídia e thriller de ação neo-noir criada pelo roteirista Derek Kolstad e de propriedade da Summit Entertainment. Keanu Reeves interpreta John Wick, um assassino aposentado que busca vingança pelo assassinato do cachorro que sua esposa recentemente faleceu.
+Elenco: Keanu Reeves, Ian McShane, Lance Reddick, Laurence Fishburne, Halle Berry, Asia Kate
+Personagens: Winston, John Wick, Bowery King, Ms. Perkins, Santino D'Antonio, The Adjudicator
+Direção: Chad Stahelski
+Produtoras: Summit Entertainment, Thunder Road Pictures, Legendary Pictures.
+</info>
 </channel>
-</channels>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
+<name>Missao Impossivel</name>
 
-<name>Super-Heróis Alternativos</name>
+<thumbnail></thumbnail>
 
-<thumbnail>https://uploaddeimagens.com.br/images/002/807/160/full/Her%C3%B3is_alternativos_icon.png?1596293635</thumbnail>
+<externallink>https://pastebin.com/raw/1WLDMTuP</externallink>
 
-<externallink>https://pastebin.com/raw/ewbvGiQH</externallink>
+<fanart></fanart>
+
+<info>Missão Impossível é uma série de filmes americanos de ação e espionagem, baseados e seguidos da série de televisão de mesmo nome criada por Bruce Geller. A série é principalmente produzida e estrelada por Tom Cruise, cujo personagem é Ethan Hunt, um agente da Força de Missões Impossíveis.Elenco: Tom Cruise, Rebecca Ferguson, Simon Pegg, Ving Rhames, Henry Cavill, Vanessa Kirby, mais
+Personagens: Ilsa, Julia Meade, Ethan Hunt, Benji Dunn, Solomane Lane, Luther Stickell, William Brandt, mais
+Produtoras: Bad Robot Productions, Skydance Productions, Paramount Pictures
+Direção: Christopher McQuarrie, Brad Bird, J. J. Abrams, Brian De Palma, John Woo.
+</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
-<fanart>https://uploaddeimagens.com.br/images/002/807/158/full/Her%C3%B3is_alternativos_fanart.jpg?1596293586</fanart>
 
-<info>Marvel e DC Comics contam com alguns dos maiores heróis da história dos quadrinhos. Porém, ao longo dos anos, outras editoras criaram personagens tão interessantes que eles tornaram-se sucesso de público e de crítica. Conheça agora alguns que não são da Marvel, nem da DC.</info>
+<channel>
+<name>Alien</name>
+
+<thumbnail>https://i.ibb.co/xX9MNyR/alien-icon.jpg</thumbnail>
+
+<externallink>https://pastebin.com/raw/eaE4ZjJd</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/bj62yKbgKl3egWDRV20QMvjxkk1.jpg</fanart>
+
+<info>A franquia de filmes de terror de ficção científica, com foco no personagem Tenente Ellen Ripley (Sigourney Weaver) e sua batalha com uma forma de vida extraterrestre, comumente referido como "o alien". Produzido pela 20th Century Fox.
+Estamos sós no universo? A julgar por nossa seleção, com certeza, não. Prepare-se para invasões alienígenas, batalhas espaciais e encontros de outro mundo.</info>
 
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
+<name>O Predador</name>
 
-<name>Franquias Alternativas</name>
+<thumbnail>https://i.ibb.co/6D7qcCs/predador-icon.png</thumbnail>
 
-<thumbnail>https://uploaddeimagens.com.br/images/002/809/231/original/Franquias_icon.png?1596428253</thumbnail>
+<externallink>https://pastebin.com/raw/Xagap5MF</externallink>
 
-<externallink>https://pastebin.com/raw/GSDS5L72</externallink>
+<fanart>https://image.tmdb.org/t/p/original/vNEC0xWeIOStnPeTPIBDGUGMzKT.jpg</fanart>
 
-
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_Y3af2gHyg5dJ3PrIIR2E1Zs7mo-gxxzXFA&usqp=CAU</fanart>
-
-<info>Maratone as maiores e mais conhecidas sagas, sequências e franquias do mundo do cinema. Hollywood é uma máquina de produzir filmes, e é muito fácil se perder no meio dos lançamentos todos os meses. Entre tantos títulos independentes, alguns filmes compartilham o mesmo universo e fazem parte de franquias que existem há muitos anos, atraindo fãs fiéis e, consequentemente, gerando muito lucro.
-Confira mais algumas franquias: Porque uma história boa sempre merece uma continuação.</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>Reviva Sob Encomenda</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/809/229/original/Sob_encomenda_3_icon.png?1596428217</thumbnail>
-<externallink>https://pastebin.com/raw/DLakNgW7</externallink>
-<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
-<info>Sessão Especial do Cliente.
-Nessa Pandemia Não Saia de Casa. 
-Faça Seu Pedido Através do Telegram @AddonREVIVA
-[COLOR blue]https://t.me/addonREVIVA[/COLOR]
-Ou Pelo [COLOR green]Whatsapp (54)992104130[/COLOR]
-[COLOR yellow]TOTALMENTE GRÁTIS[/COLOR].
+<info>Para os mais novos e os que não conhecem a fundo, vale lembrar que O Predador é um filme de 1987, que gerou duas sequelas, Predador 2 (1990), e Predadores (2010), dois filmes em crossover com a franquia Alien vs. Predator: Alien vs. Predator (2004) e Alien vs. Predador 2 (2007), e uma espécie de reboot, The Predator (2018).
 </info>
 </channel>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
+<channel>
+<name>Mad Max</name>
 
+<thumbnail>https://i.ibb.co/HNr3HrM/madmax-icon.png</thumbnail>
 
+<externallink>https://pastebin.com/raw/PqMECzbk</externallink>
 
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/oQIBypbvcAwtTVu26G81Xxhd57x.jpg</fanart>
 
+<info>Mad Max é uma franquia multi-media australiana do gênero ficção científica, contendo elementos de ação baseada em um futuro pós-apocalíptico, criada por James McCausland e George Miller. Começou em 1979 com o filme Mad Max, seguido por Mad Max 2: The Road Warrior e Mad Max Beyond Thunderdome.</info>
 
+</channel>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channel>
+<name>O Exterminador do Futuro</name>
+
+<thumbnail>https://i.ibb.co/pL9NQDp/Exterminador-icon.png</thumbnail>
+
+<externallink>https://pastebin.com/raw/icxUqHLf</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/4T7AizDnNLr2RcDLIZk32ZDVLYg.jpg</fanart>
+
+<info>Terminator (Exterminador do Futuro) é o título de uma franquia de ficção científica criada em 1984 por James Cameron com o filme The Terminator. Desde então, o filme teve 6 sequências no cinema, a série de televisão Terminator: The Sarah Connor Chronicles, e vários livros, video games e arte sequencial. Terminator é centrada na guerra entre a inteligência artificial Skynet e a resistência humana liderada por John Connor, em que a Skynet faz uso de ciborgues similares a humanos conhecidos por Exterminadores.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Duro de Matar</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/813/019/full/duro_matar_icon.png?1596595782</thumbnail>
+
+<externallink>https://pastebin.com/raw/U2XbKafk</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/1MaeSHwV4WWcx6MyfbqYPaBF9z9.jpg</fanart>
+
+<info>Die Hard (Duro de Matar) é uma série cinematográfica estadunidense de filmes de ação que teve início em 1988 com o filme-título, baseado no romance Nothing Lasts Forever de Roderick Thorp.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>De Volta Para o Futuro</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/813/241/full/de_volta_icon.png?1596626919</thumbnail>
+
+<externallink>https://pastebin.com/raw/PAMMSeZk</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/xwvPoLglKNX9hKexF8qnBGB9R1s.jpg</fanart>
+
+<info>Marty McFly (Michael J. Fox), Doc Brown (Christopher Lloyd) e um DeLorean viajam no tempo, na aventura de suas vidas, quando eles vão para o passado, o presente e o futuro, provocando uma reação em cadeia que rompe a continuidade de espaço e tempo! Dos cineastas Steven Spielberg, Robert Zemeckis e Bob Gate, De Volta Para o Futuro é uma incomparável trilogia que vence o teste do tempo.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Indiana Jones</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/813/325/original/Indiana_icon.png?1596630350</thumbnail>
+
+<externallink>https://pastebin.com/raw/MEbStk4J</externallink>
+
+<fanart>https://uploaddeimagens.com.br/images/002/813/335/original/Indiana_fanart.jpg?1596630512</fanart>
+
+<info>Indiana Jones, o arqueólogo mais famoso de todos os tempos e também um dos personagens mais conhecidos da história do cinema, estrela essa atemporal coleção, com todos os filmes do herói, interpretados com maestria por Harrison Ford.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Rocky</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/813/387/full/rocky_icon.png?1596632254</thumbnail>
+
+<externallink>https://pastebin.com/raw/7fKkz752</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/yPgAHVzCF0yJGhxupwVwknOHdJj.jpg</fanart>
+
+<info>Rocky é uma série de filmes de ação estrelada e escrita pelo ator americano Sylvester Stallone, o qual nestes filmes interpreta o boxeador Rocky Balboa.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Piratas do Caribe</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/813/944/full/piratas_icon.png?1596646266</thumbnail>
+
+<externallink>https://pastebin.com/raw/q9XYWqHV</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/zJd4E0ImT1U6O8k6aX3ssc9iUBS.jpg</fanart>
+
+<info>Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>MIB - Homens de Preto</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/814/052/original/MIB_icon.png?1596649148</thumbnail>
+
+<externallink>https://pastebin.com/raw/2ziJx6sp</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/o9puyKpayQoX8ikIaYtf2PfKv3.jpg</fanart>
+
+<info>Men in Black é uma franquia de mídia que se originou com uma história em quadrinhos criada pelo americano Lowell Cunningham. A franquia se concentra na organização não-governamental fictícia de mesmo nome, que monitora e regula a atividade paranormal e alienígena na Terra, enquanto impede que os civis descubram sobre ela. Os agentes mais notáveis da organização são Zed, Jay e Kay. A franquia foi adaptada para outras mídias, incluindo uma série de quatro filmes, uma série de televisão animada e videogames.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Crepusculo</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/753/full/crep%C3%BAsculo_icon.png?1596777176</thumbnail>
+
+<externallink>https://pastebin.com/raw/8EkPSnNe</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/kriNR9A8Lhk2tFzbVQkhepXymEr.jpg</fanart>
+
+<info>Crepúsculo é uma série de histórias de fantasia e romance sobre vampiros escrita por Stephenie Meyer que viraram filme. A saga conta a história de Isabella Swan (Bella), uma adolescente que se muda de Phoenix para Forks, em Washington, experimentando um mundo totalmente novo para si ao apaixonar-se por Edward Cullen, um vampiro.</info>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Jogos Vorazes</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/754/full/jogos_vorazes_icon.png?1596777205</thumbnail>
+
+<externallink>https://pastebin.com/raw/5n71tBB9</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/Ipp7cegtub4t0mu7xaKLQkYoGc.jpg</fanart>
+
+<info>Katniss Everdeen, uma garota de dezesseis anos que vive em um país distópico chamado Panem - localizado onde estaria a América do Norte. O país é dominado por uma metrópole tecnologicamente avançada chamada Capital, que realiza anualmente os Jogos Vorazes, para que as pessoas sempre se lembrem da revolta que aconteceu décadas atrás.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>As Cronicas de Nárnia</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/755/original/N%C3%A1rnia_icon.png?1596777252</thumbnail>
+
+<externallink>https://pastebin.com/raw/gpdcgYbm</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/ojjzZUQlqKTsN1T7s5OAVZSjYMH.jpg</fanart>
+
+<info>Nárnia é um mundo fantástico criado pelo escritor Irlandês Clive Staples Lewis como local narrativo para As Crônicas de Nárnia, uma série de sete livros. O mundo é chamado assim em homenagem ao país de Nárnia, onde acontece a maior parte da história. Em Nárnia, alguns animais podem falar, as criaturas mitológicas abundam, e a magia é comum. As pessoas, geralmente crianças, entram no mundo narniano provenientes do "nosso mundo", a Terra.
+</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Tartarugas Ninja</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/815/788/full/tartarugas_icon.png?1596736036</thumbnail>
+
+<externallink>https://pastebin.com/raw/6UV0Utpy</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/tfpOdV9gvqbGJEeLGSu5X1vOLKV.jpg</fanart>
+
+<info>As Tartarugas Mutantes Ninjas é um remake da série de filmes lançados nos anos de 1990, com base nos personagens de quadrinhos do mesmo nome criados por Kevin Eastman e Peter Laird. A série foi reiniciada em um novo filme feito pela Paramount Pictures e Nickelodeon Movies, lançado em 2014. A sequência foi lançada em 2016.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Transformers</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/519/full/transformer_icon.png?1596759759</thumbnail>
+
+<externallink>https://pastebin.com/raw/KRvddZEW</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/j3vmp60re1DIT0NWvFu5IuHDeRF.jpg</fanart>
+
+<info>A série Transformers segue a batalha contínua entre os Autobots e os Decepticons.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Planeta dos Macacos</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/746/original/planeta_macacos_icon.jpg?1596775956</thumbnail>
+
+<externallink>https://pastebin.com/raw/v0LPnTx7</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/hJO55dA3xTJPmrH6nkZzAnJBirx.jpg</fanart>
+
+<info>Em 2005, os roteiristas Rick Jaffa e Amanda Silver desenvolveram um conceito para um novo filme do Planeta dos Macacos. Inspirado por artigos de notícias sobre macacos criados como humanos e avanços em genética, Jaffa concebeu uma ideia de um filme sobre um chimpanzé geneticamente melhorado em uma família humana.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Divergente</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/786/full/divergente_icon.png?1596781960</thumbnail>
+
+<externallink>https://pastebin.com/raw/QStRdGn3</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/hDuz4vw2LLNpfAUZCkiT94H92zL.jpg</fanart>
+
+<info>Trilogia baseada nos romances de Vernoica Roth sobre o Universo Divergente. Numa Chicago futurista, a sociedade se divide em cinco facções – Abnegação, Amizade, Audácia, Franqueza e Erudição – e não pertencer a nenhuma facção é como ser invisível</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>Maze Runner</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/794/full/maze_runner_icon.jpg?1596783282</thumbnail>
+
+<externallink>https://pastebin.com/raw/8drJVWWi</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/te8ibHFhjwWXZTCtQIPRUFjxWX2.jpg</fanart>
+
+<info>A série de filmes consiste em filmes de aventura, ação distópica de ficção científica com base na trilogia de livros Maze Runner do autor americano James Dashner. Eles começam com Thomas, que acorda preso em um labirinto com um grupo de outros meninos, ele não tem memória do mundo exterior além dos sonhos sobre uma organização conhecida como CRUEL. Somente juntando fragmentos de seu passado com pistas que ele descobre no labirinto, Thomas pode descobrir seu propósito e uma maneira de escapar.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>RoboCop</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/803/full/Robocop.jpg?1596784035</thumbnail>
+
+<externallink>https://pastebin.com/raw/3kcksnNx</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/azQScQWHpz5puIV4YeCcqgiT9Tn.jpg</fanart>
+
+<info>Quando um policial fatalmente ferido por uma gangue de lunáticos é renascido na forma de um cyborg, parte homem, parte máquina, surge RoboCop. Um blockbuster de 1987 que gerou duas seqüência de grande sucesso.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>O Poderoso Chefão</name>
+
+<thumbnail>https://uploaddeimagens.com.br/images/002/816/804/full/poderoso_chef%C3%A3o.png?1596784084</thumbnail>
+
+<externallink></externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/3WZTxpgscsmoUk81TuECXdFOD0R.jpg</fanart>
+
+<info>Os filmes da trilogia de Francis Ford Coppola sobre a vida cotidiana de uma família mafiosa de Nova York. Com seu elenco com estrelas, esses filmes entraram para a história, como alguns dos melhores que Hollywood já produziram.</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

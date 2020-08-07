@@ -99,9 +99,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>Parasita (2019)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc33008ab9b2fefa78cf264d3124b841875d5c11</link>
 
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Parasite_poster.jpg/250px-Parasite_poster.jpg</thumbnail>
 
-<fanart></fanart>
+<fanart>https://s2.glbimg.com/o3b6mhTJOCAzvjjDb9iSe0c54zI=/0x0:1024x682/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/S/S/ZrBMYHTO6twKNkbKxi5Q/parasita.jpg</fanart>
 
 <info></info>
 </item>
@@ -113,10 +113,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <title>A barraca do beijo 2</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03b132623a4001a7325432e9a9c2059f44363e12</link>
 
-<thumbnail></thumbnail>
+<thumbnail>https://poltronanerd.com.br/wp-content/uploads/2020/07/poltrona-a-barraca-do-beijo-poster-819x1024.jpg</thumbnail>
 
 <fanart></fanart>
 
 <info></info>
 </item>
 
+<item>
+<title>Sonic</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:190493835b9150df9199482d6ed7042d899f1ab8=$$lsname=Sonic 720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83b86f3d4e91227150e3bd76a4fbaaa731d40bd4=$$lsname=Sonic 1080p</link>
+
+<thumbnail></thumbnail>
+
+<fanart></fanart>
+
+<info></info>
+</item>

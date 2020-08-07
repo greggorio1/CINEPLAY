@@ -1,7 +1,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR yellow]                                     LEIA[/COLOR] </name>
-<thumbnail></thumbnail>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart></fanart>
 <info>
@@ -17,7 +17,7 @@
 <channels>
 <channel>
 <name>Filmes novos</name>
-<thumbnail></thumbnail>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/torrent2020</externallink>
 <fanart></fanart>
 <info>
@@ -29,7 +29,7 @@
 <channels>
 <channel>
 <name>Filmes Aleatorios</name>
-<thumbnail></thumbnail>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
@@ -43,7 +43,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>Filmes Trilogias</name>
-<thumbnail></thumbnail>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/trilogia%20torrent</externallink>
 <fanart></fanart>
 <info>
@@ -56,7 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>Séries (Em breve)</name>
-<thumbnail></thumbnail>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info></info>

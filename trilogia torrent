@@ -1,94 +1,13 @@
-<channel>
-<name>O Hobbit</name>
-
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStzMI5oSvBiMlzp6lPHDbi3vSG_bQ7ULaU7A&usqp=CAU</thumbnail>
-
-<externallink>https://pastebin.com/raw/uHqmNMMv</externallink>
-
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStzMI5oSvBiMlzp6lPHDbi3vSG_bQ7ULaU7A&usqp=CAU</fanart>
-
-<info>[COLOR red]Sinopse[/COLOR]:
-"A aventura segue a jornada de Bilbo Bolseiro, que é levado à épica missão de retomar a posse do reino dos anões, Erebor, do dragão Smaug. Abordado inesperadamente pelo mago Gandalf, o Cinzento, Bilbo se encontra no meio de treze anões liderados pelo guerreiro Thorin Escudo-de-Carvalho.</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>Senhor dos Aneis</name>
-
-<thumbnail>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL58GR/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg</thumbnail>
-
-<externallink>https://pastebin.com/raw/k1URaDCh</externallink>
-
-<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/8/87/Ringstrilogyposter.jpg/250px-Ringstrilogyposter.jpg</fanart>
-
-<info>[COLOR red]Sinopse[/COLOR]: 
-O Senhor dos Anéis (The Lord of the Rings) é um romance de fantasia criado pelo escritor, professor e filólogo britânico J.R.R. Tolkien. A história começa como seqüência de um livro anterior de Tolkien, O Hobbit (The Hobbit), e logo se desenvolve numa história muito maior.</info>
-</channel>
- 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>Harry Potter</name>
-
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3a/Harry_Potter_and_the_Deathly_Hallows_-_Part_2.jpg</thumbnail>
-
-<externallink>https://pastebin.com/raw/ZPxeWNDu</externallink>
-
-<fanart>https://i.em.com.br/lc-M1wJjf0qV5C34JxNVzvh0ooU=/790x/smart/imgsapp.em.com.br/app/noticia_127983242361/2020/04/30/1143110/20200429201036901334u.jpg</fanart>
-
-<info>[COLOR red]Sinopse[/COLOR]:
-Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>Jhon Wick</name>
+<item>
+<title>John wick</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459$$lsname=De volta ao jogo- LINK 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9$$lsname=Um novo dia para matar</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d206173973452ec80de945c61a87d7430d44fa7$$lsname=Parabellum</link>
 
 <thumbnail>https://i.pinimg.com/originals/7c/33/0e/7c330eb69f02cec270b87982d33c4716.jpg</thumbnail>
 
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/john%20wick</externallink>
-
 <fanart>https://poltronanerd.com.br/wp-content/uploads/2020/05/Screenshot_2020-05-08-Never-Before-Seen-John-Wick-Chapter-2-Photo1.png</fanart>
 
-<info>[COLOR red]Sinopse[/COLOR]:
+<info>[COLOR red]Sinopse[/COLOR]: 
 John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
-
-<channel>
-
-<name>Shrek</name>
-
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/Shrek_Poster.jpg/215px-Shrek_Poster.jpg</thumbnail>
-
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/shrek</externallink>
-
-<fanart>https://rollingstone.uol.com.br/media/_versions/legacy/2010/img_18878_shrek_widelg.jpg</fanart>
-
-<info>[COLOR red]Sinopse[/COLOR]:
-Era uma vez um pântano distante, onde vivia um ogro chamado Shrek. De repente, seu sossego é interrompido pela invasão de personagens de contos de fadas que foram banidos de seu reino pelo maldoso Lorde Farquaad. Determinado a salvar o lar das pobres criaturas, e também o dele, Shrek faz um acordo com Farquaad e parte para resgatar a princesa Fiona. Resgatar a princesa pode não ser nada comparado com seu segredo profundo e sombrio</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
-
-<channel>
-
-<name>Matrix</name>
-
-<thumbnail>https://br.web.img2.acsta.net/medias/nmedia/18/91/08/82/20128877.JPG</thumbnail>
-
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/matrix</externallink>
-
-<fanart>https://http2.mlstatic.com/filme-matrix-colecao-download-D_NQ_NP_741368-MLB40573337257_012020-F.jpg</fanart>
-
-<info>[COLOR red]Sinopse[/COLOR]:</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+</item>

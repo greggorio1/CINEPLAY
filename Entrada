@@ -28,8 +28,8 @@
 
 <channels>
 <channel>
-<name>Filmes por Genero</name>
-<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<name>Filmes por Generos</name>
+<thumbnail>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Generos</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>

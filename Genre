@@ -4,7 +4,8 @@
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info></info>
+<info>
+[B]Os melhores filmes de ação do cinema[/B]</info>
 </channel>
 </channels>
 
@@ -12,11 +13,12 @@
 
 <channels>                                                     
 <channel>
-<name>Animação</name>
+<name>[B]Animação[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info></info>
+<info>
+[B]As melhores animações para a criançada (e para os adultos tambem)[/B]</info>
 </channel>
 </channels>
 
@@ -24,11 +26,12 @@
 
 <channels>                                                     
 <channel>
-<name>Romance</name>
+<name>[B]Romance[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info></info>
+<info>
+[B]O melhor do romance na sua tela[/B]</info>
 </channel>
 </channels>
 
@@ -36,11 +39,12 @@
 
 <channels>                                                     
 <channel>
-<name>Aventura</name>
+<name>[B]Aventura[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info></info>
+<info>
+[B]Venha se aventurar conosco[/B]</info>
 </channel>
 </channels>
 
@@ -48,11 +52,12 @@
 
 <channels>                                                     
 <channel>
-<name>Drama</name>
+<name>[B]Drama[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info></info>
+<info>
+[B]O melhor do drama na sua tela[/B]</info>
 </channel>
 </channels>
 
@@ -60,10 +65,11 @@
 
 <channels>                                                     
 <channel>
-<name>Terror</name>
+<name>[B]Terror[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info></info>
+<info>
+[B]Não vale tapar o olho,hein[/B]</info>
 </channel>
 </channels>

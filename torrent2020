@@ -73,8 +73,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>Joker (2020) [COLOR red]1080p & 4k[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acb6b94265ac592f8871c34e16e6e00a3aa6daa8</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42e92deaa863d1b6083bb159c14fa827ea8ef9b6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acb6b94265ac592f8871c34e16e6e00a3aa6daa8&amp;$$lsname=link 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42e92deaa863d1b6083bb159c14fa827ea8ef9b6$$lsname=teste 2</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/6/63/Joker_(2019).jpg</thumbnail>
 
 <fanart>https://s2.glbimg.com/oYcCnqBXsiTbLxwvG0c5T5XJt7s=/smart/e.glbimg.com/og/ed/f/original/2019/08/30/joker_3.jpg</fanart>

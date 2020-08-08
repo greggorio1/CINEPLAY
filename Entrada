@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>Filmes novos</name>
+<name>Filmes Lançamentos</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/torrent2020</externallink>
 <fanart></fanart>
@@ -28,7 +28,7 @@
 
 <channels>
 <channel>
-<name>Filmes Aleatorios</name>
+<name>Filmes por Genero</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -55,7 +55,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>Séries (Em breve)</name>
+<name>Séries[COLOR red](Em breve)[/COLOR]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>

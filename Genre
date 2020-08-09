@@ -1,5 +1,17 @@
 <channels>                                                     
 <channel>
+<name>[B]Fimes em 4k[/B]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]Filmes com as mais altas qualidades
+Necessita de uma boa internet e um bom processador![/B]</info>
+</channel>
+</channels>
+
+<channels>                                                     
+<channel>
 <name>[B]Ação[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/action</externallink>
@@ -37,27 +49,18 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>                                                     
-<channel>
-<name>[B]Aventura[/B]</name>
-<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-[B]Venha se aventurar conosco[/B]</info>
-</channel>
-</channels>
+
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>                                                     
 <channel>
-<name>[B]Drama[/B]</name>
+<name>[B]Trilogias[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
-[B]O melhor do drama na sua tela[/B]</info>
+[B]As melhores trilogias[/B]</info>
 </channel>
 </channels>
 

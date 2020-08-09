@@ -5,8 +5,8 @@
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart></fanart>
 <info>
-[COLOR yellow]•[/COLOR]Os conteudos que nao funcionarem,é pq tem poucos seeds,quanto mais pessoas assistirem,mais chances tem de funcionar
-[COLOR yellow]•[/COLOR]Para conteúdo legendado,usem o opensubtitles
+[COLOR yellow]•[/COLOR]Nossos filmes e séries funcionam atraves de magnet links
+[COLOR yellow]•[/COLOR]Para filmes e séries legendadas,usem o addon Opensubtitles
 
 </info>
 </channel>
@@ -14,53 +14,94 @@
 
 
 
+
+
+
+
 <channels>
 <channel>
-<name>[B]Filmes Lançamentos[/B]</name>
+<name>[B]Lançamentos[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/torrent2020</externallink>
 <fanart></fanart>
 <info>
 [COLOR yellow]•[/COLOR]Filmes lançados entre o final de 2019 e inicio de 2020</info>
+
 </channel>
 </channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+
+<channel>
+
+<name>[B]Séries[/B] [I](Em breve)[/I]</name>
+
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+
+<externallink>https://</externallink>
+
+<fanart></fanart>
+
+<info></info>
+
+</channel>
+
+</channels>
+
+
+
 
 
 <channels>
+
 <channel>
-<name>[B]Filmes por Generos[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Generos</thumbnail>
+
+<name>[B]Categorias[/B]</name>
+
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Genre</externallink>
+
 <fanart></fanart>
+
 <info>
+
 [COLOR yellow]•[/COLOR]Filmes variados,qualquer data</info>
+
 </channel>
+
 </channels>
+
+
+
+
 
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+
 <channels>
+
 <channel>
-<name>[B]Filmes Trilogias[/B]</name>
+
+<name>[B]Recomendados[/B] [I]em breve[/I]</name>
+
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/trilogia%20torrent</externallink>
+
 <fanart></fanart>
+
 <info>
-[COLOR yellow]•[/COLOR]As melhores trilogias para vcs</info>
+
+[COLOR yellow]•[/COLOR]Filmes da semana</info>
+
 </channel>
+
 </channels>
+
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[B]Séries[COLOR red](Em breve)[/B][/COLOR]</name>
-<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 

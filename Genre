@@ -28,7 +28,7 @@
 <channel>
 <name>[B]Romance[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/roman</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 [B]O melhor do romance na sua tela[/B]</info>

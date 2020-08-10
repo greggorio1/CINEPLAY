@@ -25,9 +25,9 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>                                                     
 <channel>
-<name>[B]Animação[/B] [I](Em breve)[/I]</name>
+<name>[B]Animação[/B] </name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/dese4k</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 [B]As melhores animações para a criançada (e para os adultos tambem)[/B]</info>

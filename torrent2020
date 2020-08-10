@@ -130,8 +130,8 @@ A Barraca do Beijo 2 trata sobre amadurecimento dos seus protagonistas de um mod
 
 <item>
 <title>Sonic [I](2020) 1080p[/I]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:190493835b9150df9199482d6ed7042d899f1ab8:lsname= lk</link>
-<link>plugin://plugin.video.elementum/play?lsname=sonicuri=magnet:?xt=urn:btih:83b86f3d4e91227150e3bd76a4fbaaa731d40bd4</link>
+<link>$$lsname=coringa=plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:190493835b9150df9199482d6ed7042d899f1ab8</link>
+<link>plugin://plugin.video.elementum/play?$$lsname=sonicuri=magnet:?xt=urn:btih:83b86f3d4e91227150e3bd76a4fbaaa731d40bd4</link>
 
 <thumbnail>https://br.web.img2.acsta.net/pictures/20/03/18/15/48/0121118.jpg</thumbnail>
 

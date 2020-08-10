@@ -1,8 +1,8 @@
 <channels>                                                     
 <channel>
-<name>[B]Fimes em 4k[/B] [I]Em breve[/I]</name>
+<name>[B]Fimes em 4k[/B] </name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4ktorr</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 [B]Filmes com as mais altas qualidades
@@ -25,7 +25,7 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>                                                     
 <channel>
-<name>[B]Animação[/B] [I]Em breve[/I]</name>
+<name>[B]Animação[/B] [I](Em breve)[/I]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -55,7 +55,7 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>                                                     
 <channel>
-<name>[B]Trilogias[/B] [I]Em breve[/I]</name>
+<name>[B]Trilogias[/B] [I](Em breve)[/I]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>plugin://plugin.video.elementum/play?uri=</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>

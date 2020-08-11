@@ -1,107 +1,16 @@
 <channels>                                                     
 <channel>
-<name>[COLOR yellow][B]LEIA[/B][/COLOR] </name>
+<name>[B]CLIQUE AQUI[COLOR green]•[/COLOR][/B] </name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Genre</externallink>
 <fanart></fanart>
 <info>
-[COLOR yellow]•[/COLOR]Nossos filmes e séries funcionam atraves de magnet links
-[COLOR yellow]•[/COLOR]Para filmes e séries legendadas,usem o addon Opensubtitles
+[COLOR yellow]•[/COLOR]Sejam bem-vindos ao addon,[COLOR yellow]The Pirate Br[/COLOR]
+[COLOR yellow]•[/COLOR][I]Welcome to the addon,[COLOR yellow]The Pirate Br[/ COLOR][/I]
+
+[COLOR yellow]•[/COLOR]Aproveitem o maximo possivel,aqui encontraram filmes e séries dubladas,tanto quanto legendadas
+[COLOR yellow]•[/ COLOR][I]Make the most of it, here you find dubbed films and series, as well as subtitled[/I]
 
 </info>
 </channel>
 </channels>
-
-
-
-
-
-
-
-<channels>
-<channel>
-<name>[B]Lançamentos[/B]</name>
-<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/torrent2020</externallink>
-<fanart></fanart>
-<info>
-[COLOR yellow]•[/COLOR]Filmes lançados entre o final de 2019 e inicio de 2020</info>
-
-</channel>
-</channels>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<channels>
-
-<channel>
-
-<name>[B]Séries[/B] [I](Em breve)[/I]</name>
-
-<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-
-<externallink>https://</externallink>
-
-<fanart></fanart>
-
-<info></info>
-
-</channel>
-
-</channels>
-
-
-
-
-
-<channels>
-
-<channel>
-
-<name>[B]Categorias[/B]</name>
-
-<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Genre</externallink>
-
-<fanart></fanart>
-
-<info>
-
-[COLOR yellow]•[/COLOR]Filmes variados,qualquer data</info>
-
-</channel>
-
-</channels>
-
-
-
-
-
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-
-<channels>
-
-<channel>
-
-<name>[B]Recomendados[/B] [I]em breve[/I]</name>
-
-<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/trilogia%20torrent</externallink>
-
-<fanart></fanart>
-
-<info>
-
-[COLOR yellow]•[/COLOR]Filmes da semana</info>
-
-</channel>
-
-</channels>
-
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

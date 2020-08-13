@@ -3,7 +3,7 @@
 <name>[B]Lançamentos[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/torrent2020</externallink>
-<fanart></fanart>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 [COLOR yellow]•[/COLOR]Filmes lançados entre o final de 2019 e inicio de 2020</info>
 </channel>
@@ -81,9 +81,9 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>                                                     
 <channel>
-<name>[B]Terror[/B] [I]Em breve[/I]</name>
+<name>[B]Terror[/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/terr</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 [B]Não vale tapar o olho,hein[/B]</info>
@@ -96,7 +96,7 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 <name>[B]Séries[/B] [I](Em breve)[/I]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info></info>
 </channel>
 </channels>

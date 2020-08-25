@@ -1,12 +1,103 @@
+<channels>
+<channel>
+<name>[B]Lançamentos[/B]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/torrent2020</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[COLOR yellow]•[/COLOR]Filmes lançados entre o final de 2019 e inicio de 2020</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 <channels>                                                     
 <channel>
-<name>[B]CLIQUE AQUI[COLOR green]•[/COLOR][/B] </name>
+<name>[B]Fimes em 4k[/B] </name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Genre</externallink>
-<fanart>https://pbs.twimg.com/profile_images/37120952/PirateBay_1_NETT_26916d_400x400.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4ktorr</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
-[COLOR yellow]•[/COLOR]Sejam bem-vindos ao addon,The Pirate Br+
-[COLOR yellow]•[/COLOR]([I]Welcome to the addon,The Pirate Br[/I])
-</info>
+[B]Filmes com as mais altas qualidades
+Necessita de uma boa internet e um bom processador![/B]</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>                                                     
+<channel>
+<name>[B]Ação[/B]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/action</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[COLOR red]●[/COLOR][B]Os melhores filmes de ação do cinema[/B]
+[COLOR red]●[/COLOR]Filmes de aventura e super-herois tabem sao adicionados</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>                                                     
+<channel>
+<name>[B]Animação[/B] </name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/dese4k</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]As melhores animações para a criançada (e para os adultos tambem)[/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>                                                     
+<channel>
+<name>[B]Romance[/B]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/roman</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]O melhor do romance na sua tela[/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>                                                     
+<channel>
+<name>[B]Trilogias[/B]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/trilogia%20torrent</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]As melhores trilogias[/B]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>                                                     
+<channel>
+<name>[B]Terror[/B]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/terr</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]Não vale tapar o olho,hein[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[B]Séries[/B] [I](Em breve)[/I]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/seritorr</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info></info>
 </channel>
 </channels>

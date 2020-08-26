@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B]Lançamentos[/B]</name>
+<name>[B][Lançamentos][/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/torrent2020</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -12,7 +12,7 @@
 
 <channels>                                                     
 <channel>
-<name>[B]Fimes em 4k[/B] </name>
+<name>[B][Filmes 4k][/B] </name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4ktorr</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -25,7 +25,7 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>                                                     
 <channel>
-<name>[B]Ação[/B]</name>
+<name>[B][Ação][/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/action</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -39,7 +39,7 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>                                                     
 <channel>
-<name>[B]Animação[/B] </name>
+<name>[B][Animação][/B] </name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/dese4k</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -52,7 +52,7 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>                                                     
 <channel>
-<name>[B]Romance[/B]</name>
+<name>[B][Romance][/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/roman</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -63,13 +63,9 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 <channels>                                                     
 <channel>
-<name>[B]Trilogias[/B]</name>
+<name>[B][Trilogias][/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/trilogia%20torrent</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -82,7 +78,7 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>                                                     
 <channel>
-<name>[B]Terror[/B]</name>
+<name>[B][Terror][/B]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/terr</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -94,10 +90,22 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>
 <channel>
-<name>[B]Séries[/B] [I](Em breve)[/I]</name>
+<name>[B][Séries][/B] [I](Em breve)[/I]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/seritorr</externallink>
+<externallink>http://</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info></info>
+<info>
+[B]Assista séries das mais variadas plataformas[/B]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][Pedidos][/B] [I](Em breve)[/I]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]Assista séries das mais variadas plataformas[/B]</info>
 </channel>
 </channels>

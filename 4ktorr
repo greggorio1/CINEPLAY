@@ -1,11 +1,30 @@
 <item>
-<title>[COLOR red][COLOR yellow][B]Aviso!!![/B][/COLOR][/COLOR]</title>
+<title>[B]Aviso!!![/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c08ddc8a6d78838ae1323316fc2bbfd57bb9777</link>
 <thumbnail>https://amtu.com.br/wp-content/uploads/2020/03/AVISO_293O.png</thumbnail>
 <info>: 
 [COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!!
 [COLOR red]●[/COLOR]Só reportem caso todos os links nao funcionarem!!!
 [COLOR red]●[/COLOR]Arquivos com mais de 30gb</info>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow][B]Depois da terra[/B][/COLOR] [COLOR gray] 4K[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca9f318b3d261c828a981d621ae494045ba9276f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/gTdYNQ5PKM8UjdgAkPmzbiEbeP3.jpg</thumbnail>
+<info> 
+</info>
+</item>
+
+<item>
+<title>[COLOR yellow][B]Sully: O Herói do Rio Hudson[/B][/COLOR] [COLOR gray] 4K[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c6157869d2b15075a6d1404e57ff35b6b6db8a1</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ckmKU6zffpux1gY3pGZ8ZAxKNRD.jpg</thumbnail>
+<info> 
+</info>
 </item>
 
 

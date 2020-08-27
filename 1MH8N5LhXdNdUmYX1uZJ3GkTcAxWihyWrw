@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B][Lançamentos][/B]</name>
+<name>[U]Lançamentos[/U]</name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/torrent2020</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -12,7 +12,7 @@
 
 <channels>                                                     
 <channel>
-<name>[B][Filmes 4k][/B] </name>
+<name>[B][U]Filmes 4k[/U][/B] </name>
 <thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4ktorr</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>

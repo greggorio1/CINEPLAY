@@ -100,6 +100,29 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 </channels>
 
 
+<channels>
+<channel>
+<name>[B]Guerra[/B] [COLOR gray](Em breve)[/COLOR]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]Os melhores e mais marcantes filmes de guerra[/B]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[B]Legendados[/B] [COLOR gray](Em breve)[/COLOR]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]Area para filmes sem dublagem[/B]</info>
+</channel>
+</channels>
+
 
 
 <channels>
@@ -113,13 +136,3 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>[B]Pedidos[/B] [COLOR gray](Em breve)[/COLOR]</name>
-<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
-<externallink>http://</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-[B]Assista séries das mais variadas plataformas[/B]</info>
-</channel>
-</channels>

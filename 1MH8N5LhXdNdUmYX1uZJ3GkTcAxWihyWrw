@@ -74,6 +74,23 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[B]Documentarios[/B] [COLOR gray](Em breve)[/COLOR]</name>
+<thumbnail>https://img.apksum.com/3e/com.torrentsearch/1.6/icon.png</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[COLOR yellow]Atualizado em[/COLOR]: ??/??
+[COLOR yellow]Adicionados[/COLOR]: ??
+
+
+[B]Ducumentarios sobre historias marcantes[/B]</info>
+</channel>
+</channels>
+
+
 <channels>
 <channel>
 <name>[B]Guerra[/B] </name>

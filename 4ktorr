@@ -8,8 +8,72 @@
 [COLOR red]●[/COLOR]Arquivos com mais de 30gb</info>
 </item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Pantera Negra[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586a40c2113efebf35fcd3ea68b2abf08c6caf17</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</thumbnail>
+<wallpaper>https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</wallpaper>
+<genre>4K</genre>
+<time>2:14:00</time>
+<year>2018</year>
+</item> 
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Bright[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e37a93cc6201a99a56688bb8e8ee1bd32637ea2</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg</thumbnail>
+<genre>4K</genre>
+
+</item> 
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Interestelar[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5669c94c766f76a380ef9e113462585cd5468c56</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail>
+<genre>4K</genre>
+
+</item> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Perdido em Marte[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caef0861f0944fbf707467ab74fd6807568f44ed</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg</thumbnail>
+<genre>4K</genre>
+
+</item> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]O Exterminador do Futuro: Destino Sombrio[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84140618e0c0d509f687140fcb2ee364330870ba</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg</thumbnail>
+<genre>4K</genre>
+
+</item> 
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Crime Sem Saída[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a43db4b5b5321497df942856d2d861828ff154c</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/i4AWAMPxqNpYTvp0RXL4JSKg7hh.jpg</thumbnail>
+<genre>4K</genre>
+
+</item> 
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 <item>
 <title>[COLOR yellow][B]Nós[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9eb25e1eea15122bf2690f8ebc1413eac60903d1</link>
@@ -75,7 +139,7 @@
 <item>
 <title>[COLOR yellow][B]Kong: A Ilha da Caveira[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02910e19ca3d780a56aec757a38a129d3f6f8631</link>
-<thumbnail></thumbnail>
+<thumbnail>https://br.web.img3.acsta.net/pictures/17/02/24/14/55/144568.jpg</thumbnail>
 <genre>4K</genre>
 
 </item> 
@@ -386,7 +450,7 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]Animais Fantásticos: Os Crimes de Grindelwald[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
+<title>[COLOR yellow][B]Animais Fantásticos: Os s de Grindelwald[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f67450dc26393655f18988fd33b11ec9fb991122</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/dcIfTb2nNWnyV9WHL2jh0HEjNw2.jpg</thumbnail>
 <info>
@@ -727,7 +791,7 @@
 <item>
 <title>[COLOR yellow][B]Logan[/B][/COLOR] [COLOR grey]4K[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d757897dcf54ac6ca892256b33772365c5a6884</link>
-<thumbnail>https://filmesonlineuhd.com/wp-content/uploads/2017/03/Logan-185x278.jpg</thumbnail>
+<thumbnail>https://http2.mlstatic.com/poster-cartaz-logan-wolverine-x-men-b-40x60cm-D_NQ_NP_781925-MLB25517573987_042017-F.jpg</thumbnail>
 <info> 
 </info>
 </item>
@@ -837,7 +901,7 @@
 <item>
 <title>[COLOR yellow][B]Frozen II[/B][/COLOR] [COLOR grey]4K[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3eea88e07236eb05c2e7a7e17958518d03a5005</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/4f/Frozen_2_poster.jpg</thumbnail>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/10/14/15/18/1691494.jpg</thumbnail>
 <info>: 
 </info>
 </item>

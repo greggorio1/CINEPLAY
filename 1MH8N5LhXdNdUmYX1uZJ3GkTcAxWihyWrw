@@ -118,6 +118,24 @@
 </channel>
 </channels>
 
+///////////////////////////
+
+<channels>
+<channel>
+<name>|[B][COLOR yellow]TP[/COLOR][COLOR green]Br+[/COLOR][/B]|[B]Drama/Religioso[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/drama</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR yellow]Atualizado em[/COLOR]: 27/01[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 25 Filmes[/B]
+[B][COLOR red]Total[/COLOR]: 25 Filmes[/B]</info>
+</channel>
+</channels>
+
+
+
+////////////////////////
 
 <channels>
 <channel>
@@ -206,18 +224,7 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 
 
-<channels>
-<channel>
-<name>|[B][COLOR yellow]TP[/COLOR][COLOR green]Br+[/COLOR][/B]|[B]Drama/Religioso[/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/drama</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-[B][COLOR yellow]Atualizado em[/COLOR]: 27/01[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: 25 Filmes[/B]
-[B][COLOR red]Total[/COLOR]: 25 Filmes[/B]</info>
-</channel>
-</channels>
+
 
 
 ??????????????????????????????????????????????????????????????????

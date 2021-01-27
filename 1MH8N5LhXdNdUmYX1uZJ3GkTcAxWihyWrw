@@ -35,7 +35,7 @@
 <info>
 [B][COLOR yellow]Atualizado em[/COLOR]: 22/01[/B]
 [B][COLOR yellow]Adicionados[/COLOR]: 04 Filmes[/B]
-[B][COLOR red]Total[/COLOR]: 116 Filmes[/B]
+[B][COLOR red]Total[/COLOR]: 120 Filmes[/B]
 
 
 [B]Filmes lançados entre o final de 2020 e inicio de 2021[/B]</info>
@@ -208,14 +208,14 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 
 <channels>
 <channel>
-<name>|[B][COLOR yellow]TP[/COLOR][COLOR green]Br+[/COLOR][/B]|[B]Drama/Religioso[/B] [COLOR gray](Em breve)[/COLOR]</name>
+<name>|[B][COLOR yellow]TP[/COLOR][COLOR green]Br+[/COLOR][/B]|[B]Drama/Religioso[/B]</name>
 <thumbnail></thumbnail>
-<externallink>http://</externallink>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/drama</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
-[B][COLOR yellow]Atualizado em[/COLOR]: ??/??[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: ?? Filmes[/B]
-[B][COLOR red]Total[/COLOR]: ??? Filmes[/B]</info>
+[B][COLOR yellow]Atualizado em[/COLOR]: 27/01[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 25 Filmes[/B]
+[B][COLOR red]Total[/COLOR]: 25 Filmes[/B]</info>
 </channel>
 </channels>
 

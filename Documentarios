@@ -1,5 +1,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
+<title>[COLOR green][B]• Dica[/B][/COLOR]: Para buscar um filme em especifico,use o filtro ao seu lado esquerdo!!</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<thumbnail></thumbnail>
+<info>
+
+
+[B] Nos avisem caso algum filmes esteja off.[/B]</info>
+
+</item> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
 <title>[COLOR yellow][B]Desarmados[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5004f771f91d1c5a65048870e7dbf3fa2063d388</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/psI16IuKKL8WkWojLO7VOu1S9C7.jpg</thumbnail>

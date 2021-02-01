@@ -1,7 +1,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR green][B]• Dica[/B][/COLOR]: Para buscar um filme em especifico,use o filtro ao seu lado esquerdo!!</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail></thumbnail>
 <info>
 
@@ -14,7 +14,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Jogo da Vida[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76f12386c9b5b4c5438ef3990878b333ef17d6df</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76f12386c9b5b4c5438ef3990878b333ef17d6df$$lsname=[COLOR rd]HD[/COLOR]</link>
 <thumbnail>https://i.pinimg.com/originals/9c/fa/88/9cfa880a9d605c74db4a586f81a81476.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B]Conta a história de uma menina que adora jogar futebol e tem tudo para virar uma estrela quando descobre que está com leucemia. Além de enfrentar a doença, a pequena Akkie precisa lidar ainda com novos desafios, como o de se apaixonar.O drama, dirigido por Dennis Bots e estrelado por Hanna Obbeek, foi baseado em um dos romances infantis mais famosos da Europa: “Achtste-Groepers Huilen Niet”, do holandês Jacques Vriens. Além de ser o escritor, Jacques Vriens também participou do filme. No longa, ele aparece como o homem que quase atropela Akkie, sem querer, correndo em sua bicicleta.</info>
 
@@ -23,7 +23,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]A Vida é Bela (1997)[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77a0f948c7b4a339af3d2bf09f07155edfe9fd28</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77a0f948c7b4a339af3d2bf09f07155edfe9fd28$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/h8PEObIiYUo4wHGo2qgWge2wqzv.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B]Durante a Segunda Guerra Mundial na Itália, o judeu Guido (Roberto Benigni) e seu filho Giosué são levados para um campo de concentração nazista. Afastado da mulher, ele tem que usar sua imaginação para fazer o menino acreditar que estão participando de uma grande brincadeira, com o intuito de protegê-lo do terror e da violência que os cercam.</info>
 
@@ -32,8 +32,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]À Procura da Felicidade[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cfaf8c62cf18e5499eed6119c7192a3e8cfa9d6$$lsname=[COLOR yellow]Full HD[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc77a5217e2ff7879ece91cff0e23a94b91c14e3$$lsname=[COLOR yellow]HD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cfaf8c62cf18e5499eed6119c7192a3e8cfa9d6$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc77a5217e2ff7879ece91cff0e23a94b91c14e3$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/hKIzxWRb391Tu7uXIwYkINs8FQ9.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B]Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</info>
 
@@ -43,8 +43,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Um Sonho de Liberdade (1994) [/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65c6c884bfae3ddc56b04e3f2b29dd4571e0be4c</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cedb23e5f7eef7394b4f58c86983607b04d628b6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65c6c884bfae3ddc56b04e3f2b29dd4571e0be4c$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cedb23e5f7eef7394b4f58c86983607b04d628b6$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4BSuFpQ2gd2WtO5ZK1fMjaMPMRc.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Em 1946, Andy Dufresne, um jovem e bem sucedido banqueiro, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.</info>
 
@@ -53,8 +53,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Intocáveis[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d542ccb12758054be0a38e499fff5717de2736be</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8864cab56712ac4653c8c6733b8be50fc73e0769</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d542ccb12758054be0a38e499fff5717de2736be$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8864cab56712ac4653c8c6733b8be50fc73e0769$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/zR5Ry633w1lEXk9RtODaj5QLGLN.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Um milionário tetraplégico contrata um homem da periferia para ser o seu acompanhante, apesar de sua aparente falta de preparo. No entanto, a relação que antes era profissional cresce e vira uma amizade que mudará a vida dos dois.</info>
 
@@ -63,8 +63,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Histórias Cruzadas[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70afec74808c22a92855c8812a799e32bfd41ea8</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fabd484c9047dd0c5a6b48b8d213100f863b9b9</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70afec74808c22a92855c8812a799e32bfd41ea8$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fabd484c9047dd0c5a6b48b8d213100f863b9b9$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/ev1CnaWOBwQ9kdlDOkk2KqMB62v.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Nos anos 60, no Mississippi, Skeeter é uma garota da sociedade que retorna determinada a se tornar escritora. Ela começa a entrevistar as mulheres negras da cidade, que deixaram suas vidas para trabalhar na criação dos filhos da elite branca, da qual a própria Skeeter faz parte. Aibileen Clark, a emprega da melhor amiga de Skeeter, é a primeira a conceder uma entrevista. Apesar das críticas, Skeeter e Aibileen continuam trabalhando juntas e, aos poucos, conseguem novas adesões.</info>
 
@@ -73,8 +73,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]12 Anos de Escravidão[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bae0cdd3f028d231d2d53887d8ea08f50a3eb832</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f5d0cbc5d85d424907167375a35873f2995d652</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bae0cdd3f028d231d2d53887d8ea08f50a3eb832$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f5d0cbc5d85d424907167375a35873f2995d652$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/6RUTPOAB4rRlrRYFMGjvK6bm1x8.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 1841, Solomon Northup é um escravo liberto, que vive em paz ao lado da esposa e filhos. Um dia, após aceitar um trabalho que o leva a outra cidade, ele é sequestrado e acorrentado. Vendido como se fosse um escravo, Solomon precisa superar humilhações físicas e emocionais para sobreviver. Ao longo de doze anos ele passa por dois senhores, Ford (Benedict Cumberbatch) e Edwin Epps (Michael Fassbender), que, cada um à sua maneira, exploram seus serviços.</info>
 
@@ -83,8 +83,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Extraordinário[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48523af68db75117b00e715d14e1296441ab8ef5</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66386b46d6da7539570545b2f8b2523574208c1d</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48523af68db75117b00e715d14e1296441ab8ef5$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66386b46d6da7539570545b2f8b2523574208c1d$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/mGoTUHAcma2sY0rQ7iQiFZoPF1R.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Auggie Pullman é um garoto que nasceu com uma deformação facial. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</info>
 
@@ -93,8 +93,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Titanic (1997)[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0804d193020861dc018ddcefb81ecb9129a3c14e</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ea7bec55a1cedb97207833347e5d60d5b0328e3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0804d193020861dc018ddcefb81ecb9129a3c14e$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ea7bec55a1cedb97207833347e5d60d5b0328e3$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/cwRgiAjXREMbfr270MDZ73kQqIf.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica jornada do Titanic, em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.</info>
 
@@ -103,8 +103,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Quarto de Jack[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb1cf5951fb41a252827eb4d88bd67337b5e8d75</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:058ebf7e595c3332e40712190818f5ee2b120dc3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb1cf5951fb41a252827eb4d88bd67337b5e8d75$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:058ebf7e595c3332e40712190818f5ee2b120dc3$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tARXudrc5K1z8x8OsE9ko5TopMK.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Joy e seu filho Jack vivem isolados em um quarto. O único contato que ambos têm com o mundo exterior é a visita periódica do Velho Nick, que os mantém em cativeiro. Joy faz o possível para tornar suportável a vida no local, mas não vê a hora de deixá-lo. Para tanto, elabora um plano em que, com a ajuda do filho, poderá enganar Nick e retornar à realidade.</info>
 
@@ -117,8 +117,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Uma Lição de Amor[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df2b993bb25e42226a043d55ccca7e0bb01fa55b</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8907dddccd5e6aef289d628bede2c1c4911f878e</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df2b993bb25e42226a043d55ccca7e0bb01fa55b$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8907dddccd5e6aef289d628bede2c1c4911f878e$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/11m4SP31lSsFqXqCmBgXrzeUyma.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B]Sam Dawson (Sean Penn) é um homem com deficiência mental que cria sua filha Lucy (Dakota Fanning) com uma grande ajuda de seus amigos. Porém, assim que faz 7 anos Lucy começa a ultrapassar intelectualmente seu pai, e esta situação chama a atenção de uma assistente social que quer Lucy internada em um orfanato. A partir de então Sam enfrenta um caso virtualmente impossível de ser vencido por ele, contando para isso com a ajuda da advogada Rita Harrison (Michelle Pfeiffer), que aceita o caso como um desafio com seus colegas de profissão.</info>
 
@@ -127,8 +127,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Um Sonho Possível[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f430509032d242d033c437d08f1806956567df34</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0da208ad3008fb43224b3e97b842ae8e3362b37</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f430509032d242d033c437d08f1806956567df34$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0da208ad3008fb43224b3e97b842ae8e3362b37$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/an63NUD0TUMreFNo4z60Ec8poF9.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B]Michael Oher (Quinton Aaron) era um jovem negro, filho de uma mãe viciada e não tinha onde morar. Com boa vocação para os esportes, um dia ele foi avistado pela família de Leigh Anne Tuohy (Sandra Bullock), andando em direção ao estádio da escola para poder dormir longe da chuva. Ao ser convidado para passar uma noite na casa dos milionários, Michael não tinha ideia que aquele dia iria mudar para sempre a sua vida, tornando-se mais tarde um astro do futebol americano.</info>
 
@@ -138,7 +138,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Uma Prova de Amor[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7db683c73fd53ff46c8b1258934dc7f45eb33fee</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7db683c73fd53ff46c8b1258934dc7f45eb33fee$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8st066ROQA9Po838ZZitDszK3dr.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Sara (Cameron Diaz) e Brian Fitzgerald (Jason Patric) são informados que Kate (Sofia Vassilieva), sua filha, tem leucemia e possui poucos anos de vida. O médico sugere aos pais que tentem um procedimento médico ortodoxo, gerando um filho de proveta que seja um doador compatível com Kate. Disposto a tudo para salvar a filha, eles aceitam a proposta. Assim nasce Anna (Abigail Breslin), que logo ao nascer doa sangue de seu cordão umbilical para a irmã. Anos depois, os médicos decidem fazer um transplante de medula de Anna para Kate. Ao atingir 11 anos, Anna precisa doar um rim para a irmã. Cansada dos procedimentos médicos aos quais é submetida, ela decide enfrentar os pais e lutar na justiça por emancipação médica, de forma a que tenha direito a decidir o que fazer com seu corpo. Para defendê-la ela contrata Campbell Alexander (Alec Baldwin), um advogado que cuidará de seus interesses.</info>
 
@@ -147,7 +147,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Sete Vidas[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edde694c58dc8104d9271ba35a56b67c520a2953</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edde694c58dc8104d9271ba35a56b67c520a2953$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/pxJOJUV9UVYMlHmQVUh4zcXCOSf.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Ben Thomas (Will Smith) é um agente do imposto de renda que possui um segredo trágico. Por conta disso, ele é um homem que tem um grande sentimento de culpa, o que faz com que salve as vidas de completos desconhecidos. Porém, tudo muda quando ele conhece Emily Posa (Rosario Dawnson), pela primeira vez é Ben quem tem a chance de ser salvo.</info>
 
@@ -157,8 +157,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Em Defesa de Cristo[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6a5f5296f605f367f2fcef691a865e6e6fa5bc3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c507901fccbf11ac41a1ac8c38b27f20a9257df</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6a5f5296f605f367f2fcef691a865e6e6fa5bc3$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c507901fccbf11ac41a1ac8c38b27f20a9257df$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/pyxN3LztDtPus5JSOv1HiRHkSco.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Lee Strobel, um jornalista conservador e linha dura, vivendo os melhores dias de sua carreira: uma premiada reportagem acaba de lhe render uma promoção para editor jurídico no jornal Chicago Tribune. Mas, seu casamento não ia muito bem. Sua esposa, Leslie, se converte à fé cristã indo contra tudo que Lee pensa, como um ateu convicto, a respeito da religião. Utilizando sua vasta experiência com as leis e em jornalismo, Lee começa uma jornada para rebater os argumentos do Cristianismo para poder salvar seu casamento. Investigando a maior história de sua carreira, Lee se vê cara a cara com fatos inesperados que podem mudar tudo que ele acredita ser verdade.</info>
@@ -168,8 +168,8 @@ Lee Strobel, um jornalista conservador e linha dura, vivendo os melhores dias de
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Eu Só Posso Imaginar[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6b30efc65997942c5982a78e4be0e415db7c7c</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26eb5954978bef35d9e61f366a22baae4b02a8d1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab6b30efc65997942c5982a78e4be0e415db7c7c$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26eb5954978bef35d9e61f366a22baae4b02a8d1$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3e4pVX9ZhSAwlAvmoRHuWlS9JVZ.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Baseado na história por trás da famosa canção I Can Only Imagine, da banda cristã norte-americana MercyMe, o filme gira em torno da vida de Bart Millard, o vocalista, e de seu relacionamento conturbado com seu pai, que sempre o tratou de maneira dura e nunca entendeu o amor do filho pela música. Conseguindo suas forças através de Deus, Bart resolveu eternizar a relação em uma canção.</info>
@@ -179,8 +179,8 @@ Baseado na história por trás da famosa canção I Can Only Imagine, da banda c
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Poder e o Impossível[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b7e31d19fca6ae45cff2808e5298ead310341ad</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44e1f95aa9ffb4dc05de5434fff634f3e3886269</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b7e31d19fca6ae45cff2808e5298ead310341ad$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44e1f95aa9ffb4dc05de5434fff634f3e3886269$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/CgkjbiVUTCYe1QabchGYjJyID.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Um atleta de snowboard, viciado em adrenalina, acaba preso em uma grande tempestade de neve. Isolado, nos limites de sua resistência e sem conseguir contato com ninguém, ele precisará fazer o possível e o impossível para sair dessa situação fatal, enfrentando seus medos e também seu passado.</info>
@@ -190,7 +190,7 @@ Um atleta de snowboard, viciado em adrenalina, acaba preso em uma grande tempest
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]A Filha do Pastor[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62246f36f763a3da444c3e34f854c9de77fe89a5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62246f36f763a3da444c3e34f854c9de77fe89a5$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kTIh3BbYaBQtcRatOBzKCJPso6g.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 A garota de cidade pequena Angie King deixa a igreja e sua casa para perseguir um sonho de cantar estrelato. Luckett interpreta Angie, a filha de um bispo severo, mas amoroso, cuja atração para a estrela hunky (tanque) de um show de gospel itinerante leva ela na estrada … e no romance, desgosto e a percepção de que a felicidade pode estar no lar que ela deixou atrás.</info>
@@ -200,7 +200,7 @@ A garota de cidade pequena Angie King deixa a igreja e sua casa para perseguir u
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Talento e Fé[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6580c52198300c868af2c552ce43163b44d9b717</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6580c52198300c868af2c552ce43163b44d9b717$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/mkUNQLnO4r1Dc2tj7lIbEAziFs2.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Um jogador de futebol americano luta contra as pressões sociais e raciais para ser bem sucedido. Talentoso, ele aprenderá que terá de se apegar à fé e à sua capacidade para romper as barreiras impostas pelo destino.</info>
@@ -210,7 +210,7 @@ Um jogador de futebol americano luta contra as pressões sociais e raciais para 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Por Que Eu Me Casei?[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e8f42fe921df8d4fd1cfbe025bccee6baff9103</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e8f42fe921df8d4fd1cfbe025bccee6baff9103$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://ondebaixa.com/capas/por-que-eu-me-casei-download-torrent-2007-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Misturando comédia e romance o filme mostra de uma forma nada convencional como manter um casamento. Uma vez por ano quatro casais amigos viajam juntos para renovar seus votos de casamento. Desta vez, uma surpresa, a presença de uma linda jovem solteira cria situações inusitadas e hilárias, com a revelação de segredos que jamais devem ser revelados entre homem e mulher. É aí que vão ficar evidentes quais são as verdadeiras bases de uma relação duradoura.</info>
@@ -220,7 +220,7 @@ Misturando comédia e romance o filme mostra de uma forma nada convencional como
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Peregrino - Uma Jornada para o Céu[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0ccfc04e0ca8ec3aaa04c122a4ca5488ddd8b40</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0ccfc04e0ca8ec3aaa04c122a4ca5488ddd8b40$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://capas-m.imagemfilmes.com.br/103212_000_m.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 O Peregrino, Uma Jornada para o Céu é uma adaptação moderna do conto clássico de John Bunyan. Efeitos visuais incríveis, lindas locações e um elenco maravilhoso dão vida à estória que inspirou gerações por centenas de anos. Siga Cristão e seus companheiros nesta grande jornada da Cidade da destruição para as portas do céu. Ao longo do caminho, os peregrinos encaram grandes e pequenos obstáculos feitos pelo homem e criados por demônios. Além da história fascinante, a poderosa obra de Bunyan nos ensina sobre perigos e a esperança da vida cristã sobre a triunfante glória que espera todos aqueles que seguem o Rei dos reis!</info>
@@ -230,7 +230,7 @@ O Peregrino, Uma Jornada para o Céu é uma adaptação moderna do conto clássi
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Jesus – A História do Nascimento[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81f71216d3ab20f1e75b5acede3a1d4e451671a7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81f71216d3ab20f1e75b5acede3a1d4e451671a7$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/31gjSyZWNLy6PMRg2JrJsA1RL2u.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Em 2004, plateias de todo o mundo lotaram os cinemas para conferir a violência e sofrimento de “A Paixão de Cristo”. Agora é a hora de voltar ainda mais no passado e descobrir como esta extraordinária história começou, em uma superprodução focada na emocionante saga de Maria e José – na qual eles enfrentam provações para o seu amor, para a sua esperança e principalmente para a sua fé. Acompanhe a profecia descoberta pelos Três Reis Magos nas estrelas, testemunhe a caçada do temível Rei Herodes ao Messias anunciado e siga a trajetória da mãe do Filho de Deus saindo de Nazaré rumo a Belém, onde nasce então a criança que mudaria o mundo para sempre. Você está convidado a vivenciar a mais eterna das histórias de uma forma como você nunca viu antes.</info>
@@ -240,7 +240,7 @@ Em 2004, plateias de todo o mundo lotaram os cinemas para conferir a violência 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Pregando o Amor[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e6b0e915ec4f467275df64503397dee085ab3be</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e6b0e915ec4f467275df64503397dee085ab3be$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/iKezZLBZRZVAtyIDkerzelAzVOz.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B]
 Lutando para se manter do lado certo da lei, Miles (Ja Rule) encontra a garota dos seus sonhos, mas ela não é o tipo mais comum de garota que ele está acostumado a namorar. Vanessa (Adrienne Bailon) é uma garota de igreja em todos os sentidos da palavra.</info>
@@ -250,8 +250,8 @@ Lutando para se manter do lado certo da lei, Miles (Ja Rule) encontra a garota d
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Céu É de Verdade[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:366ac65b38c36e60d54cea0bfb041239ce9604c8</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b75a19a32c4b0079df43cbde489584116a7934a</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:366ac65b38c36e60d54cea0bfb041239ce9604c8$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b75a19a32c4b0079df43cbde489584116a7934a$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/63EnKIUOWnBIR9Ox2WPW22TQ0Kn.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 A história verdadeira do filho de 4 anos de um pastor de uma cidade pequena que, durante uma cirurgia de emergência, foge da consciência e entra no céu. Quando ele acorda, ele conta suas experiências do outro lado.</info>
@@ -267,8 +267,8 @@ A história verdadeira do filho de 4 anos de um pastor de uma cidade pequena que
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Cartas para Deus[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036555a158e2da9b93ada67b5181c2d68f92633a</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d88d808bf1318cc9f3e4ac79a6fee2e43d86db3f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036555a158e2da9b93ada67b5181c2d68f92633a$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d88d808bf1318cc9f3e4ac79a6fee2e43d86db3f$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sAOFFWAxho3NmJlrJL9V8v9gT8q.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Tyler Doherty (Tanner Maguire) é uma criança de 8 anos que sofre de câncer e todos em sua volta não acreditam em sua recuperação. Mas Tyler deposita sua esperança em Deus e acredita que este possa salva-lo. Sua fé faz com que ele escreva um diário sobre suas esperanças e espera por sua recuperação.</info>
@@ -278,8 +278,8 @@ Tyler Doherty (Tanner Maguire) é uma criança de 8 anos que sofre de câncer e 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Pedro: a Redenção[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b75a19a32c4b0079df43cbde489584116a7934a</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30aa5d3ec1040e89fd1693bdfa8e3dd5bdc9b1b1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b75a19a32c4b0079df43cbde489584116a7934a$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30aa5d3ec1040e89fd1693bdfa8e3dd5bdc9b1b1$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/gW6hVcJAI4mCYvGhERDBK4PHsjn.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Atormentado por sua negação a Cristo, Pedro passou a vida tentando expiar seus fracassos. Agora, como ele enfrenta a morte certa nas mãos de Nero, ele vai desapontá-lo de novo, a sua fraqueza vai traí-lo ou ele vai levantar-se triunfante em seu momento final?</info>
@@ -289,7 +289,7 @@ Atormentado por sua negação a Cristo, Pedro passou a vida tentando expiar seus
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Nada a Perder[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a17e9fdf7f5ab045889d16b0a4c903b66837866c</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a17e9fdf7f5ab045889d16b0a4c903b66837866c$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/l1XGiS2tXIR4IP4bdqdmlG6Hhbd.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Cinebiografia autorizada do bispo evangélico Edir Macedo (Petrônio Gontijo), empresário fundador e líder espiritual da Igreja Universal do Reino de Deus e proprietário da Record TV. Baseado nos livros da trilogia homônica, conta a história do self made man que enfrentou diversos momentos de turbulência enquanto perseguia sua convicção.</info>
@@ -299,8 +299,8 @@ Cinebiografia autorizada do bispo evangélico Edir Macedo (Petrônio Gontijo), e
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Apocalipse[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16fffd64aecc2c0df067f357abbbe1cbbf2d3dbe</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46f33a18bb4e62b1cb5a9fd24496c57f81c49dc8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16fffd64aecc2c0df067f357abbbe1cbbf2d3dbe$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46f33a18bb4e62b1cb5a9fd24496c57f81c49dc8$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/FsBEXPUgnctmwWuWvUIFNplrLI.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Após um longo tempo, Chloe (Cassi Thomson) decidiu visitar os pais. Ela andava irritava com a mãe, Irene (Lea Thompson), que há cerca de um ano insistia na pregação religiosa a todos à sua volta. Ainda no aeroporto ela encontra por acaso com seu pai, Rayford (Nicolas Cage), um piloto de avião que iria trabalhar bem no dia do aniversário. Não demora muito para que Chloe perceba que ele arquitetou a viagem para ter um encontro com uma das aeromoças, o que a deixa bastante decepcionada. Também no aeroporto ela conhece Buck (Chad Michael Murray), que se interessa por ela mas embarca no voo que será pilotado por Rayford. Durante a viagem, algo repentino acontece em todo o planeta: milhões de pessoas simplesmente desaparecem, sem deixar vestígios. A situação causa um pânico geral.</info>
@@ -312,8 +312,8 @@ Após um longo tempo, Chloe (Cassi Thomson) decidiu visitar os pais. Ela andava 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]À Prova de Fogo[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fc906e0be5b81e107f830bee2d2ab955e3672ee</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e259806e57e81960565d0f67aa337a048721cf7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fc906e0be5b81e107f830bee2d2ab955e3672ee$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e259806e57e81960565d0f67aa337a048721cf7$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/94vWXepNu95YNoTSHCEwM212ugY.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 No trabalho, o bombeiro Caleb Holt (Cameron) é um profissional que cumpre com todas as regras, sendo que uma delas é nunca deixar um companheiro para trás numa situação de perigo. Já em sua casa, ao lado da esposa Catherine (Bethea), as coisa são bem diferentes. Sempre ausente, depois de sete anos de união o casamento está chegando ao fim e eles estão decididos a se divorciar. Mas o pai de Caleb pede que ele inicie uma experiência de 40 dias a qual denomina “The Love Dare” (dia do desafio) na tentativa de salvar o casamento. </info>
@@ -323,8 +323,8 @@ No trabalho, o bombeiro Caleb Holt (Cameron) é um profissional que cumpre com t
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]A Paixão de Cristo[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f18bc2d101fda95e527b7298eea3e3bd49133e0</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:454b1c18b0acb739bb0b1a5f05d3c20dfc6dcb63</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f18bc2d101fda95e527b7298eea3e3bd49133e0$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:454b1c18b0acb739bb0b1a5f05d3c20dfc6dcb63$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/du38uJFaVfZJhlSyQyFE8G3vt4V.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 O filme narra as últimas 12 horas de Jesus Cristo, que, após ser traído por Judas, é preso e levado para o julgamento de Poncio Pilatos. Sem conseguir encontrar um motivo para sua condenação, ele sofre com a pressão popular, que pede a crucificação de Jesus.</info>
@@ -334,7 +334,7 @@ O filme narra as últimas 12 horas de Jesus Cristo, que, após ser traído por J
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Corajosos[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81e6680d898ccf87f5d88e0930a1dcb794c110a4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81e6680d898ccf87f5d88e0930a1dcb794c110a4$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/idu8n3xLO12u6l2QMxtbCOaF7cU.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Como policiais, Adam Mitchell, Nathan Hayes e seus parceiros estão confiantes e focados. Eles voluntariamente enfrentam o pior que o mundo pode oferecer. No entanto, no final do dia, eles enfrentam um desafio para o qual nenhum deles está preparado de verdade: a paternidade. Enquanto eles sempre dão o seu melhor no trabalho, “bom o suficiente” parece ser tudo o que pode definí-los como pais; mas eles estão descobrindo rapidamente que essa realidade está piorando. Eles sabem que Deus deseja converter os corações dos pais aos filhos, mas seus filhos estão começando a ficar cada vez mais longe deles. Serão eles capazes de encontrar uma maneira de servir e proteger aqueles que são mais valiosos? Corajosos… a honra começa em casa.</info>
@@ -344,8 +344,8 @@ Como policiais, Adam Mitchell, Nathan Hayes e seus parceiros estão confiantes e
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Superação – O Milagre da Fé[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ddd90b921fb1f9d0756267e23d9d3c68b625643</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ea2b21bb88b7f22f51587b49f359982e28be32b</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ddd90b921fb1f9d0756267e23d9d3c68b625643$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ea2b21bb88b7f22f51587b49f359982e28be32b$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 John Smith, um menino de 14 anos, passeava com a família em uma manhã de inverno no Lago St Louis, no Missouri, quando, acidentalmente, sofreu uma queda e se afogou. Chegando ao hospital, John foi considerado morto por mais de 60 minutos até que sua mãe, Joyce Smith, juntou todas as suas forças e pediu a Deus para que seu filho sobrevivesse. Sua prece poderosa foi responsável por um milagre inédito.</info>
@@ -355,10 +355,10 @@ John Smith, um menino de 14 anos, passeava com a família em uma manhã de inver
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]A cabana[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c073adeb28d954a25dac691a3293be342a99b1f</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6ce26946c9e8133970b7e5dda31d86935c0915f</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1a60c486490503bd35d109f77e38c692d1cd65c</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b47370be1e1fcfe155c9a4ae60cffaa83176de3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c073adeb28d954a25dac691a3293be342a99b1f$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6ce26946c9e8133970b7e5dda31d86935c0915f$$lsname=[COLOR red]HD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1a60c486490503bd35d109f77e38c692d1cd65c$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b47370be1e1fcfe155c9a4ae60cffaa83176de3$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://img.wook.pt/images/a-cabana-wm-paul-young/MXwyMjUzMDJ8MjAxOTkzMjl8MTU5NDE2MjgwMDAwMA==/500x</thumbnail>
 
 <info>[COLOR red]Sinopse[/COLOR]: 
@@ -369,8 +369,8 @@ John Smith, um menino de 14 anos, passeava com a família em uma manhã de inver
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Mais Que Vencedores[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da46ab9300fbab738122be50d455ba5eb6e1ebf</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc0accbf07347815bc46bdf12e2407838eb832f5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da46ab9300fbab738122be50d455ba5eb6e1ebf$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc0accbf07347815bc46bdf12e2407838eb832f5$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/lkaemscrvzhVexiS4LYfBE6lvR0.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 John Harrison (Alex Kendrick) é um treinador de time de basquete de ensino médio que tem seus sonhos arruinados quando a maior fábrica da cidade é fechada, fazendo com que centenas de famílias precisem se mudar. Relutante em mudar de esporte, ele se vê obrigado a treinar corredores, o que acaba o unindo com uma inusitada atleta para ganhar a maior corrida do ano.</info>
@@ -380,7 +380,7 @@ John Harrison (Alex Kendrick) é um treinador de time de basquete de ensino méd
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Desafiando Gigantes[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf7a2dd148f13190403db09b1d9777c46c0b9b0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf7a2dd148f13190403db09b1d9777c46c0b9b0$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sb59Xr3ckkUH7r6EtCZC9EBV5JB.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
  Técnico do Shiloh Eagles há seis anos, Grant Taylor (Alex Kendrick) nunca conseguiu levar sua equipe ao título da temporada. Além do mau desempenho no trabalho, Grant deve enfrentar outros problemas graves em casa e seu estado psicológico e moral nunca esteve tão abatido. Quando tudo parece estar prestes a ir por água abaixo, uma intervenção misteriosa muda o seu destino.</info>
@@ -390,8 +390,8 @@ John Harrison (Alex Kendrick) é um treinador de time de basquete de ensino méd
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Deus Não Está Morto[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7241f4050df110c4f27f01906d7f5cde2ab432f6</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df0ed9623b5b0b3b3b9edb3c28f85fbfa4e5384f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7241f4050df110c4f27f01906d7f5cde2ab432f6$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df0ed9623b5b0b3b3b9edb3c28f85fbfa4e5384f$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/f9whWUktQSg3kdM7xg6HJ6PnoJR.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Josh Wheaton (Shane Harper) é um estudante que tem sua fé desafiada por seu professor de Filosofia, Mr. Radisson (Kevin Sorbo), que acredita que Deus não existe. Gira em torno da vidas de várias pessoas que também são desafiadas por um mundo que acredita que Deus não existe.</info>
@@ -401,8 +401,8 @@ Josh Wheaton (Shane Harper) é um estudante que tem sua fé desafiada por seu pr
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Deus Não Está Morto 2[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13d614384528d139eb54ef91a9fa906eb16c8cd8</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab31fa21e11550e238f3eecbda6353e2b23111cd</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13d614384528d139eb54ef91a9fa906eb16c8cd8$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab31fa21e11550e238f3eecbda6353e2b23111cd$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kqGmmXRpCsseGl6DA5irIkDNacg.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
  Grace Wesley (Melissa Joan Hart) é uma professora cristã que, ao responder uma pergunta feita por uma de suas alunas, Brooke (Hayley Orrantia), acaba falando sobre Jesus Cristo em plena sala de aula. Tal situação lhe rende um processo administrativo impulsionado pela diretora Kinney (Robin Givens), que não quer que assuntos religiosos sejam tratados dentro da escola. Após se recusar a pedir desculpas pelo ocorrido, Grace é processada pelos pais de Brooke, que acreditam que a polêmica em torno do julgamento possa facilitar a entrada da garota em uma universidade de prestígio.</info>
@@ -412,7 +412,7 @@ Josh Wheaton (Shane Harper) é um estudante que tem sua fé desafiada por seu pr
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]A Virada[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:694f61771152af859c9bca3a76820e73103bb455</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:694f61771152af859c9bca3a76820e73103bb455$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/rd1t9yU0IPgCmbJfShsrzGqcSGr.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Jay Austin quer vender carros usados da pior maneira… e é assim mesmo que ele negocia na sua loja. Promete muito mais do que pode cumprir e faz qualquer coisa para vender um carro. Sua atitude manipuladora se manifesta em todos os seus relacionamentos. Até sua esposa e seu filho sabem que não podem confiar nele. Mas Jay passa a trabalhar na restauração de um modelo clássico conversível e começa a ver que Deus está se esforçando para recupera-lo. Ao encarar a realidade de como ele se comporta de verdade, Jay Austin vive uma grande reviravolta: aprende a honrar a Deus nos negócios, nos relacionamentos, na sua vida toda!</info>
@@ -429,7 +429,7 @@ Jay Austin quer vender carros usados da pior maneira… e é assim mesmo que ele
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Fazendeiro e Deus[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cde0e36142eef59a9187c6cedc769994c907746</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cde0e36142eef59a9187c6cedc769994c907746$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/tGTKmTYm7PSkMYUV0D3WuIVuspi.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Frank Rautenbach lidera um elenco forte como Angus Buchan, um fazendeiro zambiano de herança escocesa, que deixa sua fazenda em meio a distúrbios políticos e recuperação de terras racialmente carregadas e viaja para o sul com sua família para começar uma vida melhor em KwaZulu Natal, África do Sul.</info>
@@ -439,7 +439,7 @@ Frank Rautenbach lidera um elenco forte como Angus Buchan, um fazendeiro zambian
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Poder Da Graça[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d1f1a97c92680e6df009a5fc20d7c74a2bdf88b</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d1f1a97c92680e6df009a5fc20d7c74a2bdf88b$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://ondebaixa.com/capas/o-poder-da-graca-download-torrent-2010-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Depois que o policial Mac McDonald perdeu seu filho num acidente, anos de amargura e dor destruíram o amor por sua família e o deixaram revoltado com Deus… E com todo mundo! Será que Mac e seu novo parceiro, o Sargento Sam Wright, conseguirão de alguma forma unir forças para ajudar um ao outro quando se depararem com suas diferenças, em especial a mais óbvia? Todos os dias temos a oportunidade de reconstruir relacionamentos e curar feridas, dando e recebendo a graça de Deus. Ofereça O PODER DA GRAÇA. E nunca subestime o poder do amor de Deus.</info>
@@ -449,8 +449,8 @@ Depois que o policial Mac McDonald perdeu seu filho num acidente, anos de amargu
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Você Acredita?[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:359328e117784a944ae76c182beb2e10c2a7e0ba</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:631730bade9143bfb58f128df2534167d6f8da6b</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:359328e117784a944ae76c182beb2e10c2a7e0ba$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:631730bade9143bfb58f128df2534167d6f8da6b$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7FZ5f4lLgRzojgEqv3MIlTh7QhW.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Um pastor encontra por acaso um mendigo que prega a palavra de Deus pelas ruas e decide colocar a sua fé em ação, ajudando diversas pessoas. Logo a vida de uma dezena de indivíduos se cruza, fazendo com que todos descubram o poder da cruz de Cristo.</info>
@@ -460,8 +460,8 @@ Um pastor encontra por acaso um mendigo que prega a palavra de Deus pelas ruas e
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Uma Vida com Propósito[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2653b7c5d748605bbc069d6c88b205702c5f01bb</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd9a727dabf1ad1dbae219556c22586254c3db8e</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2653b7c5d748605bbc069d6c88b205702c5f01bb$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd9a727dabf1ad1dbae219556c22586254c3db8e$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/4PnbxvF0Znk1sIh6q1MyI1uEr2L.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Cinebiografia baseada na história real e no diário de Rachel Joy Scott, uma adolescente religiosa com extrema compaixão, fator que incomodava a muitos. Ela foi a primeira estudante assassinada no Massacre ocorrido no Instituto Columbine em 20 de abril de 1999, no Condado de Jefferson, Colorado – Estados Unidos, onde os estudantes Eric Harris de 18 anos, e Dylan Klebold de 17 anos, atiraram em vários colegas estudantes e professores.</info>
@@ -471,7 +471,7 @@ Cinebiografia baseada na história real e no diário de Rachel Joy Scott, uma ad
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Paraiso Perdido – O Caminho Para a Eternidade[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6d07deae81cfe1a50ed44b7147fd7f15cb682a5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6d07deae81cfe1a50ed44b7147fd7f15cb682a5$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/lJzldOEygvEK4Xr5p9mcWyKdOKH.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 “O paraíso existe! Aproveite, pois estamos nele.” Isso foi o que o proprietário de um resort tailandês disse pouco tempo antes de um tsunami devastador levar à morte seu único filho. O tempo passa, mas, para esse ex-banqueiro de Wall Street (Riff Hutton) e sua esposa (Shelley Robertson), resta o vazio da perda. Neste mesmo cenário, um detetive (David A. R. White) segue em uma explosiva caçada por justiça. Assim, em meio a essa instigante perseguição, ele encontra refugiados no local: Bruno (Robert Miano), um traficante de drogas, acompanhado de sua esposa – que é viciada em entorpecentes – e de seu cruel capanga. Confinados no mesmo lugar, após o alerta de um possível tsunami, a situação fica cada vez mais tensa, principalmente com as revelações de um inusitado visitante.</info>
@@ -481,8 +481,8 @@ Cinebiografia baseada na história real e no diário de Rachel Joy Scott, uma ad
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Milagres do Paraíso[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33eb133c48bfdee690161967d6d20b05335a9f84</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4a84279323547fe9e758bdeb8a64c6631feedd7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33eb133c48bfdee690161967d6d20b05335a9f84$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4a84279323547fe9e758bdeb8a64c6631feedd7$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/uPt56D7a55ZNn1yJqKWgBHhqJQ3.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Christy e Kevin Beam são pais de três garotas: Abbie, Annabel e Adelynn. Cristãos convictos, os Beams vão à igreja com frequência. Um dia, Annabel começa a sentir fortes dores na região do abdome. Após muitos exames, é constatado que a garota possui um grave problema digestivo. Tal situação faz com que Christy busque a todo custo algum meio de salvar a vida da filha, ao mesmo tempo em que se afasta cada vez mais de sua crença em Deus.</info>
@@ -492,8 +492,8 @@ Christy e Kevin Beam são pais de três garotas: Abbie, Annabel e Adelynn. Crist
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Que de Verdade Importa[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079c1ce482da2a5c5c56d9d3c072796b74e904bb</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25c103ca3e31a1623d85f09133092ccf2c4a94ce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079c1ce482da2a5c5c56d9d3c072796b74e904bb$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25c103ca3e31a1623d85f09133092ccf2c4a94ce$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/lom2usVQdwZkzTvu5iEV2kJsPvG.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Alec Bailey, mora em Londres e tenta, sem muito êxito, ganhar a vida consertando eletrodomésticos, mas sua situação financeira está cada vez pior. Inesperadamente, surge Raymond Heacock, um tio desconhecido que lhe propõe quitar todas as dívidas, desde que Alec se mude para uma pequena cidade na Nova Escócia, no Canadá, por pelo menos um ano. Desconfiado, mas sem muitas opções, ele aceita a proposta e inicia uma incrível jornada de descoberta, aprendizado e redenção. Tudo começa quando ele conhece Cecília, a veterinária da cidade. Ela se oferece para fazer um anúncio atrativo e de duplo sentido para oferecer os trabalhos de Alec, levando os moradores a acreditar que ele tem o dom da cura.</info>
@@ -503,7 +503,7 @@ Alec Bailey, mora em Londres e tenta, sem muito êxito, ganhar a vida consertand
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]A colheita da fé[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:775d5c8abf298d665d625ed94cac882eebde1009</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:775d5c8abf298d665d625ed94cac882eebde1009$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/koUqIe8qSZHaRGTyE6Jgfy1lSXX.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Retrata a história real da vida de Michael Spurlock (John Corbett), que recebeu a ordem de fechar uma pequena igreja do interior mas, ao invés disso, decidiu tomar outros rumos e acabou se tornando pastor do local. E tudo isso após descobrir que, no momento, os fiéis estavam tentando ajudar um grupo de refugiados vindos do sudeste asiático. Juntos, eles farão de tudo para salvar o local.</info>
@@ -513,7 +513,7 @@ Retrata a história real da vida de Michael Spurlock (John Corbett), que recebeu
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]De Onde Vem a Esperança[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5211f88e650d944fa75765b2c89ffb231c2f3cf2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5211f88e650d944fa75765b2c89ffb231c2f3cf2$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/gQmOsU2hA0PrGvxGjzty1S2OO3H.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Onde Nasce a Esperança é a história inspiradora sobre a redenção através da amizade, da esperança e do amor. Calvin Campbell é um ex-jogador de beisebol profissional que enfrenta dificuldades com as jogadas que o destino preparou para ele. Sua vida ganha um novo sentido quando conhece Produce, um jovem garoto com Síndrome de Down que trabalha no supermercado do bairro. Com o desenvolvimento desta amizade, Calvin recorda que às vezes a esperança pode crescer mesmo onde não se espera.</info>
@@ -523,7 +523,7 @@ Onde Nasce a Esperança é a história inspiradora sobre a redenção através d
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Invencível: Caminho da Redenção[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b88ffa4f32197759f79bb5f4f0cd4d73ee33ffe</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b88ffa4f32197759f79bb5f4f0cd4d73ee33ffe$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/lVcvhoW2SINW0hNDSkKeAsGDZ1Y.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Louis Zamperini volta para California depois de ser prisioneiro no Japão durante a Segunda Guerra Mundial, onde ele acaba se casando com a Cynthia Applewhite, mas ainda sofre com transtorno do estresse pós-traumático (TEPT). Batalhando pesadelos constantes, raiva e profunda depressão, sua esposa convence ele a participar da grande cruzada evangelista do Billy Graham de 1949.</info>
@@ -539,8 +539,8 @@ Louis Zamperini volta para California depois de ser prisioneiro no Japão durant
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Uma Questão de Fé[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77b7bcc8f81e52878864655ffb9d09f59d9f3532</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6c02207da5151c2da9fa789326807c52f5d2925</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77b7bcc8f81e52878864655ffb9d09f59d9f3532$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6c02207da5151c2da9fa789326807c52f5d2925$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/s20vd4SXf9O4P9PljpsLFGAfhnF.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Três famílias têm seus caminhos interligados quando duas tragédias as conectam. A fé em um poder maior deles é abalada, mas esses acontecimentos deixam as famílias mais próximas. Eles precisam decidir se vão deixar a dor e a incerteza os engolir ou se vão se unir através da esperança e redenção.</info>
@@ -550,8 +550,8 @@ Três famílias têm seus caminhos interligados quando duas tragédias as conect
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Entrevista com Deus[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:371ffe55882ed8842cc1cb22c16e4aac67d6c9f3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb84627baf19ab4ad1c35b461f43a03c7185fdfe</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:371ffe55882ed8842cc1cb22c16e4aac67d6c9f3$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb84627baf19ab4ad1c35b461f43a03c7185fdfe$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/hIE9f6mZojSGAPZIsGx6Lca3RQ3.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Paul (Brenton Thwaites) precisa conseguir lidar com a falta de esperança que o assola e com um casamento prestes a ruir. Sem saber o que fazer, Paul se vê diante do maior desafio da sua vida profissional: uma entrevista com um homem misterioso que diz ser Deus (David Strathairn). Ao conversar com ele por três dias consecutivos, milhares de questionamentos e respostas surgem, fazendo com que tudo que Paul acredite entre em conflito. O longa traz o seguinte questionamento: o que você perguntaria a Deus?</info>
@@ -561,7 +561,7 @@ Paul (Brenton Thwaites) precisa conseguir lidar com a falta de esperança que o
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]40 Dias: O Milagre da Vida[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32cf2ac1eda76cb27037017be59745077ff03cd7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32cf2ac1eda76cb27037017be59745077ff03cd7$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kyoSXlgV8OMGyAfBHwyDECp1m5f.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Tudo que Abby Johnson sempre quis foi ajudar outras mulheres. Como uma das diretoras mais jovens da história da Paternidade Planejada, organização responsável por metade dos abortos realizados nos Estados Unidos, ela acreditava ter feito a escolha certa. Até o dia em que algo que Abby viu fez com que tudo mudasse e ela se tornasse uma das principais vozes do movimento pró-vida dos Estados Unidos.</info>
@@ -571,8 +571,8 @@ Tudo que Abby Johnson sempre quis foi ajudar outras mulheres. Como uma das diret
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Maria Madalena[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ac01d531e92bd89f5d7cde15fd9460d219c905</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eaa8832c468827099f85b207ebafd9048ae1e4f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ac01d531e92bd89f5d7cde15fd9460d219c905$$lsname=[COLOR yellow]FHD[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eaa8832c468827099f85b207ebafd9048ae1e4f$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/6K0nZy7ZgW1RttcNrkLPQLnudT8.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 A história de uma das figuras mais enigmáticas e incompreendidas da história bíblica: Maria Madalena (Rooney Mara). Em busca de uma nova maneira de viver, contrariando a sociedade, sua familia tradicional e o machismo de alguns apóstolos, a jovem junta-se a Jesus de Nazaré (Joaquin Phoenix) em sua incansável missão de propagar a fé.</info>
@@ -582,7 +582,7 @@ A história de uma das figuras mais enigmáticas e incompreendidas da história 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Ilusionista[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d3000f0ef5dc20cd116d6314b149e4bbca67ac6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d3000f0ef5dc20cd116d6314b149e4bbca67ac6$$lsname=[COLOR red]HD[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/uvHWsmniMfN8vfXerzwQueacv6w.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] 
 Um mágico chamado Eisenheim compete com o Príncipe Leopoldo, herdeiro do trono do Império Austro-Húngaro, pelo amor da nobre Sophie, a jovem que Eisenheim amou na juventude. Ele utiliza seus grandes poderes para pressionar o príncipe, já que Sophie está prestes a se tornar a noiva real. No entanto, um inspetor de polícia chamado Walter Uhl tenta avisar Eisenheim que ele está entrando em um jogo muito perigoso.</info>

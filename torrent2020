@@ -48,7 +48,7 @@ Ao aceitar negociar com um velho amigo que virou sequestrador, um advogado com u
 <item>
 <title>[COLOR yellow][B]Pânico Abaixo de Zero[/B][/COLOR] [COLOR gray](2021)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e7f2b159e6ba7af146cc5328ebb48e6a8b3adb4$$lsname=[COLOR yellow]1080p[/COLOR]</link>
-<link>https://youtu.be/2UAe9MuTHuQ$$lsname=Trailer</link>
+<link>plugin//:plugin.video.youtube/?action=play_video&amp;videoid=2UAe9MuTHuQ$$lsname=Trailer</link>
 <thumbnail>https://a.imagem.app/Ak2fur.png</thumbnail>
 <info>
 Naomi e Matt estão viajando pela Noruega. Para a surpresa e despreparo da dupla, uma nevasca faz com que fiquem presos em um carro que logo é coberto por neve. Com o passar do tempo, a situação se torna ainda mais caótica, criando forte tensão entre o casal que deve lutar para sobreviver. Inspirado em uma história real</info>

@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>|[B]Séries[/B] </name>
+<name>[COLOR yellow]•[/COLOR][B]Séries[/B] </name>
 <thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/serie.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/series</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-<name>|[B]Seriados[/B] </name>
+<name>[COLOR yellow]•[/COLOR][B]Seriados[/B] </name>
 <thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/serie.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/seriados</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>

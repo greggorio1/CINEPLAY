@@ -145,6 +145,26 @@ Necessita de uma boa internet e um bom processador![/B]</info>
 </channels>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>                                                     
+<channel>
+<name>[COLOR green]•[/COLOR][B]Nacional[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Nacional</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR yellow]Atualizado em[/COLOR]: 09/02[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 35 Filmes[/B]
+[B][COLOR red]Total[/COLOR]: 35 Filmes[/B]
+
+[B]Os melhores filmes Nacionais estao aqui [/B]
+</info>
+</channel>
+</channels>
+
+
+
 
 
 <channels>                                                     

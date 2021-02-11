@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Filmes" tvg-name="TERROR" tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/31/38/20277419.jpg",[B][COLOR lime]=====TERROR=====[/B][/COLOR]
+#EXTINF:-1 tvg-id="Filmes" tvg-name="TERROR" tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/31/38/20277419.jpg",[B][COLOR lime]TERROR[/B][/COLOR]
 
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/31/38/20277419.jpg" group-title="FILMES",   A entidade
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfca2e650a73b739802c26068551e78171d70f88$amp
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a335facef360e5e9a12cc1f82291d769b8f3d57f$amp
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfca2e650a73b739802c26068551e78171d70f88</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a335facef360e5e9a12cc1f82291d769b8f3d57f</link>

@@ -4,6 +4,10 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/31/38/20277419.jpg" group-title="FILMES",   A entidade
+#EXTINF:0 tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/31/38/20277419.jpg" group-title="terror",   A entidade
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfca2e650a73b739802c26068551e78171d70f88</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a335facef360e5e9a12cc1f82291d769b8f3d57f</link>
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/l7rwGxhH2ZDaViuxzT0qMPfhfo3.jpg" group-title="terror",  Beleza oculta
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b7368f564ffc6665141739a7817db22f1a45d80$$lsname=[COLOR yellow]1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4760832bcd6799bcefb9ff6d467d61380df3b806$$lsname=[COLOR yellow]720p[/COLOR]</link>

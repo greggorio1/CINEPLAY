@@ -1,13 +1,11 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="Filmes" tvg-name="TERROR" tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/31/38/20277419.jpg",[B][COLOR lime]TERROR[/B][/COLOR]
-
-#EXTM3U
-
-#EXTINF:0 tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/91/31/38/20277419.jpg" group-title="terror",   A entidade
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfca2e650a73b739802c26068551e78171d70f88&amp
-
-
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w342/l7rwGxhH2ZDaViuxzT0qMPfhfo3.jpg" group-title="terror",  Beleza oculta
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b7368f564ffc6665141739a7817db22f1a45d80&amp$$lsname=[COLOR yellow]1080p[/COLOR]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4760832bcd6799bcefb9ff6d467d61380df3b806&amp$$lsname=[COLOR yellow]720p[/COLOR]
+<item>
+<title>[B]Os Pequenos Vestígios[/B] |DUBLADO</title>
+<link>
+TRAILER <link>plugin://plugin.video.youtube/play/?video_id=hTP2m32UKtk$$lsname=trailer</link>
+TORRENT <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78233d354529e7d4ea85fba3bcfb7362f57a7bd8&dn=The.Little.Things.2021.720p.AMZN.WEBRip.DDP5.1.Atmos.x264-NTG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2900&tr=udp%3A%2F%2F9.rarbg.to%3A2890$$lsname=1080p</link>
+TORRENT <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b5ff0149cbc547908631bfcce6649550dc05e73&dn=The.Little.Things.2021.1080p.WEBRip.x265-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2860&tr=udp%3A%2F%2F9.rarbg.to%3A2740$$lsname=720p</link>
+</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zNrHM9Wq2xTwwVjSe4YcQNhLQIX.jpg</thumbnail>
+<info>
+</info>
+</item>

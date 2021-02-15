@@ -81,3 +81,23 @@ Quinzinho (Matheus Nachtergaele) mora em uma roça bem distante de qualquer cida
 
 </item>
 </channel>
+
+
+
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Fique Rico ou Morra Tentando[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/7vacxd6cqA29FR84bjososPSmeg.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Após a morte de sua mãe quando ele era um menino, Marcus tem pouco apoio em sua vida. Ele começa a trabalhar para o traficante Levar e seu assistente. Apesar de Marcus fazer bom dinheiro vendendo drogas, seu sonho é se tornar um rapper. Quando ele reencontra um antigo amor e é baleado várias vezes durante um assalto, Marcus decide que é hora de mudar sua vida. No entanto, seus antigos sócios não vão deixá-lo ir tão facilmente.</info>
+
+
+<item>
+<title>[B]Dublado & Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4752b6afad7381e101bc8ebd6a428e4587a58a8$$lsname=[COLOR yellow]720p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e94f157e262cc0475efa63581ea939f2c3898dd0$$lsname=[COLOR yellow]Legendado[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/7vacxd6cqA29FR84bjososPSmeg.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Após a morte de sua mãe quando ele era um menino, Marcus tem pouco apoio em sua vida. Ele começa a trabalhar para o traficante Levar e seu assistente. Apesar de Marcus fazer bom dinheiro vendendo drogas, seu sonho é se tornar um rapper. Quando ele reencontra um antigo amor e é baleado várias vezes durante um assalto, Marcus decide que é hora de mudar sua vida. No entanto, seus antigos sócios não vão deixá-lo ir tão facilmente.</info>
+</item> 
+
+</channel>
+

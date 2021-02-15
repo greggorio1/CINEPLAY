@@ -101,3 +101,18 @@ Quinzinho (Matheus Nachtergaele) mora em uma roça bem distante de qualquer cida
 
 </channel>
 
+
+
+
+<channels></channels>
+<channel>
+<item>
+<name>[COLOR yellow][B]O Lobo de Wall Street[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</name>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:162a94d7a893ed6007fc2a9c5636074bf5145516$$lsname=[COLOR yellow]1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4433548738fdf03f906d6905cc31f97ab9a284b$$lsname=[COLOR yellow]720p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b642d022980e5ebaa7cf4b6e1cc93769921cb42$$lsname=[COLOR yellow]Legendado[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xfbnEVFKS26YHLuuckP0i58GPlo.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Jordan Belfort é um ambicioso corretor da bolsa de valores que cria um verdadeiro império, enriquecendo de forma rápida, porém ilegal. Ele e seus amigos mergulham em um mundo de excessos, mas seus métodos ilícitos despertam a atenção da polícia.</info>
+</item> 
+</channel>
+

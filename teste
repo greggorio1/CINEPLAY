@@ -18,3 +18,23 @@
 <info></info>
 </item>
 </channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels></channels>
+<channel>
+<name>[B][COLOR yellow]Tapete Vermelho[/COLOR][/B] [COLOR gray]| Dublado[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg</thumbnail>
+<info>Quinzinho (Matheus Nachtergaele) mora em uma roça bem distante de qualquer cidade grande. Decidido a cumprir uma promessa, ele decide levar seu filho Neco (Vinícius Miranda), de 9 anos, para assistir a um filme estrelado por Mazzaropi em uma sala de cinema, assim como fez seu pai quando era garoto. Desejando cumprir a promessa a qualquer custo, Quinzinho, sua esposa Zulmira (Gorete Milagres), Neco e o burro Policarpo viajam pelas cidades em busca de um cinema que possa exibir o filme.</info>
+
+
+<item>
+<title>[COLOR yellow][B]Resolucoes[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f57b11b34fc060d259ff8ad2e62e121594f0079$$lsname=[COLOR yellow]1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6673b4932b711ff51d9ba1064a7e993ff58d55dc$$lsname=[COLOR yellow]720p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zh8PPoN82hV73GOfwZ6LD14Q1zp.jpg</thumbnail>
+<info> 
+Quinzinho (Matheus Nachtergaele) mora em uma roça bem distante de qualquer cidade grande. Decidido a cumprir uma promessa, ele decide levar seu filho Neco (Vinícius Miranda), de 9 anos, para assistir a um filme estrelado por Mazzaropi em uma sala de cinema, assim como fez seu pai quando era garoto. Desejando cumprir a promessa a qualquer custo, Quinzinho, sua esposa Zulmira (Gorete Milagres), Neco e o burro Policarpo viajam pelas cidades em busca de um cinema que possa exibir o filme.</info>
+</item>
+</channel>

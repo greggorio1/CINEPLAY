@@ -38,3 +38,46 @@
 Quinzinho (Matheus Nachtergaele) mora em uma roça bem distante de qualquer cidade grande. Decidido a cumprir uma promessa, ele decide levar seu filho Neco (Vinícius Miranda), de 9 anos, para assistir a um filme estrelado por Mazzaropi em uma sala de cinema, assim como fez seu pai quando era garoto. Desejando cumprir a promessa a qualquer custo, Quinzinho, sua esposa Zulmira (Gorete Milagres), Neco e o burro Policarpo viajam pelas cidades em busca de um cinema que possa exibir o filme.</info>
 </item>
 </channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels></channels>
+<channel>
+<name>[B][COLOR yellow]Assalto ao Banco Central[/COLOR][/B] [COLOR gray]| Dublado[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/sbUymWDX82csyNaTj3AmKGKqzrG.jpg</thumbnail>
+<info>Em Agosto de 2005 164.7 milhões de reais foram roubados do Banco Central em Fortaleza, Ceará. Sem dar um único tiro, sem disparar um alarme, os bandidos entraram e saíram por um túnel de 84 metros cavado sob o cofre, carregando 3 toneladas de dinheiro. Foram mais de três meses de operação. Milhares de reais foram gastos no planejamento. Foi o segundo maior assalto a banco do mundo. Um dos crimes mais sofisticados e bem planejados de que já se teve notícia no Brasil. Quem eram essas pessoas? E o que aconteceu com elas depois? São as perguntas que todo o Brasil se faz desde então.</info>
+
+
+<item>
+<title>Resolucoes</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b4b5f35bc8b1f761bdbfe17b62a13fd99609a74$$lsname=[COLOR yellow]1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b8ab05e343ab6d30b247e925124d2bc288c4c53$$lsname=[COLOR yellow]720p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sbUymWDX82csyNaTj3AmKGKqzrG.jpg</thumbnail>
+<info> 
+</info>
+
+</item>
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels></channels>
+<channel>
+<name>[B][COLOR yellow]Cidade de Deus[/COLOR][/B] [COLOR gray]| Dublado[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/pA70WUs7KHiHltfiBN4XEELOXcS.jpg</thumbnail>
+<info>Buscapé (Alexandre Rodrigues) é um jovem pobre, negro e muito sensível, que cresce em um universo de muita violência. Buscapé vive na Cidade de Deus, favela carioca conhecida por ser um dos locais mais violentos da cidade. Amedrontado com a possibilidade de se tornar um bandido, Buscapé acaba sendo salvo de seu destino por causa de seu talento como fotógrafo, o qual permite que siga carreira na profissão. É através de seu olhar atrás da câmera que Buscapé analisa o dia-a-dia da favela onde vive, onde a violência aparenta ser infinita.</info>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Resolucoes</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80275c5c97dbb22837dfd51098c56cc2aa11a30d$$lsname=[COLOR yellow]1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed567d8c5aac0b417de9aeceedd3ad76c32f1c31$$lsname=[COLOR yellow]720p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pA70WUs7KHiHltfiBN4XEELOXcS.jpg</thumbnail>
+<info> 
+</info>
+
+</item>
+</channel>

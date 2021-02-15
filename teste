@@ -8,7 +8,7 @@
 <title>1080p</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:537f99dd2e5b21d642892058a52dbe29e0ecf6c1</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
-<info></info>
+<info>
 </item>
 
 <item>
@@ -55,7 +55,7 @@ Quinzinho (Matheus Nachtergaele) mora em uma roça bem distante de qualquer cida
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b8ab05e343ab6d30b247e925124d2bc288c4c53$$lsname=[COLOR yellow]720p[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sbUymWDX82csyNaTj3AmKGKqzrG.jpg</thumbnail>
 <info> 
-</info>
+
 
 </item>
 
@@ -77,7 +77,7 @@ Quinzinho (Matheus Nachtergaele) mora em uma roça bem distante de qualquer cida
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed567d8c5aac0b417de9aeceedd3ad76c32f1c31$$lsname=[COLOR yellow]720p[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/pA70WUs7KHiHltfiBN4XEELOXcS.jpg</thumbnail>
 <info> 
-</info>
+
 
 </item>
 </channel>

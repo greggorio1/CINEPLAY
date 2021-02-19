@@ -7,7 +7,54 @@
 </channel>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Milagre na Cela 7[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/o78AFyz5cbRIEPvi7DwFGO01Wof.jpg</thumbnail>
+<info>Separado de sua filha, um homem com deficiência intelectual precisa provar sua inocência ao ser preso pela morte da filha de um comandante.</info>
 
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51b776d5643a7e538b915f644e1d0d80e4d2de2e$$lsname=[COLOR yellow]1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:621f49c9372d50743e152e8503d3dc67b44f905b$$lsname=[COLOR yellow]720p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/o78AFyz5cbRIEPvi7DwFGO01Wof.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68270a84041cb142d0ec147238fd5ea4adec46af</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/o78AFyz5cbRIEPvi7DwFGO01Wof.jpg</thumbnail>
+<info></info>
+</item>
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]À Espera de um Milagre (1999) [/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/2RKjFMIlb3UmvUtxeM1uzS0WMhG.jpg</thumbnail>
+<info>1935, no corredor da morte de uma prisão sulista. Paul Edgecomb (Tom Hanks) é o chefe de guarda da prisão, que temJohn Coffey (Michael Clarke Duncan) como um de seus prisioneiros. Aos poucos, desenvolve-se entre eles uma relação incomum, baseada na descoberta de que o prisioneiro possui um dom mágico que é, ao mesmo tempo, misterioso e milagroso.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2721ea4c1bdb4867c99540c9884194ab5efa9fc$$lsname=[COLOR yellow]1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b709766be2263a4a9ec80f804d1cac3ff671965$$lsname=[COLOR yellow]720p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2RKjFMIlb3UmvUtxeM1uzS0WMhG.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:194138cadfb197f9bbb8253eb07372f125d41072</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2RKjFMIlb3UmvUtxeM1uzS0WMhG.jpg</thumbnail>
+<info></info>
+</item>
+</channel>
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 

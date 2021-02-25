@@ -8,7 +8,14 @@
 [COLOR red]●[/COLOR]Arquivos com mais de 30gb</info>
 </item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Monster Hunter[/B][/COLOR] [COLOR gray]Legendado 4k[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32181709f6ebe3f0899a0b47b9bfb36d15fbd1e5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2QhhILPAv7MKFd1q57ssQeEV2su.jpg</thumbnail>
+<genre>4K</genre>
 
+</item> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]O Hobbit: Uma Jornada Inesperada[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
@@ -78,7 +85,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Os Incríveis[/B][/COLOR] [COLOR gray]4k[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86d6aed525ddb1dfd437299dde04815c66782766$$lsname=[COLOR yellow]Os Incríveis 1[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86d6aed525ddb1dfd437299dde04815c66782766$$lsname=[COLOR yellow]Os Incríveis [/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3a88858992e57043d70a726cb7d7b662b75e60d$$lsname=[COLOR yellow]Os Incríveis 2[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/ohxeKUSj1EX0zoFNP3gFfqLs3dE.jpg</thumbnail>
 <genre>4K</genre>

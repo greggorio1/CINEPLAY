@@ -1,6 +1,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[COLOR green][B]• Dica[/B][/COLOR]: Para buscar um filme em especifico,use o filtro ao seu lado esquerdo!!</name>
+<thumbnail></thumbnail>
+<info></info>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
 <name>[COLOR yellow][B]Lion: Uma Jornada para Casa[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/svbUqOL9FdwCF9cKe4aEagVmteR.jpg</thumbnail>
 <info> Quando tinha apenas cinco anos, o indiano Saroo se perdeu do irmão numa estação de trem de Calcutá e enfrentou grandes desafios para sobreviver sozinho até de ser adotado por uma família australiana. Incapaz de superar o que aconteceu, aos 25 anos ele decide buscar uma forma de reencontrar sua família biológica.</info>
@@ -455,15 +466,7 @@
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels></channels>
-<channel>
-<name>[COLOR green][B]• Dica[/B][/COLOR]: Para buscar um filme em especifico,use o filtro ao seu lado esquerdo!!</name>
-<thumbnail></thumbnail>
-<info></info>
-</channel>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>

@@ -1,3 +1,18 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Quem é Você, Alasca?[/B] [COLOR yellow][I](7.3)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/9Sf2xUDLU0gyJfwDvmXhIqIzgrj.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Miles Halter é um adolescente obcecado pelas últimas palavras de pessoas famosas. Cansado da vida monótona e segura que leva em casa, o jovem decide se aventurar em uma nova escola, onde encontra alguém prestes a tirá-lo da mesmisse: a ousada e increvelmente charmosa Alasca Young. Baseado no livro homônimo de John Green.</info>
+<item>
+<title>[B]Temporada 1[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:318ea16bf945fd4fc1f314139589008d7a0c0406</link>
+<thumbnail></thumbnail>
+</item> 
+</channel>
+
+
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>

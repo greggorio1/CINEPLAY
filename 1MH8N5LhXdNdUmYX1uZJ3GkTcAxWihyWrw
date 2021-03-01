@@ -34,7 +34,13 @@
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20filmes</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
-[COLOR yellow][B]Filmes dos mais variados generos,para vc e sua familia[/B][/COLOR]</info>
+[COLOR yellow][B]Filmes dos mais variados generos,para vc e sua familia[/B][/COLOR]
+
+[COLOR green]▲[/COLOR]: [B]Online[/B]
+[COLOR yellow]►[/COLOR]: [B]Atualizando[/B]
+[COLOR red]▼[/COLOR]: [B]Offline[/B]
+
+</info>
 </channel>
 </channels>
 

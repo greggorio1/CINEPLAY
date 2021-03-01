@@ -1,6 +1,6 @@
 <channels>                                                     
 <channel>
-<name>[COLOR red]•[/COLOR][B]Filmes Recomendados[/B] [COLOR gray]|Em breve[/COLOR] </name>
+<name>[COLOR yellow]•[/COLOR][B]Filmes Recomendados[/B] [COLOR cyan]|Em breve[/COLOR] </name>
 <thumbnail>https://www.zanettidistribuidora.com.br/img/site/1362/b/2191249.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -91,6 +91,25 @@
 [B]Os Melhores animaçoes feitas para você e sua familia[/B]</info>
 </channel>
 </channels>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>                                                     
+<channel>
+<name>[COLOR yellow]•[/COLOR][B]Classicos Do Cinema[/B] [COLOR cyan]|Em breve[/COLOR] </name>
+<thumbnail>https://cdn.iset.io/assets/55268/produtos/14838/thumb_600-600-adesivo-de-parede-camera-retro-com-clipe-de-filme-1.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR yellow]Atualizado em[/COLOR]: ??/??[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: ?? Filmes[/B]
+[B][COLOR red]Total[/COLOR]: 1?? Filmes[/B]
+
+[COLOR yellow]Filmes que marcaram época no cinema[/COLOR]: 
+
+
+
+</info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 

@@ -7,7 +7,27 @@
 </channel>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Se Eu Ficar[/B][/COLOR] [COLOR gray]| Dublado[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/hErdSm2KCx4X3LAzFwbxbqEe4B5.jpg</thumbnail>
+<info>Mia Hall (Chlöe Grace Moretz) é uma prodigiosa musicista que vive a dúvida de ter que decidir entre a dedicação integral à carreira na famosa escola Julliard e aquele que tem tudo para ser o grande amor de sua vida, Adam (Jamie Blackley). Após sofrer um grave acidente de carro, a jovem perde a família e fica à beira da morte. Em coma, ela reflete sobre o passado e sobre o futuro que pode ter, caso sobreviva.</info>
 
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4c18d61ffbba550094a708d437a43c89e60f8d6$$lsname=[COLOR yellow]1080p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbe2e9755daeca06dbc44cef2b71fad4134a297e$$lsname=[COLOR yellow]720p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hErdSm2KCx4X3LAzFwbxbqEe4B5.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7272f52b6009671a92580c8defd28f669e826d6</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hErdSm2KCx4X3LAzFwbxbqEe4B5.jpg</thumbnail>
+<info></info>
+</item>
+</channel>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>

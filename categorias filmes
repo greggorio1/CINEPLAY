@@ -19,9 +19,9 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]4k[/B] </name>
+<name>[COLOR red]▼[/COLOR][B]4k[/B] </name>
 <thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/4K.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4ktorr</externallink>
+<externallink>https://</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 [B][COLOR yellow]Atualizado em[/COLOR]: 28/02[/B]
@@ -96,7 +96,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Classicos[/B] [B]| [COLOR cyan](Novidade)[/COLOR][/B]</name>
+<name>[COLOR green]▲[/COLOR][B]Classicos[/B] [B][COLOR cyan](Novidade)[/COLOR][/B]</name>
 <thumbnail>https://cdn.iset.io/assets/55268/produtos/14838/thumb_600-600-adesivo-de-parede-camera-retro-com-clipe-de-filme-1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Classicos</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>

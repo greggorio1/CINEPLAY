@@ -1,6 +1,6 @@
 <channels>                                                     
 <channel>
-<name>[COLOR red]▼[/COLOR][B]Filmes Recomendados[/B] [B][COLOR cyan]|Em breve[/COLOR][/B] </name>
+<name>[COLOR red]▼[/COLOR][B]Filmes Recomendados[/B] | [COLOR cyan][B] Em Breve[/B][/COLOR] </name>
 <thumbnail>https://www.zanettidistribuidora.com.br/img/site/1362/b/2191249.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -13,8 +13,19 @@
 </info>
 </channel>
 </channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>                                                     
+<channel>
+<name>[COLOR red]▼[/COLOR][B]Imax[/B] | [COLOR cyan][B] Em Breve[/B][/COLOR]</name>
+<thumbnail>https://tommo.com.br/wp-content/uploads/2018/02/imax.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR yellow]Atualizado em[/COLOR]: ??/??[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: ?? Filmes[/B]
+[B][COLOR red]Total[/COLOR]: ??? Filmes[/B]
 
-
+[COLOR red]AVISO[/COLOR]:[B]Aba feita apenas para telas grandes (+65 polegadas) ou projetores. Sinta o poder do cinama,na sua casa![/B]
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>                                                     

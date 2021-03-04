@@ -7,6 +7,23 @@
 [COLOR red]●[/COLOR]Só reportem caso todos os links nao funcionarem!!!
 [COLOR red]●[/COLOR]Arquivos com mais de 30gb</info>
 </item>
+
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Tenet[/B][/COLOR] [COLOR cyan][B]Legendado 4K[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9d1c736081a4e86198fb53c096b3abf5f6e0265</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/crQr1YR87WVOLTTTKdIYFZCaCfH.jpg</thumbnail>
+<genre>4K</genre>
+
+</item> 
+
+
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[COLOR yellow][B]Alita: Anjo de Combate [/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
@@ -762,14 +779,7 @@
 
 </item> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>[COLOR yellow][B]Tenet[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd7792f97a7a7431d18cf184df8aeae0faae837d</link>
-<thumbnail>https://image.tmdb.org/t/p/w500/crQr1YR87WVOLTTTKdIYFZCaCfH.jpg</thumbnail>
-<genre>4K</genre>
 
-</item> 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>

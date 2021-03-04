@@ -1,3 +1,19 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Tenet[/B][/COLOR] [COLOR cyan]|[B]Imax[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w342/k68nPLbIST6NP96JmTxmZijEvCA.jpg</thumbnail>
+<info>IMAX</info>
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c20de5e802aaa1a943b5cc0aa27f2dc1802e418</link>1
+<thumbnail>https://www.themoviedb.org/t/p/w342/k68nPLbIST6NP96JmTxmZijEvCA.jpg</thumbnail>
+
+
+</channel>
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>

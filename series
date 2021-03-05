@@ -1,6 +1,41 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[B]Expresso do Amanhã[/B] [COLOR yellow][I]()[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Um grupo de pesquisadores cria um experimento capaz de pôr fim à ameaça do aquecimento global, mas seus planos não saem como o planejado e eles acabam eliminando quase toda a vida da Terra, que, por sua vez, transforma-se em um deserto de gelo. Os únicos sobreviventes vagam pelo planeta a bordo de um trem chamado Snowpiercer, mas nem todos estão conformados com a situação. Com isso, uma revolução está prestes a eclodir.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e5a4fc5e0d174c23ed4a6294bfeb29a1b380d5a$$lsname=ep 1 e 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58e3f7a5855719a99e21020dd820b7275b4ed0fc$$lsname=ep 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcbd2da90b0a31e375891fcbb99465e405de9002$$lsname=ep 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:803d33926d7644516fd03259d9ec5ff3d0bea5d3$$lsname=ep 5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86d3cf2836251d0482c56d8be6801224918972de$$lsname=ep 6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dc5bc91bffb86ab947b0ee3a83b80b4b3a9f03d$$lsname=ep 7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdc98b2fe237140ca54491fcded9bd385ed6818f$$lsname=ep 8,9 e 10</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pggnNLtWRVjEmTVrWynU6VbbIFu.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd7714571e5ee30517b8bc76bb9715fd633ed230$$lsname=ep 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8632d726e6c57375f463cd267ba25f750359154$$lsname=ep 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:325d88a695d26e3045d9d081965511e505e18db0$$lsname=ep 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e50bb9beae3f0b1adb2b974c96321255c9c17a5$$lsname=ep 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d93db4e276296df08d008da0bf9eb7f058741df9$$lsname=ep 5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d42c522835671147af8319174bb8dd2fd42eaa6b$$lsname=ep 6</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg</thumbnail>
+</item> 
+
+
+</channel>
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
 <name>[B]Quem é Você, Alasca?[/B] [COLOR yellow][I](7.3)[/I][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/9Sf2xUDLU0gyJfwDvmXhIqIzgrj.jpg</thumbnail>
 <info>[COLOR cyan] Sinopse:[/COLOR]Miles Halter é um adolescente obcecado pelas últimas palavras de pessoas famosas. Cansado da vida monótona e segura que leva em casa, o jovem decide se aventurar em uma nova escola, onde encontra alguém prestes a tirá-lo da mesmisse: a ousada e increvelmente charmosa Alasca Young. Baseado no livro homônimo de John Green.</info>
@@ -1255,15 +1290,7 @@ Enredo: Sombra é um homem com um passado. Mas agora</info>
 
 
 
-<channels>
-<channel>
-<name>[B]Expresso do Amanhã[/B] [COLOR yellow][I](Nota 6.6)[/I][/COLOR]</name>
-<thumbnail>https://br.web.img3.acsta.net/pictures/20/01/17/12/42/3089665.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/torrent/master/serie%20expresso%20amanha</externallink>
-<info>
-[I]Sete anos após um acidente tecnológico afundar a Terra em um inverno profundo, o restante da humanidade sobrevive a bordo de um gigantesco trem que cruza o globo, onde uma guerra secreta entre as classes sociais – separadas entre as duas extremidades do veículo – está prestes a irromper. [/I]</info>
-</channel>
-</channels>
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 

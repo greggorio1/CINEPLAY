@@ -1364,3 +1364,97 @@ O ex-atleta de extremos esportes Xander " XXX" Cage, famoso por suas acrobacias 
 Se o casal mais famoso e eficiente da espionagem é capturado, quem assume a missão? Quando os experientes Gregório e Ingrid Cortez caem na armadilha de seu principal inimigo, a salvação deles fica nas mãos de seus dois filhos. Os dois pequenos não dispensam uma aventura e são cheios de disposição.</info>
 </channel>
 </channels>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Blade[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/zyivyoXd6zP09tS1PP7b35sB84h.jpg</thumbnail>
+<info>Blade, agora um homem procurado pelo FBI, deve unir forças com os Nightstalkers para enfrentar seu inimigo mais desafiador ainda: Drácula.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f23772f3ea9614c2fcd6b4ada80fb50a897211df$$lsname=[B]Blade: O Caçador de Vampiros (1998)[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:725c6d6d67828e7f960c346489db3b24990d07bc$$lsname=[B]Blade II: O Caçador de Vampiros[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c312eb6493759202f88468f6a94511f584a11da6$$lsname=[B]Blade Trinity[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zyivyoXd6zP09tS1PP7b35sB84h.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Hannibal[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/jWKqCIbsIazwClatV58ESuqNtf3.jpg</thumbnail>
+<info>Sete anos se passaram desde que Dr. Hannibal Lecter escapou da prisão. O brilhante mas perigosíssimo psiquiatra agora está solto pela Europa. Mason Verger se lembra bem do seu contato com Dr. Lecter, pois foi sua sexta vítima. Embora horrivelmente desfigurado, sobreviveu, e agora busca vingança. Verger percebe que, para encontrar Lecter, precisa despertar o interesse dele com uma isca: a agente do FBI Clarice Starling.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a97adcbacc88f83a114f38ff8fddf34e4b76891$$lsname=[B]O Silêncio dos Inocentes (1991)[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55bb2af9412af54ea0575cf8c52df1261ade41ea$$lsname=[B]Hannibal[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9149d6406da9c87eb5b8e5c38c06cea070db3ee6$$lsname=[B]Dragão Vermelho[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:706a3475802e093dd385203fdd074f6f770a1db1$$lsname=[B]Hannibal, a Origem do Mal[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/jWKqCIbsIazwClatV58ESuqNtf3.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Psicose[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/vNayuJV4gqtjhWeIeFYIO834rOd.jpg</thumbnail>
+<info>Marion Crane é uma secretária (Janet Leigh) que rouba 40 mil dólares da imobiliária onde trabalha para se casar e começar uma nova vida. Durante a fuga à carro, ela enfrenta uma forte tempestade, erra o caminho e chega em um velho hotel. O estabelecimento é administrado por um sujeito atencioso chamado Norman Bates (Anthony Perkins), que nutre um forte respeito e temor por sua mãe. Marion decide passar a noite no local, sem saber o perigo que a cerca.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a7c5121b9f7f8003999a5e2809693b56c45d81$$lsname=[B]Psicose (1960)[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce16da4f9729eebf0777f0a024e45200fc33beab$$lsname=[B]Psicose 2 (1983)[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba4d0f3ff74723a9fdb35a4b892cb4307c6aa984$$lsname=[B]Psicose 3 (1986)[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daa287659b09be8d8fdf60f0ebd25f2f513481be$$lsname=[B]Psicose 4: A Revelação (1990)[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/vNayuJV4gqtjhWeIeFYIO834rOd.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]O Código Da Vinci[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/qHjS8fyVWuMfRvRR3Nm4QpOWTn7.jpg</thumbnail>
+<info>Robert Langdon (Tom Hanks) é um famoso simbologista, que foi convocado a comparecer no Museu do Louvre após o assassinato de um curador. A morte deixou uma série de pistas e símbolos estranhos, os quais Langdon precisa decifrar. Em seu trabalho, ele conta com a ajuda de Sophie Neveu (Audrey Tautou), criptógrafa da polícia. Porém, o que Langdon não esperava era que suas investigações o levassem a uma série de mensagens ocultas nas obras de Leonardo Da Vinci, que indicam a existência de uma sociedade secreta que tem por missão guardar um segredo que já dura mais de dois mil anos.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a09a6f744f768c99461987dbc9adefd0913f20e3$$lsname=[B]O Código Da Vinci[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a87bcd33bc8931549885424d3dca43e3d4e7aa7$$lsname=[B]Anjos e Demônios[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a217d3b74d16517880ea32d4e775d5f56dacc226$$lsname=[B]Inferno[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/qHjS8fyVWuMfRvRR3Nm4QpOWTn7.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Barbie[/B][/COLOR]</name>
+<thumbnail>https://m.leitura.com.br/resizer/view/373/373/false/true/83672.jpg</thumbnail>
+<info>Saga Barbie</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79648c03fe1d5309d0ac0f190c786b612ec7c68f$$lsname=[B]Barbie: como Rapunzel[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d817575654587099c63dbafe494be81c9d7fb04$$lsname=[B]Barbie: Escola de Princesas[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17b4664df765e2382596ac44a73665b27d3c4dd6$$lsname=[B]Barbie: A Princesa & a Pop Star[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77851a45dcde878cb9b681432b73d76cf5ac15cd$$lsname=[B]Barbie: A Sereia das Pérolas[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:425ba58df9bb29623df382d3a521b38c80ec4677$$lsname=[B]Barbie: e o Portal Secreto[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39cbfecc6c298035fc47ee1d9bb02658334bd8c7$$lsname=[B]Barbie: Super Princesa[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:985d2f7b1a80d2adae3e5fe8570bcbfdc8a93e71$$lsname=[B]Barbie: Rainhas do Rock[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f63f1a8a94751dae24318846d9b78692712d967$$lsname=[B]Barbie: e as Agentes Secretas[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15d4d702d7511c68c21e3c20e4550081d8708290$$lsname=[B]Barbie: Aventura nas Estrelas[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed5e543883588f22f70f80fe15547c04a2e03db6$$lsname=[B]Barbie: Em Um Mundo de Video Game[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rWQPf9Q8CAHIpBP8SVLE3uaSmf4.jpg</thumbnail>
+</item> 
+</channel>

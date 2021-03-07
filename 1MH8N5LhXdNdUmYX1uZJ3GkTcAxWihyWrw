@@ -32,12 +32,12 @@
 
 <channels>
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Filmes[/B]</name>
+<name>[COLOR red]▼[/COLOR][B]Filmes[/B]</name>
 <thumbnail>https://ia601505.us.archive.org/18/items/filmes_202101/FILMES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
-[COLOR yellow][B]Filmes dos mais variados generos,para vc e sua familia[/B][/COLOR]
+[B]Filmes dos mais variados generos,para vc e sua familia[/B]
 
 
 </info>
@@ -52,9 +52,9 @@
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Séries[/B] </name>
 <thumbnail>https://ia601505.us.archive.org/18/items/filmes_202101/seriesss.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20serie</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
-[COLOR yellow][B]Series das mais variadas plataformas,para vc e sua familia[/B][/COLOR]</info>
+[B]Series das mais variadas plataformas,para vc e sua familia[/B]</info>
 </channel>
 </channels>

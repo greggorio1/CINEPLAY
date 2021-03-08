@@ -111,7 +111,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Classicos[/B] [B][COLOR cyan](Novidade)[/COLOR][/B]</name>
+<name>[COLOR green]▲[/COLOR][B]Classicos[/B] |[B][COLOR cyan](Novidade)[/COLOR][/B]</name>
 <thumbnail>https://cdn.iset.io/assets/55268/produtos/14838/thumb_600-600-adesivo-de-parede-camera-retro-com-clipe-de-filme-1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Classicos</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -137,9 +137,9 @@
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Com%C3%A9dia</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
-[B][COLOR yellow]Atualizado em[/COLOR]: 27/02[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: 02 Filmes[/B]
-[B][COLOR red]Total[/COLOR]: 204 Filmes[/B]
+[B][COLOR yellow]Atualizado em[/COLOR]: 08/03[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 07 Filmes[/B]
+[B][COLOR red]Total[/COLOR]: 213 Filmes[/B]
 
 [B]Junte a familia e se divirtam bastante[/B]</info>
 </channel>
@@ -173,9 +173,9 @@
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/drama</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
-[B][COLOR yellow]Atualizado em[/COLOR]: 05/03[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: 30 Filmes[/B]
-[B][COLOR red]Total[/COLOR]: 142 Filmes[/B]</info>
+[B][COLOR yellow]Atualizado em[/COLOR]: 08/03[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 04 Filmes[/B]
+[B][COLOR red]Total[/COLOR]: 147 Filmes[/B]</info>
 </channel>
 </channels>
 

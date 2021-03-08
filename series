@@ -1,6 +1,107 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[B]Nevenka: Quebrando o Silêncio[/B] [COLOR yellow][I](6.5)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/3A8BqkyEt30w6fUxmPBdj7QzyPx.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]A história do primeiro caso de assédio sexual na Espanha foi um escândalo. Nevenka Fernández, sua protagonista, discute isso neste documentário</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7785e3d7e94fd37668d4f66ebf1417960046bf6f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3A8BqkyEt30w6fUxmPBdj7QzyPx.jpg</thumbnail>
+</item> 
+
+
+</channel>
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Bom Dia, Verônica[/B] [COLOR yellow][I](7.8)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/kvPN4t8EaYCPyIEAGPIGXMcPhZc.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Após testemunhar um suicídio, uma policial discreta decide investigar por conta própria dois casos esquecidos envolvendo mulheres agredidas.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98923c2bef45623e3345507e9233a863a3602a86</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kvPN4t8EaYCPyIEAGPIGXMcPhZc.jpg</thumbnail>
+</item> 
+
+
+</channel>
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Punho de Ferro[/B] [COLOR yellow][I](6.5)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/hEJHWHdvaPbI605KuId4K3HT5oR.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Quinze anos depois de ter sido dado como morto, Danny Rand ressurge. Com a força do Punho de Ferro, ele espera recuperar seu passado e cumprir seu destino.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e9aad2de6cea53ac146d240e1bcc2b74d9ea974</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hEJHWHdvaPbI605KuId4K3HT5oR.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8608df49b71b2195771eed4a9c0ab546fdbaac1a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ll2aRPjf0tc4g0oXn7KKTHaQFFP.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]The Little Drummer Girl[/B] [COLOR yellow][I](7.4)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/cRRRB4kKlMvQtX4acZngnBKMIh2.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Assassino palestino ataca israelenses famosos. Atriz inglesa é recrutada para se infiltrar na célula terrorista do assassino. Isso exigirá seu talento de atriz e a colocará em risco.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61d68fbc3c1d062bc35fd54e863a91856d9e5e76</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/cRRRB4kKlMvQtX4acZngnBKMIh2.jpg</thumbnail>
+</item> 
+
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Marte[/B] [COLOR yellow][I](7.5)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/nsEMqQ13vN3E3rxeh9UKtAf2TNh.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]A vida real encontra a ficção neste drama documental sobre a jornada de uma equipe que embarca em uma missão para colonizar o planeta vermelho no ano de 2033.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1feab6c68a188a384e7a29d5ecb1f642aac2bec5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nsEMqQ13vN3E3rxeh9UKtAf2TNh.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7c166a8349a16ab4561dd2ba662fa8c5d255f58$$lsname=[B]Episodio 1 e 2[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65fd8b0f3d91089b413f686d103b5c1247c73ae9$$lsname=[B]Episodio 3[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dfa6cc0cc43b326a2395d1fc737bb4fe52dcea6$$lsname=[B]Episodio 4[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:daee10fb23a026f233ff1819c012d860fb60a591$$lsname=[B]Episodio 5[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1f800e01269769048574cb543f1f7515bfd55dc$$lsname=[B]Episodio 6[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/eWzulEIDsBpe2OC8A1m83x1Ciss.jpg</thumbnail>
+</item> 
+</channel>
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
 <name>[B]The Stand[/B] [COLOR yellow][I](5.5)[/I][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</thumbnail>
 <info>[COLOR cyan] Sinopse:[/COLOR]Num cenário pós-apocalíptico a Terra foi destruída por um vírus letal. Os poucos sobreviventes se dividiram em facções: uma democrática, liderada pela Mãe Abigail, uma senhora de 108 anos; enquanto a outra é mantida pela brutalidade de Randall Flagg, dono de poderes inexplicáveis.</info>
@@ -24,7 +125,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
-<name>[B]Expresso do Amanhã[/B] [COLOR yellow][I]()[/I][/COLOR]</name>
+<name>[B]Expresso do Amanhã[/B] [COLOR yellow][I](6.8)[/I][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg</thumbnail>
 <info>[COLOR cyan] Sinopse:[/COLOR]Um grupo de pesquisadores cria um experimento capaz de pôr fim à ameaça do aquecimento global, mas seus planos não saem como o planejado e eles acabam eliminando quase toda a vida da Terra, que, por sua vez, transforma-se em um deserto de gelo. Os únicos sobreviventes vagam pelo planeta a bordo de um trem chamado Snowpiercer, mas nem todos estão conformados com a situação. Com isso, uma revolução está prestes a eclodir.</info>
 

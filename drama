@@ -7,6 +7,77 @@
 </channel>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]O Som do Coração[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/gixbzn3p5sgopDSPWLvWNVblLkK.jpg</thumbnail>
+<info>August Rush (Freddie Highmore) é resultado do encontro casual entre um guitarrista e uma violoncelista. Crescido em orfanato e dotado de um dom musical impressionante, ele se apresenta nas ruas de Nova York ao lado do divertido Wizard (Robin Williams). Contando apenas com seu talento musical, August decide usá-lo para tentar reencontrar seus pais.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a77e56e9226618f080e324bed5bb2718a7ab14f$$lsname=[COLOR yellow][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef5f61fc1cec0ceb7c78940529117cc155f9f310$$lsname=[COLOR yellow][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/gixbzn3p5sgopDSPWLvWNVblLkK.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89d1064c697de6811e1f878fb88113ddb47a473c</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/gixbzn3p5sgopDSPWLvWNVblLkK.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Churchill[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/fJxqYE0Li9Xcz45G2srBKUQzcwC.jpg</thumbnail>
+<info>A vida do primeiro-ministro britânico, Winston Churchill (Brian Cox) e o momento histórico marcado como o Dia D, em 6 de junho de 1944. Data em que o plano militar, chamado “Operação Overlord”, foi colocado em prática, com tropas aliadas desembarcando na Normandia. Este foi considerado o dia mais importante da Segunda Guerra Mundial, sendo decisivo para a vitória dos Aliados contra o Eixo.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa98a6e25defab4813bb962441fe6e18cac79e15$$lsname=[COLOR yellow][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ed310bb4ab9bbcdf347f4dbfefa00389ab59e82$$lsname=[COLOR yellow][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fJxqYE0Li9Xcz45G2srBKUQzcwC.jpg </thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c19635da138780777b9105661f462eb07bb52c6f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fJxqYE0Li9Xcz45G2srBKUQzcwC.jpg </thumbnail>
+</item> 
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Amor Para a Eternidade[/B][/COLOR] [COLOR cyan]| [B]Legendado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/8U7PlZNAb1vzz9pGAJ1zo1dBEp.jpg</thumbnail>
+<info>Lu Feng e são um casal devotado forçados a se separar quando Lu é preso e enviado para um campo de trabalho como um prisioneiro político durante a Revolução Cultural. Ele finalmente volta para casa apenas para descobrir que sua amada esposa não se lembra dele.</info>
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8428604b804b93d1ca54ebb5780e4db64b32ada2$$lsname=[COLOR yellow][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9d73563cc51300ac374c6c789af27adaac68bcb$$lsname=[COLOR yellow][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/8U7PlZNAb1vzz9pGAJ1zo1dBEp.jpg </thumbnail>
+</item> 
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Um Mistério de Aurora Teagarden: Jogo de Enganação[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/s8XBaupmvntKwFtQ54678jRCTRI.jpg</thumbnail>
+<info>Quando alguém começa a atormentar Aurora Teagarden com pistas enigmáticas deixadas em cenas de crime, ela tenta descobrir quem está por trás do assustador “jogo”. Mas quando as pessoas mais próximas de Aurora tornar-se alvos, o jogo assume uma vantagem muito mais perigosa, uma vez que aponta para um assassinato planejado. E uma vez descoberto que o florescente relacionamento de Aurora com o professor Nick Miller pode ser a fonte do ciúme que está levando à matança do crime, Aurora deve ter um cuidado especial para não se tornar a próxima vítima.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f3104b2334ac769a6503c3a96066019be5ba24c</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/s8XBaupmvntKwFtQ54678jRCTRI.jpg </thumbnail>
+</item> 
+</channel>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>

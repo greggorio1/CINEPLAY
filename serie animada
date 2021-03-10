@@ -1,19 +1,320 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
-<name>[COLOR yellow][B]Carol[/B][/COLOR] [COLOR gray]| Dublado[/COLOR] </name>
-<thumbnail>https://br.web.img3.acsta.net/pictures/15/12/16/17/51/008402.jpg</thumbnail>
-<info>[COLOR red]Sinopse[/COLOR]: 
-Therese Belivet tem um emprego entediante em uma loja de departamentos. Um dia, ela conhece Carol, uma elegante e misteriosa cliente. Rapidamente, as duas mulheres desenvolvem um vínculo amoroso que terá consequências sérias.</info>
+<name>[B]Rick e Morty[/B] [COLOR yellow][I](9.2)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/pZoqbuJGaVM7vgzsSCPwRH5TCx5.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Rick é um velho mentalmente desequilibrado, mas cientificamente talentoso que se reconectou recentemente com sua família. Ele passa a maior parte do tempo envolvendo o jovem neto Morty em aventuras perigosas e estranhas no espaço e em universos alternativos. Compostos à vida familiar já instável de Morty, esses eventos causam muito sofrimento a Morty em casa e na escola.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73e373f01cf307ef073a910d8566212a3a638c9</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pZoqbuJGaVM7vgzsSCPwRH5TCx5.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dc3763258907283737ed748a3d5b12c09ef7fe7</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zkhGdE29umuKwa6u6mm7e4cXvYY.jpg</thumbnail>
+</item> 
 
 
 <item>
-<title>[B]Dublado[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51e4978ca55df74b3fc5b1f7de2d43aff4ba07db</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/15/12/16/17/51/008402.jpg</thumbnail>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d246c2a68ae85316c21e024dbcd98f5f6e268c8</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/qJ7ILAEJFbBP3DzsTU2Va551iiP.jpg</thumbnail>
+</item> 
 
-
-</item>
+<item>
+<title>[B]4ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60571b9f274efb392543e98ef0e16097a37cecf9</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ylL3eViYKBhtjaqVe4pLMslVBjR.jpg</thumbnail>
+</item> 
 </channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]One Punch Man[/B] [COLOR yellow][I](8.8)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/goJyMNld1sDh9WpUyvBpC2cxT2Q.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Tudo sobre um jovem chamado Saitama parece mediano, sua expressão sem vida, sua cabeça calva e físico inexpressivo. No entanto, este homem de aparência comum não tem um problema comum… Ele é um super-herói que está à procura de adversários difíceis! O problema é que toda vez que ele encontra um candidato promissor ele o derrota com um soco. Saitama encontrará um vilão forte o suficiente para desafiá-lo? Siga Saitama através de suas aventuras hilariantes enquanto ele procura por novos bandidos para desafiar!</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab9fea5782063770a1944d598b21fd786dfea470</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/goJyMNld1sDh9WpUyvBpC2cxT2Q.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada - Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:893b997cafc2c97de456599fa4eaf2d37334d4f2$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:403ef6a7a14ddef51a7c994e478aac933fcd15e0$$lsname=[B]Episodio 02 ao 12[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kjTzqlxR3bFtdgMuGtytj8MMtv7.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Ataque dos Titãs[/B] [COLOR yellow][I](8.9)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/sl3EiPfLEQ4Ngfg6B1NmOhzc8GH.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Titãs estão quase exterminando a raça humana. Porém alguns estão dispostos a formar um exército de ataque aos seres assassinos. O jovem Eren, após ver sua mãe ser devorada por um titã, decide que não deixará nenhum deles vivo e buscará sua vingança completa.</info>
+
+<item>
+<title>[B]1ª Temporada - Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c07ba68cfb293fe8151000f92b4b9a78d2a2300e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sl3EiPfLEQ4Ngfg6B1NmOhzc8GH.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada - Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42e043ed2ed13e33a7e3959ff5f0c37a575406d1</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada - Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d929412b39650c1c68633e8eeb4b96e0446dc33</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hBM6T4WT8cbPDYgz9bMFBRQx9AJ.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Gravity Falls: Um Verão de Mistérios[/B] [COLOR yellow][I](8.9)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/ooC7qJ1VQbPOr8pCNUUFTvP1WYw.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Os gêmeos Dipper e Mabel ficam desapontados ao ter que passar o verão com seu tio-avô, mas a cidade onde ele vive acaba se revelando um lugar estranho e maravilhoso.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6937d196876097c9f800f74d2ce106375bd8c55</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ooC7qJ1VQbPOr8pCNUUFTvP1WYw.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84e13cd179e066f66615c395ccb8c616be9a47f2</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pLOWuYnhozZnXMpnCyT0aNfBMGa.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Star Wars A Guerra dos Clones[/B] [COLOR yellow][I](8.3)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/jTOQJSKs3oR5B7wfvTXoa0xvPad.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Enquanto a guerra dos clones varre a galáxia, os heroicos Cavaleiros Jedi lutam desesperadamente a fim de manter a ordem e restaurar a paz. Mais e mais sistemas sucumbem diante das forças do lado negro e a República Galáctica está cada vez mais sob a pressão dos Separatistas e do seu infinito exército de dróides.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dc5f80fbcea019cc650e919192e6e135c16a4e0</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/jTOQJSKs3oR5B7wfvTXoa0xvPad.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc087fd146ee0bcd6b751a83f45b59b1ec24791</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wfoPyE5Z40ORvT0Cmtrh70mljxT.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8777941a56ac10e566936174c7df6b96a4cc577a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fg9GG6Uk9dbg4OGK4DIpEmMM8Xa.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]4ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e154ce5c4c17efa3a33b0f5e2b7b8d36db7e939</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sagN52UunvEtTkQUG6qEMimi1lo.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]5ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:305b82d01460855ac1c23251971d588bb8c75984</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pXzzoF0bUWaR5Rqw9QHO6tEjLG0.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]6ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c723240ea74b5a6aa0abbf863838fd5b732aac8</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/7bDmi4Kd4CBZjffwmAB7nTDIdz7.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]7ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:320f0435c965f58cd69156dfe9cfd49d8a48c475$$lsname=[B]Episodio 1 ao 5[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82472ec46185c45f8636ac7a5806ee43e9b015e4$$lsname=[B]Episodio 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27ed3539f27439e3e28823fc02d456a50411b329$$lsname=[B]Episodio 7 ao 8[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7456deb05e22907ea11ca0d4c412165e5da40ec1$$lsname=[B]Episodio 09[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74ab0c77d36406cd01d82b0098f757225f600bda$$lsname=[B]Episodio 10[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:734c790d045ea55602a71ba74a2bd7d822b1dc3e$$lsname=[B]Episodio 11[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15ebfa030901150df7da449315894d1ca394c032$$lsname=[B]Episodio 12[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oEi61vyd3B6Jrx1i9KPJFNCatRn.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Tom e Jerry[/B] [COLOR yellow][I](7.8)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/tEsxOjzxz8Tdn1360f5Y9Tr3uCo.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]O centro da trama se baseia geralmente em tentativas frustradas de Tom de capturar Jerry, e o caos e a destruição que se segue.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb1a580d0e9cd1b01b3e36c31424d86a2bf74821</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/tEsxOjzxz8Tdn1360f5Y9Tr3uCo.jpg</thumbnail>
+</item> 
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Pokémon[/B] [COLOR yellow][I](7.5)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/tU69unL405qCsCvnTwCtv843V3K.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Explore o mundo de Pokémon com Ash e seu parceiro Pikachu em busca do sonho do menino de ser um mestre Pokémon.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fe6bf4e354f263b9053ead711170bc20d8059bd</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/tU69unL405qCsCvnTwCtv843V3K.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48c2ec510d9e0299c52712e8f49e147361ae11ba</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wgr3hp3VxP79bwQd0ke8VDbIHph.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6c1ec2ba6c8e97d51198e15c809b7214682e47e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fwryZGsRLPkTxyKlD3GClIZy4JH.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Bob Esponja Calça Quadrada[/B] [COLOR yellow][I](8.1)[/I][/COLOR]</name>
+<thumbnail>https://nick.mtvnimages.com/uri/mgid:arc:content:mundonick.com.br:1e86c3cb-3c7a-4c7a-9ac9-e15a1f57444a?quality=0.7</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Venha acompanhar as aventuras da esponja mais adorável do mundo e seu companheiro de estrela do mar! Embora tenham as melhores intenções, Bob Esponja e Patrick estão sempre causando problemas … e muitas risadas!</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a18c34429dfbfe81ce2093edbcdeeac19cdad71b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/vNXHdgxSmrn46HyS0XJIw39KT8q.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81cab6ad234ca2ffd6360ac3163c57c773a21a83</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4oobvmkmP52XvC9BNkyG5fTscz9.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0717565554862e170060d97867cc21457452445</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6vK4VeqTlYIcMs0nw7WafhQplpH.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]4ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fde2adf275b4dc89d3426656bf70785641850af1</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/g5GeV8KbvnLp6vchWWpLETB6Tqq.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]5ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d95d3c07eb789789df8bb0885b0ce739f17b3cc2</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rSjlAR7UiFsnv9zLop8OuTigFst.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]6ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8554b4f15213d2f9f9a3b38d8257a8a95b48bc5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ayj5q2Ue45W1cjoLz8KxvWXkvVj.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]O Laboratório de Dexter[/B] [COLOR yellow][I](7.9)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/AqCJIxBruxfyk6YCJVRcSBhGcmv.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Trata-se de um desenho cujo foco é um menino gênio chamado Dexter, que possui um imenso laboratório secreto conectado a seu quarto.  O garoto está constantemente em conflito com sua endiabrada irmã mais velha, Dee Dee.  Dexter possui um arqui-inimigo que se intitula Mandark, outra criança super-dotada, e que tem uma gargalhada muito peculiar.  Quase sempre, Mandark, através de métodos fraudulentos ou por pura coincidência, assume o mérito das conquistas de Dexter.  Mandark sempre inventa planos para poder destruir Dexter e seu laboratório.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0f2acb8a7dd87a2dc33d35d0f4baf8c242b001c</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/AqCJIxBruxfyk6YCJVRcSBhGcmv.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]X-Men: Evolution[/B] [COLOR yellow][I](8.0)[/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/BjHIKoK.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR] X-Men Evolution é uma série que conta a história da juventude dos X-Men, os super-heróis da Marvel. O começo da série foca no confronto e relacionamento dos X-Men com a Irmandade, em busca de conseguir novos aliados e novos recrutas. A série conta a hist´roa de como cada mutante foi parar na equipe dos X-Men.</info>
+
+<item>
+<title>[B]Todas As Temporadas[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470abcfb25c5ba04190e35779421c79802b2e6ca</link>
+<thumbnail>https://i.imgur.com/BjHIKoK.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]As Terriveis Aventuras De Billy E Mandy[/B] [COLOR yellow][I](7.7)[/I][/COLOR]</name>
+<thumbnail>https://i.imgur.com/c9ZQALV.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Billy e Mandy são duas típicas crianças da cidade de Endsville. No dia do aniversário do velho hamster de Billy, o Ceifador Sinistro, ou Puro Osso, aparece para levar o hamster para o além. Mas, para sua surpresa, as duas crianças não sentem medo dele, e apostam com Puro Osso: se ele ganhar, pode levar o hamster, mas, se perder, será escravo e melhor amigo dos dois até a eternidade. Puro Osso aceita e os leva para jogar limbo, seu jogo favorito. Antes que Puro Osso pudesse vencer o jogo, Mandy diz "beijinho" para o hamster, fazendo com que ele ataque Puro Osso e derrube o limbo, assim fazendo-o perder a aposta. Puro Osso fica bastante deprimido e triste, além de passar por humilhação e desdenho das outras entidades paranormais, mas, gradualmente, ele passa a se acostumar com sua nova vida, e passa a ter uma relação de amor-ódio para com as crianças, esperando que um dia seja libertado de sua escravidão.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14cce3cb62797786dec927c8dba0c1a6f9984bd2</link>
+<thumbnail>https://i.imgur.com/c9ZQALV.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Coragem, o Cão Covarde[/B] [COLOR yellow][I](8.2)[/I][/COLOR]</name>
+<thumbnail>https://ondebaixa.com/capas/coragem-o-cao-covarde-completo-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Coragem, o Cão Covarde é uma série de desenho animado estadunidense produzida e exibida pelo Cartoon Network e criada por John R. Dilworth. O desenho conta a história de um cachorro chamado Coragem e seus donos, Muriel Bagge, uma típica senhora escocesa, e Eustácio Bagge, um fazendeiro mal-humorado, que vivem juntos em uma fazenda localizada no meio da cidade deserta e fictícia de Lugar Nenhum, no Kansas (Eventualmente chamado de Lugar Nenhum). Eles moram em uma pequena casa, onde acontecem aparições de monstros, fantasmas e outras criaturas. Eustácio odeia muito Coragem, e sempre está o assustando, mas Muriel o ama muito e Coragem sempre a salva dos perigos que acontecem.</info>
+
+<item>
+<title>[B]Todas As Temporadas[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f6dca8e7e212bb9a6ae9bc588665080837ba6ed</link>
+<thumbnail>https://ondebaixa.com/capas/coragem-o-cao-covarde-completo-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item> 
+
+</channel>
+
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

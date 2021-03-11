@@ -1,6 +1,359 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[B]Ragnarok [/B] [COLOR yellow][I](7.5)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdea0ee2aef10fbfd8cbb4cb55ca502c9c02c3cd</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Raio Negro[/B] [COLOR yellow][I](6.1)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/gA9tBDW9UG6UmHrJTnpAVkeVTt.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Super-herói aposentado e diretor de uma escola, o lendário Raio Negro tem de voltar à ativa quando uma gangue começa a ameaçar sua família.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78bf3c2a5d15239ee72a037dd41c2209fcc0521f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/gA9tBDW9UG6UmHrJTnpAVkeVTt.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d74bb2698f6f4acc8bcee7ef07f370c94445ed8e$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079525ffb94f62a9e5f337cd723be099f8abb2d2$$lsname=[B]Episodio 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3b6c01f35c1316800d7400cd89b09a98fe3bac0$$lsname=[B]Episodio 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3028ad7ac3b9752457a8db931714a2df2cfa433$$lsname=[B]Episodio 04 ao 07[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ee8c9fdba02582ea35d700049f858ba1ae66104$$lsname=[B]Episodio 08 ao 13[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:254a2d35e9c2a98373e95b57bfcea3ea48a48f8a$$lsname=[B]Episodio 14[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cdd0494f7f18c5f7e35802212c93a5d14ff032c$$lsname=[B]Episodio 15[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80637bff170df6d6cb2d2b3d7c2ee73902cb5a22$$lsname=[B]Episodio 16[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/9HI2N1grbU1XzreodfBfwo3vr1g.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af5cf878a866e54db632b65a55a4098367bb76cd</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2mGCoqn1VELLI5N9uGffdIMPeOS.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]4ª Temporada - Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f32f1bcb4b54341869e1b88d6cfd7ce8b68594f5$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:450f8c764cc1c114984b8de2ac4eb3d5fbaeb15f$$lsname=[B]Episodio 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5522e9c50bcd8d9648299b44ad65935a17cc1bc$$lsname=[B]Episodio 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:354efc83afed09020d8d43ea2fadc1e1dde13676$$lsname=[B]Episodio 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75f2738621c55fd4f3d6291210f52a478dc51d89$$lsname=[B]Episodio 05[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3c0f5DRLAG3Ny2mTC3Ruu1Odapx.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Preacher[/B] [COLOR yellow][I](8.0)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/sizXOmF5GZtiTL2qNPwa3bURcz0.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Jesse Custer é um ex-pastor que foi possuído por uma entidade chamada Gênesis, que fugiu do Paraíso e está sendo procurada pelos anjos. Quando Jesse e Gênesis se tornam um só, os anjos enviam o Santo dos Assassinos para perseguí-lo.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:145181d4344f6bce1ec138f28da9ea9705679dde</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sizXOmF5GZtiTL2qNPwa3bURcz0.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44d069ab5d416721e399c5b9376ceb244231cf56</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/14fyPi9EvDdPakPR6ZUoIZet4zN.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a674066ad31e0ff63769bf3c4e175ad814c16e5$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34c947ec4cc4fdae0f21d39bd6fce3acccb00688$$lsname=[B]Episodio 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a098eda890a712d11c4ffc04e3395f2b45f590ff$$lsname=[B]Episodio 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:709b7411b18b2bd377b1d0a82e1cd6f2b8ebf380$$lsname=[B]Episodio 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1866eb779db9ac4f6784746ace4dad8725c02d1a$$lsname=[B]Episodio 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f7b4384a3c0b105bb26c3d14646ca49276db630$$lsname=[B]Episodio 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01a6c3945407a335afe8392dc665b022f5948b8f$$lsname=[B]Episodio 07[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b3a2d1fc7d6a465f06baca8a0056ec4aacb0353$$lsname=[B]Episodio 08[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:392ac2d9d979fdf603ea31b0999d2d8f7ed21cf6$$lsname=[B]Episodio 09[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:985a37f4684cc8b70144580b4b3c0da62e6cfc4b$$lsname=[B]Episodio 10[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/a0i22PgKGyc43KRqgraWKq7NgWO.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]4ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b65bc99d787c32344df8bf50c76a4c8ed47fad2d</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ey1WQajA25E5sFGHSApcqSWUSEc.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Como Vender Drogas Online (Rápido)[/B] [COLOR yellow][I](7.9)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/847sb6VDeovMu5jPhtgTXh4KrlX.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Para recuperar a ex-namorada, um adolescente nerd começa a vender ecstasy online. Em pouco tempo, ele se torna um dos maiores traficantes da Europa.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbe18b881b96ce4d92bef235cf1066ecfdc55579</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/847sb6VDeovMu5jPhtgTXh4KrlX.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82fa9dbc724c62d3da010f7464110449eaaa0405</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zeTO4e8UrJpUam3OqUePEczfGCi.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]3%[/B] [COLOR yellow][I](7.4)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/kn6llTQkwC0mjRZijYmdUnPqkL0.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Em um futuro onde a elite vive no conforto do Maralto, todos os jovens de 20 anos passam por um processo seletivo para viver lá. Mas só 3% serão aprovados.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8672ad46fc0f1bdd3f6079d8fc091b7744fa7d43</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kn6llTQkwC0mjRZijYmdUnPqkL0.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a075f407e8e1a68b9d0a63059650058b99057a6e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ncz7RTud9raVsN9MkSJ7yVViycK.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cec3ce02150d2df499f1c30d1b43559ac5ea980</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/uFfWZSludWnQe0HiPtEYPJgwu8J.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]4ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf235456891e100083eb9c610f80ae744d4324b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/bOqBR7CYLj2pF6tXwjieN5IY3O.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Em Defesa de Jacob[/B] [COLOR yellow][I](8.0)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/3v81RJtpfFh9VrOq9n3L88N2nP2.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Uma família sofre um grande baque quando o filho é acusado de matar um colega de classe.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6951ead169fa9c02965a5516c6aed284f5072d5$$lsname=[B]Episodio 01 ao 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5976e9e704ad3b6385e3a3a270e99eda007d4e11$$lsname=[B]Episodio 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4bea186c8dc5b5794c3e040d69a02aaee30e1b0$$lsname=[B]Episodio 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc9c265dbbf0212c11821d14133f7bf059d35cd$$lsname=[B]Episodio 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c64495c673911beac8fe7099b24f32cc8ee3424$$lsname=[B]Episodio 07 ao 08[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3v81RJtpfFh9VrOq9n3L88N2nP2.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Monstro do Pântano[/B] [COLOR yellow][I](7.6)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/2yNuEmRM55xhgf6kIvYqM6lBjwf.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]James Wan apresenta uma abordagem aterrorizante do gênero de super-heróis nesta minissérie baseada nos quadrinhos da DC que segue um ser monstruoso com poderes sobre a vida vegetal e que deve combater as forças malignas que cercam a Marais.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19026317f190aaa6b3db3bfd5d20c71bb42a9a31$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5db074fdb75252c41847c6fa62518c37ea058424$$lsname=[B]Episodio 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f0e61e6c1532a361d6bd896b7a64d8e6b491408$$lsname=[B]Episodio 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8bad08b308959cf19bd66a29cb5844e3025c1d0$$lsname=[B]Episodio 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:69ec0b63de22c700eecafa482727fa3cb9505c03$$lsname=[B]Episodio 05 ao 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bbaa0e0946cc331e127c294220a1a4a068ee355$$lsname=[B]Episodio 07[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08c89763b75fe9ea7bbf122e5609301cd274928a$$lsname=[B]Episodio 08 ao 09[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81e14d8775ac5ce5ca43d10afcfe27c4165b133f$$lsname=[B]Episodio 10[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2yNuEmRM55xhgf6kIvYqM6lBjwf.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+7>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>7
+<channels></channels>
+<channel>
+<name>[B]Sra. Wilson[/B] [COLOR yellow][I](7.5)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/vD8SzDX7mUbMM3wxqw5okaiwFOh.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Alison Wilson vive um casamento feliz, mas a morte de seu marido traz à tona um mundo de mentiras e segredos, incluindo outra mulher que diz ser a Senhora Wilson.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34a75fe55838bbb14e77ddee872036af2f7776d3</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/vD8SzDX7mUbMM3wxqw5okaiwFOh.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Pequenos Incêndios Por Toda Parte[/B] [COLOR yellow][I](7.7)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/wuVngWpJNrhojvkbYibosycSUKy.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Um encontro entre duas famílias completamente diferentes vai afetar a vida de todos. A dona de casa perfeita Elena Richardson aluga a casa de hóspedes à Mia Warren , uma artista solteira e enigmática que se muda para Shaker Heights com sua filha adolescente. Em pouco tempo, as duas se tornam mais do que meras inquilinas: todos os quatro filhos da família Richardson se encantam com as novas moradoras de Shaker. Porém, Mia carrega um passado misterioso e um desprezo pelo status quo que ameaça desestruturar uma comunidade tão cuidadosamente ordenada.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dd22531ca2493eab964ec0b631ed98bbb428225$$lsname=[B]Episodio 01 ao 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc5b3007bddc8fc407ec5caa757cdc77b0efb3a3$$lsname=[B]Episodio 03 ao 08[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wuVngWpJNrhojvkbYibosycSUKy.jpg</thumbnail>
+</item> 
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Colony[/B] [COLOR yellow][I](7.4)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/cjcm872znywHdDAGTk8aMSbWJWu.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Num futuro próximo, Los Angeles foi isolada e dividida com uma muralha por uma força ocupacional desconhecida. “Colony” é centrada numa família dilacerada por forças opostas que lutam por equilibrar decisões difíceis para ficarem juntos enquanto tentam sobreviver na nova ordem mundial. Enquanto algumas pessoas optam por colaborar com as autoridades beneficiando da ocupação, outros insurgem-se e sofrem as consequências. O ex-agente do FBI Will Bowman tem um papel mais complicado visto que foi forçado a colaborar com o governo do procurador a fim de proteger a sua família e recuperar o seu filho que foi separado durante a invasão inicial.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1151c8a007a1dce086bcb4aa6a6fbb8c6131193</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/cjcm872znywHdDAGTk8aMSbWJWu.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1101d800561f054d2832968fdf42f4f10ac79195$$lsname=[B]Episodio 01 ao 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b124d2b3d5582eafc61593fabb8b8aa33b6c0241$$lsname=[B]Episodio 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5548be22ae1220d105be558c9e3ec060c7c4d9ee$$lsname=[B]Episodio 04 ao 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:101b110854b4570657c6a9a76aca607244d6381e$$lsname=[B]Episodio 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fc36bfe0261bc1227d68dc6249efe20c74e302c$$lsname=[B]Episodio 07[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0f69fe0f459852606af0e4f77347c37bbe77d1f$$lsname=[B]Episodio 08[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2133eb56fc1ed34d30b4f72230b576e33f05abbb$$lsname=[B]Episodio 09[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9787d56cf5355f3b2caef4ffd2e4a486abc08b78$$lsname=[B]Episodio 10[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:640da1eabdfcd06d34334d7ce525cef03372bfcc$$lsname=[B]Episodio 11[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60e88337728dac377c1ad7f3a45f6b5f92b31233$$lsname=[B]Episodio 12[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cbd394388d6c26f4b51ce59961c49d54691194d$$lsname=[B]Episodio 13[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/i1h9scSjLVAwBc1ISohOQyjJWFg.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bc07e8bcdbcb8226e3ebb7c51682400796f46f4$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:760be67c1fc88f565baf04eca4d525608d838c65$$lsname=[B]Episodio 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c05c5cd38a1ac9a0ae52714583b95b3736cc22f$$lsname=[B]Episodio 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc39df0d3624c109b1c4c9d12a012c70b1f5b3cd$$lsname=[B]Episodio 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:615aad8829de80f71976cdc3d720d50820a4fc32$$lsname=[B]Episodio 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76501280ae8e5c13126a56c698797bc57d6298a1$$lsname=[B]Episodio 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b6fd546429cef1da0ed5aa5bb5c95e5ac0f7e8a$$lsname=[B]Episodio 07[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec81ff19eb99adb62fc15d2912bf073fe1c083fb$$lsname=[B]Episodio 08[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9d909482783e8b5b9f75485b6620a39ff778782$$lsname=[B]Episodio 09[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdf7a4320f788741cf690740a9ac438cdb26a8ef$$lsname=[B]Episodio 10[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f722b3c3bdd23e376fefe7f42598f38e040629b6$$lsname=[B]Episodio 11[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf59a3c2ca6e39e87de6b5a19ee7e1bc12d3de90$$lsname=[B]Episodio 12[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4b29fb23cfdb40ddf39c2dc777ec21c07bde557$$lsname=[B]Episodio 13[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/bY9VrcbMqlyPM70edewjgB96RJT.jpg</thumbnail>
+</item> 
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Alice in Borderland[/B] [COLOR yellow][I](8.0)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/hHzmuuXYIBqzKc7bgNpIGfu9eED.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Um gamer e dois amigos são transportados para uma versão paralela de Tóquio, onde precisam participar de diversos jogos mortais caso queiram sobreviver.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac433039c1b16eaa02fc16bc7df1c92b5e57b10e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hHzmuuXYIBqzKc7bgNpIGfu9eED.jpg</thumbnail>
+</item> 
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Chacrinha – A Minissérie[/B] [COLOR yellow][I](N/A)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/zHdoe1Z6tWDrBnHOdZjjjsthIVA.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]A minissérie mostra a personalidade mítica do comunicador revolucionário e inovador, que mudou a forma de fazer TV no Brasil; e a do homem por trás do visual irreverente e inconfundível.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0398f0d6b8ddf9c90111bc1925e514623fecc8cf</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zHdoe1Z6tWDrBnHOdZjjjsthIVA.jpg</thumbnail>
+</item> 
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]O Negócio[/B] [COLOR yellow][I](8.1)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/iwO0u27lr8nGcZrG1nuvWeQJS9v.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) são profissionais naquilo que fazem. Sem perspectiva de melhorar a profissão, elas percebem que por trás de qualquer bom trabalho há uma excelente estratégia de marketing. Então, por que não aplicar essas técnicas à profissão mais antiga do mundo? Assim, as três garotas de programa estão prestes a se tornar mulheres de negócio.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f052aee407cc7f06f78791c895b1b756df44570</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/iwO0u27lr8nGcZrG1nuvWeQJS9v.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f91b04a84f6c81cc7f9eba5736a070161c9852f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mRQhHfk0dhcZJr6DbNLv0G3OhYe.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9d125c652c64e395101144e83b39ca0148bcea4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sWylvurRIUnt3FxAhTcYXk9lZmT.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]4ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78cb64c910768571f88cb35bbbfdbbb7e46b6412$$lsname=[B]Episodio 01 ao 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a56f35f9f4589fae8b072e7a769e9f5025fde9e0$$lsname=[B]Episodio 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:628e5e4fb59afb95f5c5ed9457aad49540e940f9$$lsname=[B]Episodio 07 ao 08[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:206a97d556b7229176e8a3985b715b2529ef0d83$$lsname=[B]Episodio 09[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8096b2021986acb71ad1c8003962caecbc42ed75$$lsname=[B]Episodio 10[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4f376b9868aa6fac9a98f9f1dd6e6c8cd453115$$lsname=[B]Episodio 11[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fbbb9820f6eb6c1d27dd059656646e8a794b127$$lsname=[B]Episodio 12[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zYZGX77myhmi6tn6zpaBwik6Ttk.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
 <name>[B]Nevenka: Quebrando o Silêncio[/B] [COLOR yellow][I](6.5)[/I][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/3A8BqkyEt30w6fUxmPBdj7QzyPx.jpg</thumbnail>
 <info>[COLOR cyan] Sinopse:[/COLOR]A história do primeiro caso de assédio sexual na Espanha foi um escândalo. Nevenka Fernández, sua protagonista, discute isso neste documentário</info>

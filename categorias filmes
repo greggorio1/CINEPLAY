@@ -14,30 +14,23 @@
 </channel>
 </channels>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels></channels>
+<channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Alta Resolução[/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://thumbs.dreamstime.com/b/de-k-logotipo-do-formato-ultra-hd-com-letras-brilhantes-do-cromo-78856082.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4k%20imax</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
 [B]Categoria para quem deseja assistir filmes em 4K / IMAX ou REMUX![/B]
 
 [B]Necessario um bom processador e boa internet. Nao roda em MXQ.[/B]
 
-[B][COLOR yellow]Atualizado em[/COLOR]: 12/03[/B]</info>
 
-<item>
-<title>[B]4K[/B]</title>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4k</externallink>
-<thumbnail>https://www.copeltelecom.com/site/wp-content/uploads/2016/11/iStock-504448596.jpg</thumbnail>
-</item> 
+[B][COLOR yellow]Atualizado em[/COLOR]: 12/03[/B]
 
-<item>
-<title>[B]Imax/Open Matte[/B]</title>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Imax</externallink>
-<thumbnail>https://assets.b9.com.br/wp-content/uploads/2018/09/imax-b9.jpg</thumbnail>
-</item> 
+</info>
 </channel>
-
+</channels>
 
 
 

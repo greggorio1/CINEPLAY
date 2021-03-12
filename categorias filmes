@@ -14,38 +14,20 @@
 </channel>
 </channels>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels>                                                     
-<channel>
-<name>[COLOR green]▲[/COLOR][B]Imax/Open Matte[/B] | [B][COLOR cyan](Novidade)[/COLOR][/B]</name>
-<thumbnail>https://tommo.com.br/wp-content/uploads/2018/02/imax.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Imax</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-[B]Sinta o poder do cinema na sua casa! Aba recomendada para televisores com +50 polegadas ou projetores.[/B]
-
-
-
-[B][COLOR yellow]Atualizado em[/COLOR]: 04/03[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: 39 Filmes[/B]
-[B][COLOR red]Total[/COLOR]: 39 Filmes[/B]
-</info>
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]4k[/B] </name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/4K.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4k</externallink>
+<name>[COLOR green]▲[/COLOR][B]Alta Resolução[/B]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
-[B][COLOR yellow]Atualizado em[/COLOR]: 10/03[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: 07 Filmes[/B]
-[B][COLOR red]Total[/COLOR]: 203 Filmes[/B]
+[B]Categoria para quem deseja assistir filmes em 4K / IMAX ou REMUX![/B]
 
-[COLOR red]AVISO[/COLOR]:[COLOR yellow][B]Filmes com as mais altas qualidades. Necessita de uma boa internet e um bom processador![/B][/COLOR]
+[B]Necessario um bom processador e boa internet. Nao roda em MXQ.[/B]
 
 
+[B][COLOR yellow]Atualizado em[/COLOR]: 12/03[/B]
 
 </info>
 </channel>

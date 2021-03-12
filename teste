@@ -1,7 +1,23 @@
+<channels></channels>
+<channel>
+<name>[COLOR green]▲[/COLOR][B]Alta Resolução[/B]</name>
+<thumbnail></thumbnail>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+[B]Categoria para quem deseja assistir filmes em 4K / IMAX ou REMUX![/B]
+
+[B]Necessario um bom processador e boa internet. Nao roda em MXQ.[/B]
+
+[B][COLOR yellow]Atualizado em[/COLOR]: 12/03[/B]</info>
+
 <item>
-<title>[COLOR yellow][B]Um lugar silencioso[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd9430ca129ba62b75c42a1f6c34d1a4d1002d36</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/18/03/01/20/26/0577579.jpg</thumbnail>
-<info> 
-</info>
-</item>
+<title>[B]4K[/B]</title>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4k</externallink>
+<thumbnail>https://www.copeltelecom.com/site/wp-content/uploads/2016/11/iStock-504448596.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Imax/Open Matte[/B]</title>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Imax</externallink>
+<thumbnail>https://assets.b9.com.br/wp-content/uploads/2018/09/imax-b9.jpg</thumbnail>
+</item> 
+</channel>

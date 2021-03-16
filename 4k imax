@@ -10,6 +10,7 @@
 </channel>
 </channels>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>                                                     
 <channel>
@@ -19,5 +20,23 @@
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 [B]Aba feita para as tvs que nao suportam [COLOR cyan]4K(3840X2160)[/COLOR]! Filmes aqui estao em [COLOR cyan]IMAX ULTRA FULL HD (1980x1080)[/COLOR][/B]
-[B][COLOR red]Total[/COLOR]: 39 Filmes[/B]
+[B][COLOR red]Total[/COLOR]: 40 Filmes[/B]
 </info>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>                                                     
+<channel>
+<name>[COLOR red]▼[/COLOR][B]Remux[/B] </name>
+<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/4K.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4k</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR red]Total[/COLOR]: ?? Filmes[/B]
+
+[B][COLOR cyan] Remux[/COLOR] tem a qualidade total, sem nenhuma perda de qualidade.[/B]
+
+[B][COLOR yellow]Necessario[/COLOR]:Ajuste de buffer / bom processador /boa internet(+50mb)[/B]
+</info>
+</channel>
+</channels>

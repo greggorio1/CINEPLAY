@@ -812,21 +812,79 @@
 </item> 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]Saga Harry Potter Em[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df7a584072e09105313964314555806c49bd46f7$$lsname=[COLOR yellow] Pedra Filosofal[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bee62d2e777dbc4b1cd499e9df193acc1508fe49$$lsname=[COLOR yellow]Câmara Secreta[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad83f178346c275d3de93a00fb8aabd0a6bb2eb0$$lsname=[COLOR yellow]Prisioneiro de Azkaban[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7005de9ada47e5334e631c21b85f8549df2fe1f2$$lsname=[COLOR yellow]Cálice de Fogo[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b7f8146a2a25beb19f6516240b3d76abf815562$$lsname=[COLOR yellow]Ordem da Fênix[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:436fc796022e8cffec1128c3ecdeb0f1f3496722$$lsname=[COLOR yellow]Enigma do Príncipe[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42ab6dfe87fa90d0689da31dbc17ad9aed01818$$lsname=[COLOR yellow]Relíquias da Morte – Parte 1[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c1e06e36df779cb839f8cd1a41cd429dbe73b0$$lsname=[COLOR yellow]Relíquias da Morte – Parte 2[/COLOR]</link>
+<title>[COLOR yellow][B]Harry Potter e a Pedra Filosofal[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df7a584072e09105313964314555806c49bd46f7</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg</thumbnail>
-<genre>4K</genre>
+<info> 
+</info>
+</item>
 
-</item> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Harry Potter e a Câmara Secreta[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bee62d2e777dbc4b1cd499e9df193acc1508fe49</link>
+<thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/19592-cartaz.jpg</thumbnail>
+<info> 
+</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Harry Potter Prisioneiro de Azkaban[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad83f178346c275d3de93a00fb8aabd0a6bb2eb0</link>
+<thumbnail>https://a-static.mlcdn.com.br/1500x1500/dvd-harry-potter-e-o-prisioneiro-de-azkaban-daniel-radclif-warner-home-video/theoriginals/4480389218/68db78b1a254f9b0b34765ed8fbbca6d.jpg</thumbnail>
+<info> 
+</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Harry Potter e o Cálice de Fogo[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7005de9ada47e5334e631c21b85f8549df2fe1f2</link>
+<thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/93/87/95/20282862.jpg</thumbnail>
+<info> 
+</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Harry Potter Ordem da Fênix[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b7f8146a2a25beb19f6516240b3d76abf815562</link>
+<thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/7765-cartaz.jpg</thumbnail>
+<info> 
+</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Harry Potter Enigma do Príncipe[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:436fc796022e8cffec1128c3ecdeb0f1f3496722</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81irhjzNBeL._AC_SY550_.jpg</thumbnail>
+<info> 
+</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow]Harry Potter e as Relíquias da Morte – Parte 1[B][/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42ab6dfe87fa90d0689da31dbc17ad9aed01818</link>
+<thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/7767-cartaz.jpg</thumbnail>
+<info> 
+</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Harry Potter e as Relíquias da Morte – Parte 2[/B][/COLOR] [COLOR cyan][B]4K[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c1e06e36df779cb839f8cd1a41cd429dbe73b0</link>
+<thumbnail>https://veja.abril.com.br/wp-content/uploads/2016/06/poster-de-harry-potter-e-as-reliquias-da-morte-parte-2-original.jpeg</thumbnail>
+<info> 
+</info>
+</item>
+
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

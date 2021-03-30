@@ -15,6 +15,55 @@ Os Croods 2: Uma Nova Era é uma aventura sobre uma família pré-histórica que
 
 </item> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Deixe-o Partir[/B][/COLOR] [COLOR cyan]|[B] (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50a87525421cc23e9adcb43aa228cf2a4b777a8b$$lsname=[COLOR white]1080p[/COLOR]</link>1
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e60c2ad0f16ca9c5be1953d8891cc122ca209582$$lsname=[COLOR white]1080p Full Hd[/COLOR]</link>2
+<thumbnail>https://image.tmdb.org/t/p/w342/cjeMm5GOymDlnruhf7s1YpvMI0h.jpg</thumbnail>
+<info>George (Kevin Costner) e sua esposa Margaret (Diane Lane) perdem o filho, e deixam seu rancho em Montana para resgatar o neto das garras de uma família perigosa que vive em Dakota, chefiada pela matriarca Blanche Weboy. Quando descobrem que os Weboys não têm intenção de deixar a criança ir embora, George e Margaret não têm escolha a não ser lutar pela família.</info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Bad Trip[/B][/COLOR] [COLOR cyan]|[B] (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b4151a4e49a1a99d00560dbe496ddf1957756a6</link>1
+<thumbnail>https://www.themoviedb.org/t/p/w342/A1Gy5HX3DKGaNW1Ay30NTIVJqJ6.jpg</thumbnail>
+<info>De um dos criadores de Jackass e Vovô Sem Vergonha, a comédia acompanha com uma câmera escondida dois melhores amigos em uma viagem de carro pelos Estados Unidos cheia de pegadinhas hilárias e criativas com o público. Bad Trip é estrelado por Eric Andre, Lil Rel Howery, Tiffany Haddish e Michaela Conlin. O filme tem direção de Kitao Sakurai; roteiro de Dan Curry, Kitao Sakurai e Andre; e produção de Andre, Jeff Tremaine, David Bernad e Ruben Fleischer.</info>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Big Pai, Big Filho 2[/B][/COLOR] [COLOR cyan]|[B] (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6674399f7c48e87475c70cc095c47f6a0ec7a725$$lsname=[COLOR white]1080p[/COLOR]</link>1
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:000c275510f8a90dace75f0991779320c8b8792a$$lsname=[COLOR white]1080p Full Hd[/COLOR]</link>2
+<thumbnail>https://a.imagem.app/Asr3P9.jpg</thumbnail>
+<info>O pé grande usa sua nova fama para lutar contra uma empresa de petróleo do Alasca, mas quando ele desaparece, o filho, a mãe, um guaxinim e um urso dirigem-se ao norte para resgatá-lo.</info>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Monster Hunter[/B][/COLOR] [COLOR cyan]|[B]Atualizado (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5730dc09f510038de225e9e0ad9321361232a629</link>1
+<thumbnail>https://image.tmdb.org/t/p/w342/2QhhILPAv7MKFd1q57ssQeEV2su.jpg</thumbnail>
+<info>Baseado no jogo da Capcom chamado Monster Hunter, a tenente Artemis e seus soldados são transportados para um novo mundo. Lá, eles se envolvem em batalhas imponentes, buscando desesperadamente a sobrevivência contra bestas gigantes portadoras de habilidades surreais.</info>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR yellow][B]Tom & Jerry – O Filme[/B][/COLOR] [COLOR cyan]Atualizado (2021)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00ea7ce75c42176095d89be23af2d3d6aaf3f61f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w342/e06BpqZIxRSpvNSbItcGcgs0S5I.jpg</thumbnail>
+<info> Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.</info>
+
+</item> 
+
+
+
+
 <item>
 <title>[COLOR yellow][B]Liga da Justiça: Snyder Cut[/B][/COLOR] [COLOR cyan]| (2021)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29615f14945488a686e822bc7caeb5dad73ea35c$$lsname=[COLOR yellow][B]1080p Imax[/B][/COLOR]</link>
@@ -85,14 +134,6 @@ Os Croods 2: Uma Nova Era é uma aventura sobre uma família pré-histórica que
 </item> 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>[COLOR yellow][B]Tom & Jerry – O Filme[/B][/COLOR] [COLOR cyan](2021)[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ff89f8eff0bc3afcb889c710f5d462b357c7714</link>
-<thumbnail>https://www.themoviedb.org/t/p/w342/e06BpqZIxRSpvNSbItcGcgs0S5I.jpg</thumbnail>
-<info> Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.</info>
-
-</item> 
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

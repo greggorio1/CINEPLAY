@@ -10,6 +10,51 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[COLOR yellow][B]Atlantique[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/frR4y7647iqEH7uL8Dkhc4eVAMQ.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Ada é uma menina de 17 anos apaixonada por Souleimane, um jovem pedreiro que está trabalhando na construção de um prédio futurista à beira mar no subúrbio de Dakar, no Senegal. O único problema é que ela foi prometida para outro homem.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e383129fd0e11e0c1e99a424cf26448d954afc70</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/frR4y7647iqEH7uL8Dkhc4eVAMQ.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd292582b38dc00f9a289399a781b947e3b5397b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/frR4y7647iqEH7uL8Dkhc4eVAMQ.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Moonlight: Sob a Luz do Luar[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/AekOkoT88EhDHikUQXQcKri2q4B.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B] Uma história atemporal de relações humanas e autoconhecimento, o drama Moonlight narra a vida de um jovem afro-americano desde a infância até a vida adulta e a luta dele para encontrar seu lugar no mundo enquanto cresce num bairro violento de Miami. Ao mesmo tempo um retrato essencial da vida contemporânea do afro-americano e uma reflexão intensa, pessoal e poética sobre identidade, família e amizade, a produção independente Moonlight é ainda uma obra de cinema inovadora que ecoa uma profunda compaixão e verdades universais. Ancorada em extraordinárias performances de um talentoso elenco, a direção estupenda de Barry Jenkins traz sua visão única e profundamente comovente sobre o caleidoscópio de momentos, pessoas e forças desconhecidas que determinam nossas vidas e nos fazem ser quem somos.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdb934d6bc94a51b26393caed6489ee56a15df78$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:183215a3eb6d1dd49772f1fc9bdeced74986262a$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/AekOkoT88EhDHikUQXQcKri2q4B.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbe24e29cd49ab2923dc927b467aa594b73a119a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/AekOkoT88EhDHikUQXQcKri2q4B.jpg</thumbnail>
+</item>
+</channel>
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+<channels></channels>
+<channel>
 <name>[COLOR yellow][B]127 Horas[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/lJazel1knaYGfJ2m6CcnDOLHrLg.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</info>
@@ -3980,3 +4025,246 @@ Um mágico chamado Eisenheim compete com o Príncipe Leopoldo, herdeiro do trono
 <thumbnail>https://image.tmdb.org/t/p/w342/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg</thumbnail>
 </item>
 </channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Crimes em Primeiro Grau[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/xYN9YlrJZlKbrqgcL3fIwsRROeA.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Claire Kubik (Ashley Judd) é uma promotora de sucesso que tem um casamento feliz com Tom Chapman (James Caviezel), até que é surpreendida com a revelação de que seu marido tem um passado escondido como integrante do exército norte-americano. Tom é acusado de ter participado em um massacre em El Salvador, sendo preso por esta acusação até que seu julgamento na corte militar ocorra. Ainda atordoada com o ocorrido e em dúvida sobre seu marido, Claire decide defendê-lo no julgamento e para tanto recebe a ajuda de Charles Grimes (Morgan Freeman), um promotor militar.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c303dd60c3232bd5bb642888b5fd90c0fc035bd8</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xYN9YlrJZlKbrqgcL3fIwsRROeA.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Álbum de Família[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/fvjxr77dfxdIOY3lvj0bHP4B5xT.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Barbara (Julia Roberts), Ivy (Julianne Nicholson) e Karen (Juliette Lewis) são três irmãs que são obrigadas a voltar para casa e cuidar da mãe viciada em medicamentos e com câncer (Meryl Streep), após o desaparecimento do pai delas (Sam Shepard). O encontro provoca diversos conflitos e mostra que nenhum segredo estará protegido. Enquanto tenta lidar com a mãe, Barbara ainda terá que conviver com os problemas pessoais, com difíceis relações com o ex-marido (Ewan McGregor) e com a filha adolescente (Abigail Breslin).</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca2a33d01892adb35d255deeed86c94d8261b880$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:390fc94806bf668cc34f2e95ad4a79fc4dfe91d0$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fvjxr77dfxdIOY3lvj0bHP4B5xT.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bb8aad28865077632124b53dd4a34d70bccf16e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fvjxr77dfxdIOY3lvj0bHP4B5xT.jpg</thumbnail>
+</item>
+</channel>
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Revólver[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/rzpUAdFdZr8Zoxx0LZrl1da0e15.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Jake Green é um jogador audacioso e sem bom senso que passou sete anos na prisão por um crime que não cometeu depois de ter caído nas armadilhas do maldoso chefão do crime Dorothy Macha. Agora que Jake está livre, vai se vingar do chefão criminoso com a ajuda de Avi e Zach.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:539161e95d30390101d02fef650664494ea79da4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rzpUAdFdZr8Zoxx0LZrl1da0e15.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58ac4697c6e4a20099f4ffbd86eaaaa5438877bf</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rzpUAdFdZr8Zoxx0LZrl1da0e15.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]ATL: O Som Do Gueto[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/ccqiQMSUEBwey70EithEpKRv53v.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]“ATL” conta a história de quatro adolescentes da classe operária de Atlanta chegando a uma idade na vizinhaça onde a música hip-hop e o skate são as palavras de comando.
+Enquanto o grupo se prepara para uma vida após o Ensino médio, desafios dentro e fora das pistas de patinação trazem pontos de reviravolta nas vidas dos quatro.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eab728d8044e233f092fcadb186d366e8e8e666b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ccqiQMSUEBwey70EithEpKRv53v.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34d207cb42156dbc84e61095f31f7c3d0eb7f1d4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ccqiQMSUEBwey70EithEpKRv53v.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Alpha Dog[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/t9pirEsDxe102mSQGoDZWBbdcCD.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Johnny Truelove (Emile Hirsch) é um traficante de drogas de 2ª categoria em uma região confortável em San Gabriel Valley, em Los Angeles. Johnny e seus amigos vivem isolados em uma vida suburbana e, com muito tempo livre, levam a vida em busca de festas e emoções fortes. Quando Jake Mazursky (Ben Foster) não consegue o dinheiro que deve a Johnny, ele decide sequestrar Zack (Anton Yelchin), o irmão mais novo de Jake. Rumo a Palm Springs, Johnny e sua gangue decidem manter Zack como garantia e passam a levá-lo para festas, deixando-o sob responsabilidade de Frankie Ballenbacher (Justin Timberlake). Logo Zack passa a viver uma fantasia de verão, já que está afastado dos pais e rodeado de bebidas, garotas e novas experiências. Ao mesmo tempo ele se torna um companheiro de Johnny e sua gangue, que deixam de vê-lo como um refém.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb3ac4a7d5ed5a8357662737282ae7dd013de11a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/t9pirEsDxe102mSQGoDZWBbdcCD.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c042dc8d5d3a1f3e6adcb032ce8604e42b4554ac</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/t9pirEsDxe102mSQGoDZWBbdcCD.jpg</thumbnail>
+</item>
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Corpo Fechado[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/hChypogemWXQ2AU7uKut0gXqcBT.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Um espantoso desastre de trem deixa os Estados Unidos em choque. Todos os passageiros das locomotivas acabam mortos, exceto David Dunne, que sai completamente ileso do acidente, deixando todos, inclusive os médicos e ele próprio, em choque. Enquanto busca explicações sobre o que poderia ter salvado sua vida, David encontra Elijah Price, um desconhecido que apresenta uma explicação no mínimo bizarra para o fato.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5076d45f6ac8f71024fe7cf9cdb86201786f6d93$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca9b57fb5db1e9a009ed0cd217af257a49786406$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hChypogemWXQ2AU7uKut0gXqcBT.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eaae0e19493c45ef637a863f07dfeab10c318abc</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hChypogemWXQ2AU7uKut0gXqcBT.jpg</thumbnail>
+</item>
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Taxi Driver: Motorista de Táxi[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/wOi8s0WQZYlTDkWB46Z6p3ji5Fq.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]O motorista de táxi de Nova York Travis Bickle, veterano da Guerra do Vietnã, reflete constantemente sobre a corrupção da vida ao seu redor e sente-se cada vez mais perturbado com a própria solidão e alienação. Apesar de não conseguir fazer contato emocional com ninguém e viver uma vida questionável em busca de diversão, ele se torna obcecado em ajudar uma prostituta de 12 anos que entra em seu táxi para fugir de um cafetão.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a9cd1fcf14543a52701aa588976fb3ce5816a0b$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c143dcf7a8f8a9189428bd44f8c7a31009f595a4$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wOi8s0WQZYlTDkWB46Z6p3ji5Fq.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fab522907f1faf9d0ed6bcadc6a9e7c84b112ccb</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wOi8s0WQZYlTDkWB46Z6p3ji5Fq.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]A Vila[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/rKPMAssCxiioVrwQqMBJbsou9zN.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Os habitantes de uma comunidade cercada por uma floresta temem que perigosas criaturas vivam lá. Eles pensam que se ficarem fora da floresta, eles serão deixados ilesos. Quando uma das moradoras da vila fica doente, o menino que a ama ignora os mais velhos da vila para ir à próxima cidade em busca de remédio.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cd8e12373f598b0dd2c8b56bc8e39cd95e89b74$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc223659ea7a0b496d8e9f3cb95398d8199deedf$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rKPMAssCxiioVrwQqMBJbsou9zN.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:110218ed476336133babafdf2ce5f5af14b94e3b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rKPMAssCxiioVrwQqMBJbsou9zN.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Joias Brutas[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Howard Ratner (Adam Sandler) é um joalheiro carismático de Nova York que está sempre tentando ganhar mais dinheiro. Depois que faz uma série de apostas arriscadas, parece que o futuro vai sorrir para ele. Mas, em sua busca pela bolada final, Howard precisará de uma atuação perfeita para equilibrar negócios, família e os inimigos que estão cada vez mais próximos.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34d57cda0059803e136b373e7edfcfecec32e600$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:224a777f147ca5ccb786d2cdb396c332c40f4e5f$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b162e674894d1c27410326cee12c9ba876418e09</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Dois Papas[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/zqej6JbM15wolmXe3KqnZEtak1O.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]A relação e as diferentes visões dos dois líderes mais importantes e poderosos da Igreja Católica na época, o Papa Bento XVI (Anthony Hopkins) e o Cardeal Jorge Mario Bergoglio (Jonathan Pryce), que depois veio a ser o Papa Francisco.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e8d0faf9e6ea55b5e10f0369e6e917e30402559$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b60ed60ad148219100035dd49eba678a16a51382$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zqej6JbM15wolmXe3KqnZEtak1O.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e4fc1aca759d2443b88ee5666455c93d10cea93</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zqej6JbM15wolmXe3KqnZEtak1O.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Rush: No Limite da Emoção[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/va0WgAJBvrdIUnr0uetSqidNG6N.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B] Anos 1970. O mundo sexy e glamouroso da Fórmula 1 é mobilizado principalmente pela rivalidade existente entre os pilotos Niki Lauda (Daniel Brühl) e James Hunt (Chris Hemsworth). Eles possuíam características bem distintas: enquanto Lauda era metódico e brilhante, Hunt adotava um estilo mais despojado, típico de um playboy. A disputa entre os dois chegou ao seu auge em 1976, quando ambos correram vários riscos dentro do cockpit para que pudessem se sagrar campeão mundial de Fórmula 1.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e5f3187882b6dacf423079fbe9abd88c358d32b$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:765ede7e420b512d5466c0f6143848a5131d48f2$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/va0WgAJBvrdIUnr0uetSqidNG6N.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9e92954339bbae593fd6b77211302a7f1dedd6</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/va0WgAJBvrdIUnr0uetSqidNG6N.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Nada Santo[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/eAPBxSKZFdPVqDmHeIMcX39mokL.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Nos anos 80, na plena época do maior boom econômico que Milão atravessou no último século, o gângster Santo Russo (Riccardo Scamarcio) iniciou a trajetória de sua ascensão no mundo do crime. Excêntrico e peculiar, ele usa de seu carisma e excessos para conquistar, aos poucos, a confiança da máfia italiana.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:177d75440d3fc14ebfd5f6667863b35ec6aeae6b$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb04cdc0e05e2c437daf95bcfb53d21d00cd0a37$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/eAPBxSKZFdPVqDmHeIMcX39mokL.jpg</thumbnail>
+</item> 
+</channel>
+

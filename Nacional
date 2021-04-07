@@ -1,6 +1,22 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[COLOR yellow][B]Serra Pelada[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/vkTVhx0ifMgYjyXbCOtA50KtDtX.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B] Juliano e Joaquim são grandes amigos que deixam São Paulo com destino à Serra Pelada, o maior garimpo a céu aberto do mundo, localizado no estado do Pará. Sonhando com a riqueza, a vida dos dois muda por conta de violência e ganância.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db4aeeedb8d6683789b266369c46009f6d21589f$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb3a39b97eb201ede1e65a9ba6fa90389d6e6a7c$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/vkTVhx0ifMgYjyXbCOtA50KtDtX.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
 <name>[COLOR yellow][B]Lampião e Maria Bonita (1982)[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/mYtSxM1NTQuAJ2w1k9iEHTiRAyA.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B]Adaptação da série exibida em 1982. Os últimos dias de Lampião e Maria Bonita apresentados a partir do sequestro do geólogo inglês Steve Chandler e o pedido de resgate ao governador da Bahia. Em Salvador, um jornalista descobre que Argemiro, o irmão honesto e trabalhador de Lampião, pode ser preso para forçar o cangaceiro a soltar o inglês.</info>

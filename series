@@ -1,6 +1,335 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[B]Falcão e o Soldado Invernal[/B] [COLOR yellow][I](8.0)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR] Após os eventos de “Vingadores: Ultimato”, Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura que testa suas habilidades – e a paciência.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d07111bc84019f4d17292d30374a684a013ee2a$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b5287128ba442691fad388f1ec56ba27dbe307b$$lsname=[B]Episodio 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:767efd2d86e3c016bdf8eabad63beb191f745251$$lsname=[B]Episodio 03[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Arqueiro[/B] [COLOR yellow][I](7.6)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras do playboy que se torna super-herói e luta contra vilões armado apenas com arco e flechas.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dce9c9f84c560be50938d66f34c7f9959b0f580</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nDQUuQ15p1OoPYfQMMKXUsCQ1Xc.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfefde56b23f149168a916e03026a41caff30c77</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3RIGOnhlA1MdrBKHJEzQnCay2Zd.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f5ccfc3a3828e9d0f87041bd29ebe1953999cc2</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/hiyzwzv9PZBIhHyGX0cxUDelYWk.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]4ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:280fd68c57e51663fb559ba2c4a9b3b161d88244</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/3yvo3F6zYf0KQaYeKTvBUfb4mr1.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]5ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ae429fa7d7eddf0d8556c40438cd0b54898c4fc</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kxNiIRlYLLpEOFp2MCeGwdMMUwZ.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]6ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d327c4dfcc38e3fae684212c8faac7524c7e86e$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:198a4f860006c4086dff5ccdeca5d5d413866076$$lsname=[B]Episodio 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c7c8cfe2c5ec95facb8f9581340380bc83119ce$$lsname=[B]Episodio 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:594d45da59377e61067e6d8504aac95666dce72b$$lsname=[B]Episodio 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:012eeea71e687f5f85728af9d42e9bf17edad266$$lsname=[B]Episodio 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:506b511ba4f03652b666223b72a7de1ceac70997$$lsname=[B]Episodio 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d2340ab9f2035d803a9639a4b1a87215f827f2a$$lsname=[B]Episodio 07[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c936cc3f1413b037716a0e7ff7ac856b87dfaba$$lsname=[B]Episodio 08[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dff522d4cc151a97acaeeb45442ddb08bbe3e1d$$lsname=[B]Episodio 09[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45614724e17e199e2a115f8a215a8a512893a3eb$$lsname=[B]Episodio 10[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43be0c2b3c1e2c2a9f3b6bc35b2ff722eebfb12f$$lsname=[B]Episodio 11 e 12[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:199596d8af47dc8a10319bff80dc5467e45c3446$$lsname=[B]Episodio 13[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b242bd017c63f07b139cbe71a3d733d613582c1$$lsname=[B]Episodio 14[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c288882eedf40283c0b54ab4ef90195ca13d747$$lsname=[B]Episodio 15[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d61ee1e5057f5915686f5787145d80a90986624$$lsname=[B]Episodio 16[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:025639d1fcfabcbbe30eb7eb4d694fc0ffbd46f7$$lsname=[B]Episodio 17[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:482fdc3dc3dba5747d5ce052e20cb895afd1ec98$$lsname=[B]Episodio 18[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bfd0b8366905aeefcbff95f27c8ff6bf85b5512$$lsname=[B]Episodio 19[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:607ffe5fc1dc7cae3345ead8d2cad3733a2bc22b$$lsname=[B]Episodio 20[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26d487a6307dee2b9f49779f4481243e964b2992$$lsname=[B]Episodio 21[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04c90d205ceebafb0d16d11e1d5e099baa9eaed3$$lsname=[B]Episodio 22[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ff288287f22bbed9051405dc42d3f24e6f220e5$$lsname=[B]Episodio 23[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ypQBtTbpKpp24p3PQimCWy4Ztpv.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]7ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f04d37b829e4365565383d66244d6741bd029f3$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97670aefed6b68bd022a7cbf2c1b0c2c1d4af7ba$$lsname=[B]Episodio 02 ao 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46d35a06e64f01d35f15e7a4216042cc3460897a$$lsname=[B]Episodio 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4434f8f053957a59357cc746fee9c8eb4bda77ea$$lsname=[B]Episodio 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:864a61d0435aee3444cc5f19672bde7a57809a31$$lsname=[B]Episodio 07[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b0398adb27314a7f247d5987868939f127ecbc5$$lsname=[B]Episodio 08 ao 10[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47c39a8ebd11f3549feed1d6d82ecbb2cf0c2991$$lsname=[B]Episodio 11[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad4e07ea5ce1ccfae45c11f164828df4bdb59415$$lsname=[B]Episodio 12[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24ff18d6a5f840c755140436d67dbc37be1c1369$$lsname=[B]Episodio 13[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1baa245862fbd10bdff0a9da58d1fe3a8e54d6b8$$lsname=[B]Episodio 14 ao 15[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cfe68544f1c67dcbc7c268a785f4e34b79300c9$$lsname=[B]Episodio 16 ao 17[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d68161699abf3f7d4b7cfa75ff31ca69076435db$$lsname=[B]Episodio 18 ao 19[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e33c5f1845fb5f88e59f8c68037579617251f904$$lsname=[B]Episodio 20 ao 22[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ggkzHq0CBRcCwY5NL2MLaUzGXGW.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]8ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a50ffd7a847c54da37e02d6d1ed200c2536881c8</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]His Dark Materials Fronteiras do Universo[/B] [COLOR yellow][I](7.9)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/fNm2Qtt1qG35yN9WTKciteeuNDd.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Em um mundo parecido com o nosso mas habitado por bruxas, ursos guerreiros e daemons, uma valente jovem chamada Lyra descobre um sinistro plano após seu meu melhor amigo de infância ser sequestrado por uma organização secreta.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a0b4971356e698b3ba1e58870c0d95473ce81a9</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fNm2Qtt1qG35yN9WTKciteeuNDd.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e92863f6443a9942f0e106a1fff3f982fa999d6$$lsname=[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c1773c405dc4fd8c5524ed7880e3e918c3a4329$$lsname=[B]Episodio 02[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d08b026ea4a0cdfd1e1a1d778dfb3edb2e755822$$lsname=[B]Episodio 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3954e1bfe0007d85ff5fc4a3e795855acfd79be8$$lsname=[B]Episodio 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1430f9a95752f18bd04a1f68c1e8bef874b06cda$$lsname=[B]Episodio 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37e402df2e954a4d8cb714f455bb79c71c41ac5d$$lsname=[B]Episodio 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b909cc8028e3ac28705c9ec0e8f24f54312221$$lsname=[B]Episodio 07[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rpeYE78gkXlCIZ0aFfWI48qLeiE.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Retaliação[/B] [COLOR yellow][I](8.3)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/5x5gMzDGQUqsKEeUw9DlJsPFLO8.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]O dublê Cha Dal-geon decide investigar a morte do sobrinho em um acidente de avião com a ajuda da agente secreta Go Hae-ri.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aaf0491dc87310563831de077ae4941c5542ee17</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/5x5gMzDGQUqsKEeUw9DlJsPFLO8.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Oz[/B] [COLOR yellow][I](8.7)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/mtz5Pnql5ZiBKncxh7m7whf9jfB.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR] Atrás dos muros da prisão de segurança máxima Oswald Maximum, apelidada pelos prisioneiros de OZ, está um bloco de reabilitação experimental, Emerald City, com alguns dos criminosos mais perigosos do estado. Em Emerald City a tensão é constante e os conflitos são gerados pelas várias facções e grupos étnicos que ali estão confinados. Sob a direção de Tim McManus e Leo Glynn, os internos em Emerald City lutam para satisfazer suas necessidades. Alguns buscam poder, seja poder sobre o tráfico de drogas ou sobre facções rivais. Outros querem dinheiro, obtido com as drogas e apostas. E ainda há outros, carcereiros e prisioneiros, que querem apenas sobreviver o suficiente para conseguir a liberdade condicional, ou mesmo apenas ver o dia de amanhã. A série mostra sem censuras a vida na prisão, com todos os conflitos sendo explicados pelo narrador, Augustus Hill.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ab070645b0ebba4a83af5e86df5157385e8cc83</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mtz5Pnql5ZiBKncxh7m7whf9jfB.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3338ad393234ccba8a31918a02b74a60c04430a5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4vVhQvXw2s8VUOvxzsBI9zZGYhB.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada - Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0401ce11647cd93c77a3892caa84ccd9fda54882</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oSnGYf7jq29Or74JcTbvq6Q4CJo.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]4ª Temporada - Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:461b7c7ae4a00609af58945b17436a563c0721f9</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kRCuEHXjOWS7uoKt4jLIxli1Ezr.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]5ª Temporada - Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e451661b933608bdcfdc37ad355f2df8375c78b4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/ovvzFg1rm1K6Osj3ZoMOCgvTZhr.jpg</thumbnail>
+</item> 
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]The Son[/B] [COLOR yellow][I](7.5)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/9C0fK0L1GE8vykevLaK2jbFDwnd.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR] No meio do século XIX, quando Eli é apenas um adolescente, sua família é atacada pelos índios, que decidem levar o jovem como prêmio. 50 anos depois, Eli é um homem frio e calculista que terá dúvidas em fazer tudo o que estiver ao seu alcance para proteger a sua família e seu negócio.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70ad2aa7cf3a29a4791f7e982a23ed5357250748$$lsname[B]Episodio 01 ao 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89c085e41b20b816ef581043a35ef6685be61f25$$lsname[B]Episodio 05 ao 06[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91b3a7473a4746b4e61dbaf92344737dfb585993$$lsname[B]Episodio 07[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea68e0a494b53879e686bf92efbaf5f352bd7e23$$lsname[B]Episodio 08[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:050fdfa3638c8cd5889954d3b2683e9cea5f7fc0$$lsname[B]Episodio 09 ao 10[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/9C0fK0L1GE8vykevLaK2jbFDwnd.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:814be1e0c85e4c14831107d525a75ee6e4f6c9ae$$lsname[B]Episodio 01[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:621eb491b952d0773b6be2eb5ce48b16e3ff32d2$$lsname[B]Episodio 02 ao 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cdcd8acb979e78aff9e8634e1b91540f2eade73$$lsname[B]Episodio 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56fe3ee88add4471b45b2f70c7ae09f32e8d76bf$$lsname[B]Episodio 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57d74dca1d154c56af44694ad3d8c464bcd42b5e$$lsname[B]Episodio 06 ao 08[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81e52f77caaeb9164aaeac467c9b6db5080a7426$$lsname[B]Episodio 09 ao 10[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oAQKZSvUBGrlDYMkqEPEatZhSmr.jpg</thumbnail>
+</item> 
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Grimm Contos de Terror[/B] [COLOR yellow][I](7.8)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/83D3Obk5yPJrtsMgh72d4C0VgD6.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]O detetive Nick Burkhardt descobre que é o último dos Grimm, seres que protegem o mundo humano dos monstros saídos dos contos de fadas.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac48aa6e7f26f7fd9771bcaad693ab43d40ff90e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/83D3Obk5yPJrtsMgh72d4C0VgD6.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27873ab142ffee1301ae61f8aefd8605a1ab8ffb</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/eD4K8951bEai6bfkN3t5zPI8Iqz.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fcfc9dee4b7da906b130ee495f79cb1562db6c46</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nFXkIKKCG8BPazEtvDFcOpcL8CK.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]4ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:411840e07e675a314321600a2e121281b4a98b21</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/rwSN3Lr6cFdLk5kRVs1mbNDDvZi.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]5ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b9f7e5c066b0e0bfd26fbe8fd044eefb7e96a58</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yiPNb9wMzy0pIDRzeQWdrufdtmk.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]6ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb36416617c590ac7eec92a4a5c00796a8931dfe</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/cVNqZBY1diI4fLUS6qIiVB7EDlW.jpg</thumbnail>
+</item> 
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]El Chapo[/B] [COLOR yellow][I](7.8)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/zydRgyG4J5aQkHUT9BvcIhW946J.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Série baseado na vida de Joaquín ‘El Chapo’ Guzmán, passando pela história sangrenta da guerra ás drogas que fragmentou as relações entre Estados Unidos e México através dos anos.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f6e69fd570ca82d2ed68c0801adaf3da1475fe2</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zydRgyG4J5aQkHUT9BvcIhW946J.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbe1adaeca84c4bf72cb44fdf48da33f906c459b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/7v8pSjstLAhElW6263xfz5DRgav.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]3ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77701bd7cb1f0d70373571255b4d125a03f29670</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4t9HJ5srQXK6Qf4KpDdqcToS27i.jpg</thumbnail>
+</item> 
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]O Reino Perdido dos Piratas[/B] [COLOR yellow][I](6.3)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]Nesta série documental, os piratas do Caribe da vida real roubam os tesouros do mundo e formam uma república surpreendentemente igualitária.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eec0f468f2525c262169b9bf68cef88b0b10e4a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg</thumbnail>
+</item> 
+
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Impuros[/B] [COLOR yellow][I](8.6)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/r9MgJJceXDfrbgQPO6ErdQIXXei.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR] No Rio dos anos 90, Evandro é um jovem da favela que tenta ganhar a vida honestamente. Porém, após a morte do irmão pela polícia, ele entra no mundo do tráfico buscando vingança.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bcb118d214f823798db6723506ffb614548e86e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/r9MgJJceXDfrbgQPO6ErdQIXXei.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B]2ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d2dd32a1c87e1c9e81da259845189949fc49564</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4zAtrolGNgRJsccgvJLxDRLa6wT.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
 <name>[B]Ragnarok [/B] [COLOR yellow][I](7.5)[/I][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
 <info>[COLOR cyan] Sinopse:[/COLOR]Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.</info>

@@ -10,6 +10,47 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[COLOR yellow][B]Sete Dias com Marilyn[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/moqBCJh5uqHKA4nA9fvPIe21gtn.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]A musa Marilyn Monroe (Michelle Williams) está em Londres pela primeira vez para filmar “O príncipe encantado”. Colin Clark (Eddie Redmayne), o jovem assistente do prestigiado cineasta e ator Laurence Olivier (Kenneth Branagh), sonha apenas em se tornar um diretor de cinema, mas logo viverá um romance com a mulher mais sexy do mundo. O que começa como uma aventura amorosa mudará a vida do ainda inocente Colin e revelará uma das várias facetas de um dos maiores mitos do século XX.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a684b004c7e8da0e0373d1e1c752eb68848718c</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/moqBCJh5uqHKA4nA9fvPIe21gtn.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe9d20f41ee4fd54a2f6f78540c6f3b821e7e55e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/moqBCJh5uqHKA4nA9fvPIe21gtn.jpg</thumbnail>
+</item>
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Retorno a Paloma[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/nSdlqY3v5yA6pytz9FuUERM5AWm.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Wolf é um índio americano, procurando pelo FBI por ter se vingado do assassino de sua mãe. Cash é um músico em crise, enfrentando um divórcio doloroso. Apesar de serem muito diferentes, estes dois homens tornam-se amigos, e percorrem as estradas americanas juntos, com suas motocicletas, buscando o lugar onde as cinzas da mãe de Wolf devem ser despejadas.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e0e587308ac9af5efe29ffe8c1595965ceba31b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nSdlqY3v5yA6pytz9FuUERM5AWm.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53e0f75864d21ae1c7b9469453a07acf7114cf6b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nSdlqY3v5yA6pytz9FuUERM5AWm.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
 <name>[COLOR yellow][B]Jornada da Vida[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/pl4j0vZuDzxzHwK5kgACRUMjhA2.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Em seu vilarejo no norte do Senegal, Yao é um garoto de 13 anos de idade disposto a tudo para encontrar o seu herói: Seydou Tall, um famoso ator francês. Convidado a promover o seu novo livro em Dakar, Tall retorna ao país de origem pela primeira vez. Para realizar o seu sonho, o jovem Yao prepara uma fuga e atravessa 387 quilômetros sozinho até a capital. Comovido com este jovem, o ator decide fugir às obrigações e acompanhá-lo de volta à sua casa. No entanto, pelas estradas empoeiradas e incertas do Senegal, Tall compreende que ao se dirigir ao vilarejo do garoto, ele também parte ao encontro de suas raízes.</info>

@@ -96,7 +96,22 @@
 </info>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>                                                     
+<channel>
+<name>[COLOR green]▲[/COLOR][B]Coletaneas[/B]</name>
+<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/sagas.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/trilogia%20torrent</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR yellow]Atualizado em[/COLOR]: 07/03[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 05 Sagas[/B]
+[B][COLOR red]Total[/COLOR]: 112 Sagas[/B]
 
+[B]Todas as coletaneas/sagas disponiveis para vc[/B]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <channels>
@@ -204,22 +219,7 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>                                                     
-<channel>
-<name>[COLOR green]▲[/COLOR][B]Sagas[/B]</name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/sagas.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/trilogia%20torrent</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-[B][COLOR yellow]Atualizado em[/COLOR]: 07/03[/B]
-[B][COLOR yellow]Adicionados[/COLOR]: 05 Sagas[/B]
-[B][COLOR red]Total[/COLOR]: 112 Sagas[/B]
 
-[B]Todas as sagas disponiveis para vc[/B]</info>
-</channel>
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>                                                     
 <channel>

@@ -1,6 +1,74 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[B]Invincible[/B] [COLOR yellow][I](8.8)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR] INVENCÍVEL é uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f67fd75f3759d1eac7c03349031be0a3d4666c8$$lsname=[B]Episodio 01 ao 03[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bb8050fd5437b3d2e2e7840a513111c6124ec00$$lsname=[B]Episodio 04[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad167b42e18e65e0fd42832385c8f559c862bf41$$lsname=[B]Episodio 05[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11caceba76be7ebeb9475c1e7d4144b6a4487d37$$lsname=[B]Episodio 06[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg</thumbnail>
+</item> 
+
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]Outros[/B] [COLOR yellow][B](6.6)[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/lvjdl7MOH9FUoI6JP4hQSzA3lBJ.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR]“Outros” é uma antologia que explora o terror nos EUA. A primeira temporada, “Exigências”, ambientada na década de 1950, gira em torno de uma família negra que se muda da Carolina do Norte para um bairro branco de Los Angeles durante o período conhecido como A Grande Migração. A idílica casa da família se torna o marco para forças malignas e sobrenaturais que ameaçam destruí-los.</info>
+
+<item>
+<title>[B]1ª Temporada - Legendada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a64b01a8bb143f6d9c93692952edd62ab6c81df</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/lvjdl7MOH9FUoI6JP4hQSzA3lBJ.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]1ª Temporada - 4k Legendada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c42fcbf3731e1e7347eca777e8d70d2fb28bec4d</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/lvjdl7MOH9FUoI6JP4hQSzA3lBJ.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[B]A Descoberta das Bruxas[/B] [COLOR yellow][I](8.1)[/I][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/puVppuUIip7KheJrPxK7ZXIH3Jq.jpg</thumbnail>
+<info>[COLOR cyan] Sinopse:[/COLOR] Diana Bishop, historiadora e bruxa, embarca em uma jornada mágica após descobrir um manuscrito em Oxford. Para proteger o livro, ela conta com a ajuda de um vampiro misterioso.</info>
+
+<item>
+<title>[B]1ª Temporada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce40abd92c641be88e06aae12de609601e123e91</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/yOyr6oYhEGNwc90iiDCm4t7U2uj.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]2ª Temporada - Legendada[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:157fd9e9141786789045e6a000fa857d76b4ea90</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/puVppuUIip7KheJrPxK7ZXIH3Jq.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
 <name>[B]Falcão e o Soldado Invernal[/B] [COLOR yellow][I](8.0)[/I][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg</thumbnail>
 <info>[COLOR cyan] Sinopse:[/COLOR] Após os eventos de “Vingadores: Ultimato”, Sam Wilson/Falcão e Bucky Barnes/Soldado Invernal se unem em uma aventura que testa suas habilidades – e a paciência.</info>

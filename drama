@@ -10,6 +10,64 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels></channels>
 <channel>
+<name>[COLOR yellow][B]O Bom Vizinho[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/fKR4eXE4uLjjsFumwKdVBcy4MKk.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B] Uma dupla de crianças travessas do ensino médio criam a ilusão de uma assombração sobre um vizinho Suspeito. Embora mantendo a cada reação sob vigilância, eles vêem muito mais do que esperava.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e35e23234a6c215b82847621963dd7004fcd356$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1088d228c015afa45c33c64ac65adc7ea116ce9b$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fKR4eXE4uLjjsFumwKdVBcy4MKk.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:416f194de85efde3601fb0b44f4266256a2ed2af</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fKR4eXE4uLjjsFumwKdVBcy4MKk.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Código de Silêncio[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/zNW48KyCe9Dk4ZNv56yYHGa3xGg.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B]Código de Silêncio segue o processo seletivo da fraternidade Lambda Lambda Phi de uma prestigiada universidade americana. Com uma perspectiva realista e voyerística, tudo é visto pelos olhos de um candidato dividido entre honrar as regras do grupo ou se levantar contra a crescente violência dos trotes. Com atuação extraordinária de Trevor Jackson, o longa de estreia do diretor Gerard McMurray lança um olhar sincero para as clássicas histórias sobre os ritos de passagem dos jovens americanos e os complicados laços que unem seus participantes.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28cecf8a1b9c3c57cb050c41b86fece5cfe2db53$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36e615ec2d3f7a9bb2552ddf0cc450c6aa62356c$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/zNW48KyCe9Dk4ZNv56yYHGa3xGg.jpg</thumbnail>
+</item> 
+</channel>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
+<name>[COLOR yellow][B]Um Ato de Coragem[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w342/4dzUm8R4lnwqNfO56lhVAsFZQH5.jpg</thumbnail>
+<info>[B][COLOR red]Sinopse:[/COLOR][/B] John Q. Archibald é um homem comum, que trabalha em uma fábrica e vive feliz com sua esposa Denise e seu filho Michael. Até que Michael fica gravemente doente, necessitando com urgência de um transplante de coração para sobreviver. Sem ter condições de pagar pela operação e com o plano de saúde de sua família não cobrindo tais gastos, John Q. se vê então numa luta contra o tempo pela sobrevivência de seu filho. Em uma atitude desesperada, ele então decide tomar como refém todo o setor de emergência de um hospital, passando a discutir uma solução para o caso com um negociador da polícia e com um impaciente chefe de polícia, que deseja encerrar o caso o mais rapidamente possível.</info>
+
+<item>
+<title>[B]Dublado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cd72a5303c3804e808061d93d7a8c6c94deb9ab$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d6e9397f9ba23ed0ce09f378ee5844a9563fdd5$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4dzUm8R4lnwqNfO56lhVAsFZQH5.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[B]Legendado[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:028769f90d6fb34c6eed2ee17f10ca3975ba8b23</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/4dzUm8R4lnwqNfO56lhVAsFZQH5.jpg</thumbnail>
+</item>
+</channel>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels></channels>
+<channel>
 <name>[COLOR yellow][B]Os Infiltrados[/B][/COLOR] [COLOR cyan]| [B]Dublado[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w342/sYvVVXvQLIjXl2WLMjEo7UFGf8Y.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B] Billy Costigan, um jovem policial, recebe a missão de se infiltrar na máfia, mais especificamente no grupo comandado por Frank Costello. Billy conquista sua confiança ao mesmo tempo em que Colin Sullivan, um criminoso que atuou na polícia como informante de Costello, também ascende dentro da corporação. Tanto Billy quanto Colin se sentem aflitos devido à vida dupla que levam. Mas quando a máfia e a polícia descobrem que há um espião entre eles, a vida de ambos passa a correr perigo.</info>

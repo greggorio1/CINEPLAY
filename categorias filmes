@@ -254,6 +254,19 @@
 
 
 
+<channels>                                                     
+<channel>
+<name>[B]Teste[/B]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/TESTE%20MATRIX</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+teste para kodi matrix</info>
+</channel>
+</channels>
+
+
+
 
 
 

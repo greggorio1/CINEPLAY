@@ -11,7 +11,22 @@
 <title>[COLOR yellow][B]O Animal Cordial[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/5MKLyUWxri8ePW5wM1Wpdgqj5M7.jpg</thumbnail>
 <info>[B][COLOR red]Sinopse:[/COLOR][/B]Um restaurante de classe média em São Paulo é invadido, no fim do expediente, por dois ladrões armados. O dono do estabelecimento, o cozinheiro, uma garçonete e três clientes são rendidos. Entre a cruz e a espada, Inácio – o homem pacato, o chefe amistoso e cordial – precisa agir para defender seu restaurante e seus clientes dos assaltantes.</info>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54c444bb475938dbac6f245b19e134e238b78d92$$lsname=[COLOR white][B]1080p[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:844783a609b3516468a8103297c6831a0e264d5c$$lsname=[COLOR white][B]720p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54c444bb475938dbac6f245b19e134e238b78d92$$nome=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:844783a609b3516468a8103297c6831a0e264d5c$$nome=[COLOR white][B]720p[/B][/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/5MKLyUWxri8ePW5wM1Wpdgqj5M7.jpg</thumbnail>
 </item> 
+
+
+<item>
+
+<title>[B][COLOR yellow]O Vendedor de Linguiça (1962)[/COLOR][/B] </title>
+<thumbnail>https://image.tmdb.org/t/p/w342/arkiWJjZMlLqtNqS7kljtaN7v9o.jpg</thumbnail>
+<info> 
+História de um vendedor de linguiças (Amácio Mazzaropi), um homem simples às voltas com problemas de ordem familiar, adaptação ao meio e outros “bichos”. Flora (Ilena de Castro) é empregada e rouba roupas de sua patroa para aparentar rica e conquistar um namorado da elite social. No entanto, ela e sua família são presos e vão parar na delegacia. O rapaz rico, Pierre (Amilton Fernandes), trama um passeio para Santos no intuito de encontrá-la e sua mãe tenta impedir o casamento, mas acaba aceitando. Por causa das diferenças de classe cada vez mais postas em evidência, a união é rompida. Todavia, arrependido, o jovem rico novamente desfaz a confusão e a harmonia volta a imperar.</info>
+
+
+<title>Dublado</title>
+--<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:848951afcd1556b38af5306640b275ab01ab60c5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kjTuURI5M9iwOoXsNcL5irtBGbw.jpg</thumbnail>
+
+</item>

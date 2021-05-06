@@ -1,12 +1,31 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]4k[/B] </name>
-<thumbnail>https://www.copeltelecom.com/site/wp-content/uploads/2016/11/iStock-504448596.jpg</thumbnail>
+<thumbnail>https://image.freepik.com/vetores-gratis/icone-de-4k-ultra-hd_79145-197.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/4k</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 [B][COLOR red]Total[/COLOR]: 281 Filmes[/B]
 </info>
+</channel>
+</channels>
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR green]▲[/COLOR][B]3D[/B]</name>
+<thumbnail>http://s.glbimg.com/po/tt/f/original/2013/06/14/samsung3d-620px.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/3D</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B][COLOR yellow]Atualizado em[/COLOR]: 03/05[/B]
+[B][COLOR yellow]Adicionados[/COLOR]: 00 Filmes[/B]
+[B][COLOR red]Total[/COLOR]: 80 Filmes[/B]
+
+
+[B]Tenha uma experiencia incrivel dentro da sua casa[/B]</info>
 </channel>
 </channels>
 

@@ -1,12 +1,12 @@
 <channels>
 <channel>
-<name>                 [B]!!!ADDON DESCONTINUADO!!![/B]</name>
+<name>                 [B]!!!ESTAMOS DE VOLTA!!![/B]</name>
 <thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/bem%20vindo.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 
-[B]Entretanto,deixarei todos os links funcionais! Não havera mais atualização para essa versao do meu addon! Esse addon é feito por uma só pessoa e por isso, me falta tempo para atualizar as versões (Caso alguem queira ajudar,me chame no messenger)...[/B]
+[B]Tentarei manter os links atualizados para as duas versoes[/B]
 
 
 [COLOR red][B] Esse addon nao tem tv ao vivo. Mas temos um serviço p2p,sem travas e sem dor de cabeca,com preço especial para usuarios do addon "The Pirate Br+"!  [/B][/COLOR] Contato: (11) 9 3219-4202
@@ -36,7 +36,7 @@
 
 <channels>
 <channel>
-<name>[COLOR cyan]▲[/COLOR][B]Filmes[/B]</name>
+<name>[COLOR green]▲[/COLOR][B]Filmes[/B]</name>
 <thumbnail>https://ia601505.us.archive.org/18/items/filmes_202101/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20filmes</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -54,9 +54,9 @@
 
 <channels>
 <channel>
-<name>[COLOR red]▼[/COLOR][B]Séries[/B] (atualizando links)</name>
+<name>[COLOR green]▲[/COLOR][B]Séries[/B] (atualizando links)</name>
 <thumbnail>https://ia601505.us.archive.org/18/items/filmes_202101/seriesss.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20serie</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 [B]Series das mais variadas plataformas,para vc e sua familia[/B]</info>

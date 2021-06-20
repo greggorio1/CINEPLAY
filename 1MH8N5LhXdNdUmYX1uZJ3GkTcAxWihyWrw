@@ -1,19 +1,11 @@
 <channels>
 <channel>
-<name>                 [B]!!!ESTAMOS DE VOLTA!!![/B]</name>
+<name>                 [B]!!!DESCONTINUADO!!![/B]</name>
 <thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/bem%20vindo.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
 
-[B]Tentarei manter os links atualizados para as duas versoes[/B]
-
-
-[COLOR red][B] Esse addon nao tem tv ao vivo. Mas temos um serviço p2p,sem travas e sem dor de cabeca,com preço especial para usuarios do addon "The Pirate Br+"!  [/B][/COLOR] Contato: (11) 9 3219-4202
-
-
-[B]Para rodar os arquivos,é necessario a instalaçao do addon [COLOR yellow]ELEMENTUM[/COLOR][/B]!
-
 
 
 
@@ -34,47 +26,3 @@
 
 
 
-<channels>
-<channel>
-<name>[COLOR green]▲[/COLOR][B]Filmes[/B]</name>
-<thumbnail>https://ia601505.us.archive.org/18/items/filmes_202101/FILMES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20filmes</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-[B]Filmes dos mais variados generos,para vc e sua familia[/B]
-
-
-</info>
-</channel>
-</channels>
-
-
----------
-
-
-<channels>
-<channel>
-<name>[COLOR green]▲[/COLOR][B]Séries[/B] (atualizando links)</name>
-<thumbnail>https://ia601505.us.archive.org/18/items/filmes_202101/seriesss.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20serie</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-[B]Series das mais variadas plataformas,para vc e sua familia[/B]</info>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>[COLOR red]▼[/COLOR][B]Shows[/B] | [COLOR cyan][B]Em Breve[/B][/COLOR]</name>
-<thumbnail>https://studiosol-a.akamaihd.net/tb/letras-blog/wp-content/uploads/2019/04/5a78f4c-shows_internacionais.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-
-[B]Shows via Torrent,dos mais variados generos. Desde musica,até Stand-up[/B]
-
-
-</info>
-</channel>
-</channels>

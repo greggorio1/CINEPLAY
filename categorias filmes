@@ -6,7 +6,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Sessão Especial[/B]</name>
-<thumbnail>https://i.ytimg.com/vi/yUeVglfeS-s/hqdefault.jpg</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_especial.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/4k.%20imax.%20remux.</externallink>
 <fanart>https://i0.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2018/01/Sess%C3%A3o-Especial.jpg?fit=900%2C330&ssl=1</fanart>
 <info>
@@ -23,7 +23,7 @@
 <channels>
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Lançamentos[/B]</name>
-<thumbnail>https://ia601504.us.archive.org/33/items/bem-vindo_20210121/lan%C3%A7amento.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/Thumb_lan%C3%A7amentos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/lancamentos.txt</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -54,7 +54,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Ação[/B]</name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/a%C3%A7ao.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_action.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/A%C3%A7%C3%A3o</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -72,7 +72,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Animação[/B] </name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/anima%C3%A7%C3%A3o.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_anima%C3%A7%C3%A3o.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Anima%C3%A7%C3%A3o</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -88,7 +88,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Classicos[/B]</name>
-<thumbnail>https://cdn.iset.io/assets/55268/produtos/14838/thumb_600-600-adesivo-de-parede-camera-retro-com-clipe-de-filme-1.jpg</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_cl%C3%A1ssicos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Classicos</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -105,7 +105,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Coletaneas[/B]</name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/sagas.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_coletaneas.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/sagas.txt</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -121,7 +121,7 @@
 <channels>
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Comédia[/B]</name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/com%C3%A9dia.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_com%C3%A9dia.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Com%C3%A9dia</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -139,7 +139,7 @@
 <channels>
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Documentarios[/B]</name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/doc.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_documentario.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Documentarios</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -155,7 +155,7 @@
 <channels>
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Drama/Religioso[/B]</name>
-<thumbnail>https://ia801505.us.archive.org/18/items/filmes_202101/drama.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_drama.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/drama</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -168,7 +168,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Ficção Cientifica[/B][COLOR cyan]▲[/COLOR] </name>
-<thumbnail>https://ibcdn.canaltech.com.br/ARZMb8R8NLjM5Bs1xmCE9E8t0Kw=/512x288/smart/i3882.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_sci_fi.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Ficcao%20Cientifica</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -183,7 +183,7 @@
 <channels>
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Guerra[/B] </name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/guerra.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_guerra.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Guerra</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -199,7 +199,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Nacional[/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_nacional.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Nacional</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -218,7 +218,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Romance/Comédia Romantica[/B]</name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/romance.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_romance.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/roman</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>
@@ -234,7 +234,7 @@
 <channels>                                                     
 <channel>
 <name>[COLOR green]▲[/COLOR][B]Terror/Suspense[/B]</name>
-<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/TERROR.png</thumbnail>
+<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_Terror.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Terror</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
 <info>

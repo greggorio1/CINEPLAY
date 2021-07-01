@@ -5,11 +5,11 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Sessão Especial[/B]</name>
+<name>[B]Sessão Especial[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_especial.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/4k.%20imax.%20remux.</externallink>
 <fanart>https://i0.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2018/01/Sess%C3%A3o-Especial.jpg?fit=900%2C330&ssl=1</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B]Categoria para quem deseja assistir filmes Indicados ao OSCAR / 4K / 3D / IMAX ou REMUX![/B]
 
 
@@ -22,11 +22,11 @@
 
 <channels>
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Lançamentos[/B]</name>
+<name>[B]Lançamentos[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/Thumb_lan%C3%A7amentos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/lancamentos.txt</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 25/06[/B]
 
 [B][COLOR cyan]Destaques[/COLOR][/B]:
@@ -53,11 +53,11 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Ação[/B]</name>
+<name>[B]Ação[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_action.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/A%C3%A7%C3%A3o</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 06/06[/B]
 
 
@@ -71,11 +71,11 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Animação[/B] </name>
+<name>[B]Animação[/B] </name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_anima%C3%A7%C3%A3o.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Anima%C3%A7%C3%A3o</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 23/06[/B]
 
 
@@ -87,11 +87,11 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Classicos[/B]</name>
+<name>[B]Classicos[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_cl%C3%A1ssicos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Classicos</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 01/03[/B]
 
 [COLOR yellow]Filmes que marcaram época no cinema entre[/COLOR] [B][COLOR red]1920 á 2000.[/COLOR][/B]
@@ -104,11 +104,11 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Coletaneas[/B]</name>
+<name>[B]Coletaneas[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_coletaneas.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/sagas.txt</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 28/05[/B]
 
 
@@ -120,11 +120,11 @@
 
 <channels>
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Comédia[/B]</name>
+<name>[B]Comédia[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_com%C3%A9dia.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Com%C3%A9dia</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 24/06[/B]
 
 
@@ -138,11 +138,11 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Documentarios[/B]</name>
+<name>[B]Documentarios[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_documentario.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Documentarios</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 09/02[/B]
 
 
@@ -154,11 +154,11 @@
 
 <channels>
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Drama/Religioso[/B]</name>
+<name>[B]Drama/Religioso[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_drama.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/drama</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 29/06[/B]
 </info>
 </channel>
@@ -167,11 +167,11 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Ficção Cientifica[/B][COLOR cyan]▲[/COLOR] </name>
+<name>[B]Ficção Cientifica[/B][COLOR cyan]▲[/COLOR] </name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_sci_fi.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Ficcao%20Cientifica</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 06/06[/B]
 
 </info>
@@ -182,11 +182,11 @@
 
 <channels>
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Guerra[/B] </name>
+<name>[B]Guerra[/B] </name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_guerra.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Guerra</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 29/06[/B]
 
 
@@ -198,11 +198,11 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Nacional[/B]</name>
+<name>[B]Nacional[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_nacional.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Nacional</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 29/06[/B]
 
 
@@ -217,11 +217,11 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Romance/Comédia Romantica[/B]</name>
+<name>[B]Romance/Comédia Romantica[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_romance.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/roman</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 28/06[/B]
 
 
@@ -233,11 +233,11 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR green]▲[/COLOR][B]Terror/Suspense[/B]</name>
+<name>[B]Terror/Suspense[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_Terror.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Terror</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
+<info>[COLOR green]▲[/COLOR]ONLINE
 [B][COLOR yellow]Atualizado em[/COLOR]: 29/06[/B]
 
 

@@ -1,37 +1,62 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR green][B]Pedidos[/B][/COLOR]</name>
+<name>[COLOR green][B]PEDIDOS[/B][/COLOR]</name>
 <thumbnail>https://www.superflix.net/wp-content/uploads/2019/10/series-filmes-novidades-superflix-300x300.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/Pedidos</externallink>
 <fanart>https://popcultura.com.br/wp-content/uploads/2016/08/13895353_1183495881707203_2382851355327160754_n-1-770x472.jpg</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
 [B]Area destinada a pedidos de filmes que [COLOR yellow]NÃO ESTEJAM[/COLOR] no addon![/B]
-
 </info>
 </channel>
 </channels>
 
-
 <channels>                                                     
 <channel>
-<name>[B][COLOR yellow]TOP 10 DA SEMANA[/COLOR][/B]</name>
+<name>[B][COLOR green]TOP 10 DA SEMANA[/COLOR][/B]</name>
 <thumbnail>https://st2.depositphotos.com/1579454/11358/i/950/depositphotos_113585834-stock-photo-top-10-ten-award-cup.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/top%2010%20da%20semana</externallink>
 <fanart>https://i.ytimg.com/vi/31nOMbQElQY/maxresdefault.jpg</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
 
 [B]10 FILMES DE CADA GENERO ESCOLHIDOS POR PESSOAS ALEATORIAS.[/B]
-
 </info>
 </channel>
 </channels>
 
 
+<channels>
+<channel>
+<name>[B][COLOR green]FILMES EM 3D[/COLOR][/B]</name>
+<thumbnail>http://s.glbimg.com/po/tt/f/original/2013/06/14/samsung3d-620px.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/3d.txt</externallink>
+<fanart>https://www.zoommagazine.com.br/wp-content/uploads/2016/12/3d_movie-700x438.jpg</fanart>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+
+[B][COLOR red]Total[/COLOR]: 129 Filmes[/B]
+[B]Função 3D apenas funciona em windows ou em tv 3D. KODI retirou a função para android[/B]</info>
+</channel>
+</channels>
+
+
+<channels>                                                     
+<channel>
+<name>[B][COLOR green]FILMES EM 4K[/B] </name>
+<thumbnail>https://image.freepik.com/vetores-gratis/icone-de-4k-ultra-hd_79145-197.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/4k_categoria</externallink>
+<fanart>https://ak.picdn.net/shutterstock/videos/7872412/thumb/3.jpg</fanart>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+[B][COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!![/B]
+[B][COLOR red]●[/COLOR]Arquivos com mais de 30gb[/B]
+[B][COLOR red]●[/COLOR]Ajuste o buffer da sua box[/B]
+</info>
+</channel>
+</channels>
+
 
 <channels>
 <channel>
-<name>[B]Lançamentos[/B]</name>
+<name>[B]LANÇAMENTOS[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/Thumb_lan%C3%A7amentos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/lancamentos.txt</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -59,7 +84,7 @@
 
 <channels>                                                     
 <channel>
-<name>[B]Ação[/B]</name>
+<name>[B]AÇÃO[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_action.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/A%C3%A7%C3%A3o</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -77,7 +102,7 @@
 
 <channels>                                                     
 <channel>
-<name>[B]Animação[/B] </name>
+<name>[B]ANIMAÇÃO[/B] </name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_anima%C3%A7%C3%A3o.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Anima%C3%A7%C3%A3o</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -93,7 +118,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[B]Classicos[/B]</name>
+<name>[B]CLASSICOS[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_cl%C3%A1ssicos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Classicos</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -110,7 +135,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>                                                     
 <channel>
-<name>[B]Coletaneas[/B]</name>
+<name>[B]COLETANEAS[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_coletaneas.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/sagas.txt</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -126,7 +151,7 @@
 
 <channels>
 <channel>
-<name>[B]Comédia[/B]</name>
+<name>[B]COMÉDIA[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_com%C3%A9dia.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Com%C3%A9dia</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -143,7 +168,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[B]Curta-Metragem[/B] </name>
+<name>[B]CURTA-METRAGEM[/B] </name>
 <thumbnail>https://thumbs.dreamstime.com/b/conceito-do-cinema-com-cubeta-de-papel-com-fita-da-pipoca-e-do-filme-41160365.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/Curta-metragem</externallink>
 <fanart>http://patosverdade.com/images/fotos_p2_news/1597269095.jpg</fanart>
@@ -161,7 +186,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[B]Documentarios[/B]</name>
+<name>[B]DOCUMENTARIOS[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_documentario.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Documentarios</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -177,7 +202,7 @@
 
 <channels>
 <channel>
-<name>[B]Drama/Religioso[/B]</name>
+<name>[B]DRAMA/HISTORIA[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_drama.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/drama</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -190,7 +215,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[B]Ficção Cientifica[/B][COLOR cyan]▲[/COLOR] </name>
+<name>[B]SCI-FI[/B][COLOR cyan]▲[/COLOR] </name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_sci_fi.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Ficcao%20Cientifica</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -205,7 +230,7 @@
 
 <channels>
 <channel>
-<name>[B]Guerra[/B] </name>
+<name>[B]GUERRA[/B] </name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_guerra.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Guerra</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -221,7 +246,7 @@
 
 <channels>                                                     
 <channel>
-<name>[B]Nacional[/B]</name>
+<name>[B]NACIONAL[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_nacional.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Nacional</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -240,7 +265,7 @@
 
 <channels>                                                     
 <channel>
-<name>[B]Romance/Comédia Romantica[/B]</name>
+<name>[B]ROMANCE/COMÉDIA ROMANTICA[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_romance.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/roman</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -256,7 +281,7 @@
 
 <channels>                                                     
 <channel>
-<name>[B]Terror/Suspense[/B]</name>
+<name>[B]TERROR/SUSPENSE[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_Terror.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/Terror</externallink>
 <fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
@@ -272,7 +297,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[B]Sessão Especial[/B]</name>
+<name>[B]SESSÃO ESPECIAL[/B]</name>
 <thumbnail>https://archive.org/download/thumb-lancamentos/thumb_especial.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/4k.%20imax.%20remux.</externallink>
 <fanart>https://i0.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2018/01/Sess%C3%A3o-Especial.jpg?fit=900%2C330&ssl=1</fanart>

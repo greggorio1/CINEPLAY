@@ -25,34 +25,6 @@
 </channels>
 
 
-<channels>
-<channel>
-<name>[B][COLOR white]Filmes Em[/COLOR][/B] [COLOR yellow][B]3D[/COLOR][/B]</name>
-<thumbnail>http://s.glbimg.com/po/tt/f/original/2013/06/14/samsung3d-620px.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/3d.txt</externallink>
-<fanart>https://www.zoommagazine.com.br/wp-content/uploads/2016/12/3d_movie-700x438.jpg</fanart>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
-
-[B][COLOR red]Total[/COLOR]: 129 Filmes[/B]
-[B]Função 3D apenas funciona em windows ou em tv 3D. KODI retirou a função para android[/B]</info>
-</channel>
-</channels>
-
-
-<channels>                                                     
-<channel>
-<name>[B][COLOR white]Filmes Em[/COLOR][/B] [COLOR yellow][B]4K[/COLOR][/B]</name>
-<thumbnail>https://image.freepik.com/vetores-gratis/icone-de-4k-ultra-hd_79145-197.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/4k_categoria</externallink>
-<fanart>https://ak.picdn.net/shutterstock/videos/7872412/thumb/3.jpg</fanart>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
-[B][COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!![/B]
-[B][COLOR red]●[/COLOR]Arquivos com mais de 30gb[/B]
-[B][COLOR red]●[/COLOR]Ajuste o buffer da sua box[/B]
-</info>
-</channel>
-</channels>
-
 
 <channels>
 <channel>
@@ -294,19 +266,81 @@
 </channels>
 
 
+<channels>                                                     
+<channel>
+<name>[B][COLOR white]Filmes Em[/COLOR][/B] [COLOR yellow][B]4K[/COLOR][/B]</name>
+<thumbnail>https://image.freepik.com/vetores-gratis/icone-de-4k-ultra-hd_79145-197.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/4k_categoria</externallink>
+<fanart>https://ak.picdn.net/shutterstock/videos/7872412/thumb/3.jpg</fanart>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+[B][COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!![/B]
+[B][COLOR red]●[/COLOR]Arquivos com mais de 30gb[/B]
+[B][COLOR red]●[/COLOR]Ajuste o buffer da sua box[/B]
+</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[B][COLOR white]Filmes Em[/COLOR][/B] [COLOR yellow][B]3D[/COLOR][/B]</name>
+<thumbnail>http://s.glbimg.com/po/tt/f/original/2013/06/14/samsung3d-620px.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/3d.txt</externallink>
+<fanart>https://www.zoommagazine.com.br/wp-content/uploads/2016/12/3d_movie-700x438.jpg</fanart>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+
+[B][COLOR red]Total[/COLOR]: 129 Filmes[/B]
+[B]Função 3D apenas funciona em windows ou em tv 3D. KODI retirou a função para android[/B]</info>
+</channel>
+</channels>
+
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[B]SESSÃO ESPECIAL[/B]</name>
-<thumbnail>https://archive.org/download/thumb-lancamentos/thumb_especial.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/4k.%20imax.%20remux.</externallink>
-<fanart>https://i0.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2018/01/Sess%C3%A3o-Especial.jpg?fit=900%2C330&ssl=1</fanart>
-<info>[COLOR green]▲[/COLOR]ONLINE
-[B]Categoria para quem deseja assistir filmes Indicados ao OSCAR / IMAX ou REMUX![/B]
+<name>[B][COLOR white]Filmes[/COLOR][/B] [COLOR yellow][B]OSCAR[/COLOR][/B]</name>
+<thumbnail>https://gringopotpourri.files.wordpress.com/2020/02/oscars-2020-logo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/Oscar%20categoria</externallink>
+<fanart>https://www.nic.lat/wp-content/uploads/2021/03/oscars-lat-1.jpg</fanart>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+[B]Filmes indicados e vencedores do Oscar,entre 2000/2021[/B]
+
+[B][COLOR yellow]Atualizado em[/COLOR]: ??/06[/B]
+</info>
+</channel>
+</channels>
 
 
-[B][COLOR yellow]Atualizado em[/COLOR]: 17/06[/B]
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>                                                     
+<channel>
+<name>[B][COLOR white]Filmes Em[/COLOR][/B] [COLOR yellow][B]IMAX[/COLOR][/B]</name>
+<thumbnail>https://assets.b9.com.br/wp-content/uploads/2018/09/imax-b9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/imax.txt</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+
+[B]Aba feita para as tvs que nao suportam [COLOR cyan]4K(3840X2160)[/COLOR]! Filmes aqui estao em [COLOR cyan]IMAX ULTRA FULL HD (1980x1080)[/COLOR][/B]
+[B][COLOR red]Total[/COLOR]: 40 Filmes[/B]
+</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>                                                     
+<channel>
+<name>[B][COLOR white]Filmes Em[/COLOR][/B] [COLOR yellow][B]REMUX[/COLOR][/B]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVL1FH2iNbBGivUOCr8de2inWeIgWfknYUujNVD5Ac4du-RMvamWbzqypkDLbOSbzlKBQ&usqp=CAU</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/Piratebr-k19/main/remux.txt</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+
+[B][COLOR red]Total[/COLOR]: 45 Filmes[/B]
+
+[B][COLOR cyan] Remux[/COLOR] tem a qualidade total, sem nenhuma perda de qualidade.[/B]
+
+[B][COLOR yellow]Necessario[/COLOR]:Ajuste de buffer / bom processador /boa internet(+50mb)[/B]
 </info>
 </channel>
 </channels>

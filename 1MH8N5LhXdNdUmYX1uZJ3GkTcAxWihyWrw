@@ -3,48 +3,4 @@
 
 
 
-<channels>
-<channel>
-<name>[COLOR green]▲[/COLOR][B]FILMES[/B]</name>
-<thumbnail>https://archive.org/download/filmes-cate/Filmes_cate.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20filmes</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-[B]Filmes dos mais variados generos,para vc e sua familia[/B]
-
-
-</info>
-</channel>
-</channels>
-
-
----------
-
-
-<channels>
-<channel>
-<name>[COLOR green]▲[/COLOR][B]SÉRIES[/B]</name>
-<thumbnail>https://archive.org/download/filmes-cate/Series_cate.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20serie</externallink>
-<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
-<info>
-[B]Series das mais variadas plataformas,para vc e sua familia[/B]</info>
-
-[B][COLOR red]Atenção[/COLOR][/B]: [B]Só seram adiconados series por pedidos na nova pagina do face[/B]
-
-</channel>
-</channels>
-
-
-
-
-
-
-
-
-
-
-
-
-
 

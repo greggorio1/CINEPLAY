@@ -1,6 +1,54 @@
 
+<channels>
+<channel>
+<name>[B]LEIA[/B]</name>
+<thumbnail>https://ia801504.us.archive.org/33/items/bem-vindo_20210121/bem%20vindo.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]Para rodar os arquivos,é necessario a instalaçao do addon [COLOR yellow]ELEMENTUM[/COLOR][/B]!
+
+Assine nosso sistema de canais [B][COLOR yellow]P2P[/COLOR][/B]!! Entre em contato pelo [B][COLOR yellow]email: brthepirate@gmail.com[/COLOR][/B] ou atraves do nosso facebook
+
+[COLOR green]▲[/COLOR] [B]Online[/B]
+[COLOR yellow]►[/COLOR] [B]Atualizando[/B]
+[COLOR red]▼[/COLOR] [B]Offline[/B]
+
+</info>
+</channel>
+</channels>
 
 
+<channels>
+<channel>
+<name>[COLOR green]▲[/COLOR][B]FILMES[/B]</name>
+<thumbnail>https://archive.org/download/filmes-cate/Filmes_cate.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20filmes</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]Filmes dos mais variados generos,para vc e sua familia[/B]
 
+
+</info>
+</channel>
+</channels>
+
+
+---------
+
+
+<channels>
+<channel>
+<name>[COLOR green]▲[/COLOR][B]SÉRIES[/B]</name>
+<thumbnail>https://archive.org/download/filmes-cate/Series_cate.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/greggorio1/CINEPLAY/master/categorias%20serie</externallink>
+<fanart>https://dev.observatoriodocinema.bol.uol.com.br/wp-content/uploads/2019/10/Netflix.jpg</fanart>
+<info>
+[B]Series das mais variadas plataformas,para vc e sua familia[/B]</info>
+
+[B][COLOR red]Atenção[/COLOR][/B]: [B]Só seram adiconados series por pedidos na nova pagina do face[/B]
+
+</channel>
+</channels>
 
 
